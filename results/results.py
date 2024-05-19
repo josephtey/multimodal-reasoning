@@ -1,4 +1,5 @@
 import json
+import argparse
 
 
 def calculate_accuracy(results_file):
@@ -22,8 +23,16 @@ def calculate_accuracy(results_file):
     return accuracy, total_items
 
 
-# Example usage
-results_file = "results.json"
-accuracy, total_items = calculate_accuracy(results_file)
-print(f"Accuracy: {accuracy:.2f}%")
-print(f"Total items: {total_items}")
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Calculate accuracy from results file."
+    )
+    parser.add_argument(
+        "--file", type=str, required=True, help="Path to the results file."
+    )
+    args = parser.parse_args()
+
+    results_file = args.file
+    accuracy, total_items = calculate_accuracy(results_file)
+    print(f"Accuracy: {accuracy:.2f}%")
+    print(f"Total items: {total_items}")
