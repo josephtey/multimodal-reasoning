@@ -1,0 +1,12 @@
+[
+{
+    "sample_index": 1,
+    "problem_index": "1",
+    "problem_version": "Text Lite",
+    "question": "As shown in the figure, it is known that angle A = 80.0, angle B = 60.0, DE parallel BC, then the size of angle CED is ()\nChoices:\nA:40\u00b0\nB:60\u00b0\nC:120\u00b0\nD:140\u00b0",
+    "answer": "D",
+    "question_type": "multi-choice",
+    "image": "9NJqo7CRVsppicQEgeeCZ8.png",
+    "predicted_answer": "A:40\u00b0",
+    "extracted_answer": "A"
+},
