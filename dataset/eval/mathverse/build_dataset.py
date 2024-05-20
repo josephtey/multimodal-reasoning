@@ -1,19 +1,23 @@
 import shortuuid
 from datasets import load_dataset
 from PIL import Image
-import random
 import json
 import tqdm
 import os
 
 ds = load_dataset("AI4Math/MathVerse", "testmini")
-data = []
 
 image_path = "images/"
-data_path = "mathverse_visual_only.json"
+data_path = "mathverse.json"
 
-for sample_index, sample in enumerate(tqdm.tqdm(ds["testmini"])):
-    if sample.get("problem_version") == "Vision Only":
+# Create the images directory if it doesn't exist
+os.makedirs(image_path, exist_ok=True)
+
+# Open the JSON file in append mode
+with open(data_path, "a") as f:
+    f.write("[\n")  # Start the JSON array
+
+    for sample_index, sample in enumerate(tqdm.tqdm(ds["testmini"])):
         uuid = shortuuid.uuid()
         sample_dict = {
             "sample_index": sample_index,
@@ -27,7 +31,12 @@ for sample_index, sample in enumerate(tqdm.tqdm(ds["testmini"])):
         # Convert image to RGB before saving as PNG
         sample_image = sample["image"].convert("RGB")
         sample_image.save(os.path.join(image_path, uuid + ".png"))
-        data.append(sample_dict)
 
-with open(data_path, "w") as f:
-    json.dump(data, f, indent=4)
+        # Append the sample_dict to the JSON file
+        json.dump(sample_dict, f, indent=4)
+        if sample_index < len(ds["testmini"]) - 1:
+            f.write(",\n")  # Add a comma after each item except the last one
+
+    f.write("\n]")  # End the JSON array
+
+print(f"Length of the output data: {len(ds['testmini'])}")
