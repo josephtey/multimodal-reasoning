@@ -1,4 +1,4 @@
 venv/
-**/images/
+**/raw_data/
 models/
-
+.env
