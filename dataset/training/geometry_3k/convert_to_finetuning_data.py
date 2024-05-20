@@ -16,7 +16,7 @@ transformed_data = []
 for entry in data:
     transformed_entry = {
         "id": entry["image_id"],
-        "image": entry["image_id"],
+        "image": entry["image_id"] + ".png",
         "conversations": [
             {
                 "from": "human",
