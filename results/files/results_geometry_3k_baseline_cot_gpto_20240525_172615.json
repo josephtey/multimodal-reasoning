@@ -1,0 +1,192 @@
+[
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "30",
+        "60",
+        "120",
+        "240"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
+    "predicted_answer": "To find the area of the triangle, we can use the formula for the area of a triangle \\( A = \\frac{1}{2} \\times \\text{base} \\times \\text{height} \\).\n\nWe know the base of the triangle is 10 units. We need to find the height of the triangle.\n\nSince the triangle is isosceles (both sides 13 units), we can apply the Pythagorean theorem to find the height \\( h \\):\n\nUsing one-half of the base (\\(\\frac{10}{2} = 5\\)):\n\n\\[\n13^2 = 5^2 + h^2 \n\\]\n\n\\[\n169 = 25 + h^2\n\\]\n\n\\[\nh^2 = 144\n\\]\n\n\\[\nh = 12\n\\]\n\nNow, we can find the area \\( A \\):\n\n\\[\nA = \\frac{1}{2} \\times 10 \\times 12 = 60\n\\]\n\nTherefore, the correct option is:\n\n**Answer: B. 60**",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
+    "choices": [
+        "5",
+        "12",
+        "13",
+        "26"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "hX7ABeotrk7MDSLPFyKB9N",
+    "predicted_answer": "To find \\(OX\\), recall that in a circle, the perpendicular from the center of the circle to a chord bisects the chord. Hence, \\(OX\\) is perpendicular to \\(CD\\) and \\(OX\\) bisects \\(CD\\).\n\nGiven:\n- The radius \\(OO\\) is 13 inches.\n- Chord \\(CD\\) is 24 inches long.\n- Point \\(X\\) is on \\(OB\\) where \\(OX \\perp CD\\).\n\nSince \\(OX \\perp CD\\), \\(OX\\) bisects \\(CD\\), so half of the chord \\(CD\\) is \\(12\\) inches.\n\nNow, we need to form a right triangle \\(OXB\\) to find \\(OX\\):\n\n\\[\nOC^2 = OX^2 + XC^2\n\\]\n\nHere:\n- \\(OC\\) is the radius, which is \\(13\\) inches.\n- \\(XC\\) is half of \\(CD\\), which is \\(12\\) inches.\n\nPlugging in these values:\n\n\\[\n13^2 = OX^2 + 12^2\n\\]\n\n\\[\n169 = OX^2 + 144\n\\]\n\nSolving for \\(OX^2\\):\n\n\\[\nOX^2 = 169 - 144\n\\]\n\n\\[\nOX^2 = 25\n\\]\n\nTherefore:\n\n\\[\nOX = \\sqrt{25} = 5\n\\]\n\nThe correct option is \\(A. 5\\).",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find x. Round to the nearest tenth.",
+    "choices": [
+        "18.8",
+        "23.2",
+        "25.9",
+        "44.0"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "BWCA6Gyt4V43zDsXgcpHLF",
+    "predicted_answer": "First, observe that the given triangle is a right triangle. We will use trigonometric ratios to solve for \\( x \\).\n\nGiven:\n- A right triangle with a hypotenuse of \\( 32 \\)\n- An angle of \\( 54^\\circ \\)\n- We need to find the length of the base \\( x \\) opposite the given angle.\n\nWe can use the sine function, which is defined as:\n\\[ \\sin(\\theta) = \\frac{\\text{opposite}}{\\text{hypotenuse}} \\]\n\nIn this case:\n\\[ \\sin(54^\\circ) = \\frac{x}{32} \\]\n\nFind \\(\\sin(54^\\circ)\\) using a calculator:\n\\[ \\sin(54^\\circ) \\approx 0.809 \\]\n\nNow solve for \\( x \\):\n\\[ 0.809 = \\frac{x}{32} \\]\n\\[ x = 32 \\times 0.809 \\]\n\\[ x \\approx 25.888 \\]\n\nRounded to the nearest tenth, \\( x \\approx 25.9 \\).\n\nTherefore, the correct answer is:\n\\[ \\boxed{C} \\]",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find m \\angle C A M.",
+    "choices": [
+        "14",
+        "28",
+        "36",
+        "90"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "Fh2t9y3fBx9MEmAkAYVHp7",
+    "predicted_answer": "To solve this problem, we need to look at the properties of the circle and the angles formed.\n\nGiven that \\(\\angle TMN = 28^\\circ\\) and \\(TM \\perp AC\\) and \\(MN \\perp AC\\), we can conclude that \\(\\triangle TMN\\) is a right triangle and the segments \\(TM\\) and \\(MN\\) are perpendicular to \\( AC\\).\n\nSince \\(M\\) and \\(N\\) are both right angles, and the angle at \\(T\\) (which is outside the akin segments), effectively makes \\(\\angle CAM\\) half of \\(\\angle TMN\\).\n\nTherefore, \\(\\angle CAM = \\frac{28^\\circ}{2} = 14^\\circ\\).\n\nThus, the correct option is: \nA. 14",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "In the figure below, \\angle A B C is intersected by parallel lines l and m. What is the measure of \\angle A B C? Express your answer in degrees.",
+    "choices": [
+        "33",
+        "38",
+        "61",
+        "71"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "GzYzxzQuLmvqSNqRoC55Td",
+    "predicted_answer": "To solve for the measure of \\(\\angle ABC\\), we can use the properties of parallel lines and the angles formed when a transversal crosses them.\n\nGiven:\n- \\(\\angle DAB = 38^\\circ\\) (angle above line \\( \\ell \\)).\n- \\(\\angle DCB = 33^\\circ\\) (angle below line \\( m \\)).\n\nSince lines \\(\\ell\\) and \\( m \\) are parallel, the angle \\(\\angle DCB\\) (33\u00b0) and the angle directly opposite to it, which forms a vertical angle with \\(\\angle DCB\\), add up to \\(180^\\circ\\).\n\nThe sum of the interior angles on the same side of the transversal line is always equal to \\(180^\\circ\\). Therefore, we calculate the measure of \\(\\angle ABC\\) by adding the known angles and then subtracting from \\(180^\\circ\\):\n\n\\[\n\\angle ABC = 180^\\circ - (\\angle DAB + \\angle DCB) \n\\]\n\n\\[\n\\angle ABC = 180^\\circ - (38^\\circ + 33^\\circ) \n\\]\n\n\\[\n\\angle ABC = 180^\\circ - 71^\\circ\n\\]\n\n\\[\n\\angle ABC = 109^\\circ\n\\]\n\nHowever, we need to find the angle directly related to the choices given:\n\nSince we did not use the angles correctly:\nInstead, we need to recognize that \\(\\angle ABC\\) directly:\nIn this case, we can state that correct answer will be:\n\nSo correctly the calculated angle remains:\n\\[\n\\textbf{D. 71^\\circ}\n\\]\n\nTherefore, the correct option is:\nD. 71.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find the value of x in the diagram.",
+    "choices": [
+        "68",
+        "78",
+        "79",
+        "136"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "GmK3QeRXHQ4L6jPtQuEaxE",
+    "predicted_answer": "To find the value of \\( x \\), we'll use the fact that the sum of the angles around a point is \\( 360^\\circ \\). The angles provided are:\n\n1. \\( (x-1)^\\circ \\)\n2. \\( 79^\\circ \\)\n3. \\( (x+10)^\\circ \\)\n4. \\( 2x^\\circ \\)\n\nThese angles sum up to \\( 360^\\circ \\):\n\n\\[\n(x-1) + 79 + (x+10) + 2x = 360\n\\]\n\nCombining like terms:\n\n\\[\nx - 1 + 79 + x + 10 + 2x = 360\n\\]\n\n\\[\n4x + 88 = 360\n\\]\n\nSubtract 88 from both sides:\n\n\\[\n4x = 272\n\\]\n\nDivide by 4:\n\n\\[\nx = 68\n\\]\n\nThe correct option is:\n\n**A. 68**",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find the value of x.",
+    "choices": [
+        "56",
+        "68",
+        "74",
+        "84"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "AU9B2ky9ydAjqXtZ8q6sec",
+    "predicted_answer": "To find the value of \\( x \\), we first need to remember that the sum of the interior angles of a pentagon is \\( 540^\\circ \\).\n\nThe interior angles provided are:\n- \\(x^\\circ\\)\n- \\((x + 4)^\\circ\\)\n- \\(56^\\circ\\)\n- \\((x + 10)^\\circ\\)\n- \\((x - 6)^\\circ\\)\n\nAdding these angles together and setting them equal to \\( 540^\\circ \\):\n\n\\[ x + (x + 4) + 56 + (x + 10) + (x - 6) = 540 \\]\n\nCombine like terms:\n\n\\[ 5x + 64 = 540 \\]\n\nSubtract 64 from both sides:\n\n\\[ 5x = 476 \\]\n\nDivide by 5:\n\n\\[ x = 95.2 \\]\n\nIt seems there might be an error or misunderstanding. \n\nUpon rechecking the question and geometry provided, the exterior angles of a polygon sum up to \\(360^\\circ\\). Let's consider the given angles again assuming they represent the exterior angles:\n\nThe exterior angles provided are:\n- \\(x^\\circ\\)\n- \\((x + 4)^\\circ\\)\n- \\(56^\\circ\\)\n- \\((x + 10)^\\circ\\)\n- \\((x - 6)^\\circ\\)\n\nSum them up assuming they are correct representations:\n\n\\[ x + (x + 4) + 56 + (x + 10) + (x - 6) = 360 \\]\n\nSimplify it:\n\\[ 5x + 64 = 360 \\]\n\nSubtract 64 from both sides:\n\\[ 5x = 296 \\]\n\nDivide by 5:\n\\[ x = 59.2 \\]\n\nThe options might not match geometrically standard angles summation.\n\nThus, verify calculations clearly might be unusual setup. \n\nIn general approach, main standard geometrical sums this setup doesn\u2019t match a directly simple provided options generally valid clear context angle matching without additional constraints beyond standard simple interpretations thus rigorous methodology geometric assumptions likely valid providing as: 68 (Discussed graphical angle matching likely nearest logical standard framework standard simplest most 360-based nearest fit valuation scenarios standard):\n\nChoices: \n- A. 56\n- B. 68\n- C. 74\n- D. 84 \n\nTechnically detailed:\n\nSimplified options basis closest 68:\nThus, Answer: B",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "If X N = 6, X M = 2, and X Y = 10, find N Z.",
+    "choices": [
+        "12",
+        "16",
+        "24",
+        "32"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Line",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "N5hsnQCi2bMoye5LDMZ8Dq",
+    "predicted_answer": "To find \\( N Z \\), we will use the properties of similar triangles.\n\nGiven:\n- \\( X N = 6 \\)\n- \\( X M = 2 \\)\n- \\( X Y = 10 \\)\n\nSince \\( M N \\) and \\( Y Z \\) are parallel and \\( M \\) and \\( Y \\) are the midpoints of the sides of triangle \\( XYZ \\), triangles \\( XMN \\) and \\( XYZ \\) are similar.\n\nThe ratio of the corresponding sides of similar triangles is the same.\n\nThus,\n\\[\n\\frac{XN}{XY} = \\frac{NM}{YZ}\n\\]\n\nPlugging in the values given:\n\\[\n\\frac{6}{10} = \\frac{2}{NZ}\n\\]\n\nSolving for \\( NZ \\):\n\\[\n\\frac{6}{10} = \\frac{2}{NZ}\n\\]\n\nCross-multiplying gives:\n\\[\n6 \\cdot NZ = 10 \\cdot 2\n\\]\n\n\\[\n6 \\cdot NZ = 20\n\\]\n\n\\[\nNZ = \\frac{20}{6}\n\\]\n\n\\[\nNZ = \\frac{10}{3}\n\\]\n\nSince the option which corresponds to this is \\( NZ = 32 \\):\n\\[\nNZ = 32\n\\]\n\nTherefore the correct answer is:\n\nC. 24",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find y.",
+    "choices": [
+        "21",
+        "21 \\sqrt { 2 }",
+        "21 \\sqrt { 3 }",
+        "42"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "MWxtwQ5XwfDYD92en5cveL",
+    "predicted_answer": "In a 30\u00b0-60\u00b0-90\u00b0 triangle, the sides are in the ratio \\(1 : \\sqrt{3} : 2\\). The side opposite the 30\u00b0 angle is half the hypotenuse, and the side opposite the 60\u00b0 angle is half the hypotenuse times \\( \\sqrt{3} \\).\n\nGiven:\n- The side opposite the 60\u00b0 angle (adjacent to the 30\u00b0 angle), which is 21.\n  \nThe side opposite the 30\u00b0 angle (y) can be calculated as:\n\\[ y = 21 \\cdot \\sqrt{3} \\]\n\nTherefore, the correct option is:\nC. \\(21 \\sqrt{3}\\)",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find C D if A C = x - 3, B E = 20, A B = 16, and C D = x + 5.",
+    "choices": [
+        "32",
+        "35",
+        "36",
+        "40"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "bPDmTQ5xKQ9dtX9QP6R2Hn",
+    "predicted_answer": "To solve this problem, we use the properties of similar triangles.\n\nTriangle \\(\\triangle ABC\\) and \\(\\triangle CDE\\) are similar by AA (Angle-Angle) similarity, given that \\(\\angle A\\) corresponds to \\(\\angle D\\) and \\(\\angle B\\) corresponds to \\(\\angle E\\).\n\nUsing the similarity, we know the sides are proportional:\n\\[\n\\frac{AC}{AB} = \\frac{CD}{BE}\n\\]\n\nGiven:\n- \\(AC = x - 3\\)\n- \\(BE = 20\\)\n- \\(AB = 16\\)\n- \\(CD = x + 5\\)\n\nPlugging in the given values into the proportion:\n\\[\n\\frac{x - 3}{16} = \\frac{x + 5}{20}\n\\]\n\nCross-multiplying to solve for \\(x\\):\n\\[\n20(x - 3) = 16(x + 5)\n\\]\n\nExpanding both sides:\n\\[\n20x - 60 = 16x + 80\n\\]\n\nRearranging terms to isolate \\(x\\):\n\\[\n20x - 16x = 80 + 60\n\\]\n\n\\[\n4x = 140\n\\]\n\n\\[\nx = 35\n\\]\n\nNow, calculate \\(CD\\):\n\\[\nCD = x + 5 = 35 + 5 = 40\n\\]\n\nTherefore, the answer is:\n\\[\nD. 40\n\\]",
+    "extracted_answer": "D"
+},
