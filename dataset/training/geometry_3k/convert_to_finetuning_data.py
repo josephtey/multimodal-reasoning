@@ -11,6 +11,11 @@ def main():
     parser.add_argument(
         "--file", type=str, required=True, help="The name of the input JSON file"
     )
+    parser.add_argument(
+        "--filter",
+        action="store_true",
+        help="Filter entries based on final_answer_score and average_score",
+    )
     args = parser.parse_args()
 
     # Define the path to the input and output files
@@ -26,6 +31,15 @@ def main():
     # Transform the data
     transformed_data = []
     for entry in data:
+        if args.filter:
+            if not (
+                isinstance(entry.get("final_answer_score"), (int, float))
+                and isinstance(entry.get("average_score"), (int, float))
+            ):
+                continue
+            if entry["final_answer_score"] != 1 or entry["average_score"] < 0.8:
+                continue
+
         transformed_entry = {
             "id": entry["image_id"],
             "image": entry["image_id"] + ".png",
