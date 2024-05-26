@@ -1,12 +1,6 @@
 {
-  "text_logic_form": [
-    "Parallelogram(M,N,P,R)",
-    "Find(y)"
-  ],
-  "dissolved_text_logic_form": [
-    "Parallelogram(M,N,P,R)",
-    "Find(y)"
-  ],
+  "text_logic_form": ["Parallelogram(M,N,P,R)", "Find(y)"],
+  "dissolved_text_logic_form": ["Parallelogram(M,N,P,R)", "Find(y)"],
   "diagram_logic_form": [
     "Equals(LengthOf(Line(P, Q)), 11.1)",
     "Equals(MeasureOf(Angle(N, Q, P)), 83)",
@@ -35,28 +29,11 @@
     "RQ"
   ],
   "point_positions": {
-    "M": [
-      65.0,
-      0.0
-    ],
-    "N": [
-      260.0,
-      1.0
-    ],
-    "P": [
-      197.0,
-      166.0
-    ],
-    "Q": [
-      131.0,
-      83.0
-    ],
-    "R": [
-      0.0,
-      166.0
-    ]
+    "M": [65.0, 0.0],
+    "N": [260.0, 1.0],
+    "P": [197.0, 166.0],
+    "Q": [131.0, 83.0],
+    "R": [0.0, 166.0]
   },
-  "circle_instances": [
-    ""
-  ]
+  "circle_instances": [""]
 }

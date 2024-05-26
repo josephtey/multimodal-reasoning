@@ -1,0 +1,602 @@
+question number,baseline direct,baseline cot,finetuned,gpto,problem_type_goal,problem_type_graph
+1,,,,B,Area,Triangle
+2,,,,A,Length,Circle
+3,A,,A,,Length,Triangle
+4,B,,,,Angle,Circle
+5,,,D,D,Angle,Line
+6,,,A,,Angle,Other
+7,,C,,C,Angle,Other
+8,,,,,Length,"Line, Triangle"
+9,,,C,C,Length,Triangle
+10,,,,D,Length,Triangle
+11,,,,B,Area,Circle
+12,,A,A,,Angle,"Rectangle, Rhombus"
+13,B,,B,,Angle,Rhombus
+14,,,,,Length,Triangle
+15,A,,,,Angle,Parallelogram
+16,,,B,B,Angle,Line
+17,,,,C,Length,Circle
+18,,D,,D,Angle,Parallelogram
+19,,,B,B,Length,"Circle, Rectangle"
+20,,,,D,Length,Triangle
+21,,C,C,,Length,Parallelogram
+22,,,B,,Length,Circle
+23,C,,C,C,Length,Triangle
+24,A,A,,,Angle,Circle
+25,,,,,Length,Triangle
+26,C,C,C,C,Length,Rectangle
+27,,,,A,Length,Triangle
+28,,B,,B,Angle,"Circle, Triangle"
+29,C,,,,Area,Parallelogram
+30,,,,D,Length,Triangle
+31,,,,,Length,"Triangle, Other"
+32,D,D,D,D,Area,Rectangle
+33,,,,C,Length,Triangle
+34,C,,,,Length,Trapezoid
+35,,D,D,D,Angle,Triangle
+36,,D,,,Angle,Circle
+37,B,,,,Angle,Circle
+38,,B,,,Length,Triangle
+39,,,,A,Angle,Triangle
+40,C,,C,C,Angle,Other
+41,,,B,B,Angle,Line
+42,,,C,C,Angle,Line
+43,,,,,Angle,Triangle
+44,,,,,Angle,Triangle
+45,,,B,B,Length,Triangle
+46,B,,,B,Length,Triangle
+47,,A,,,Angle,Line
+48,D,D,D,D,Length,Triangle
+49,,,,,Angle,Other
+50,,D,,D,Length,Triangle
+51,A,,,A,Angle,Triangle
+52,,,,,Angle,"Line, Triangle"
+53,,,,A,Length,Rhombus
+54,D,,,,Length,Triangle
+55,,,,B,Length,Circle
+56,,,B,,Angle,Circle
+57,,,,C,Length,Triangle
+58,,D,,D,Angle,Circle
+59,,,D,,Angle,"Rectangle, Rhombus"
+60,,,,A,Angle,Triangle
+61,,,,B,Length,Triangle
+62,,,,C,Length,Circle
+63,,D,,,Length,Triangle
+64,B,B,B,B,Length,Triangle
+65,,A,,A,Length,Triangle
+66,,,,C,Length,"Line, Triangle"
+67,,B,,,Angle,Circle
+68,,,,C,Length,Triangle
+69,B,B,,,Angle,Triangle
+70,,,,B,Length,Parallelogram
+71,C,,,C,Area,Trapezoid
+72,,,B,B,Angle,Triangle
+73,,,,A,Length,Triangle
+74,C,,C,C,Angle,Parallelogram
+75,,,,,Angle,Line
+76,,,,,Angle,Parallelogram
+77,,,C,C,Angle,Circle
+78,,,,A,Length,Triangle
+79,C,,,C,Length,Other
+80,,,,,Angle,Triangle
+81,B,B,B,B,Length,Circle
+82,,,,A,Length,Triangle
+83,B,,B,B,Length,"Line, Triangle"
+84,,,,,Length,Triangle
+85,C,C,,C,Angle,Rhombus
+86,C,,,C,Angle,Circle
+87,,C,,C,Length,Circle
+88,A,,,,Ratio,Triangle
+89,,,,A,Angle,Other
+90,,,B,B,Length,Parallelogram
+91,A,,,,"Angle, Ratio",Triangle
+92,,,B,B,Length,Circle
+93,C,,,,Length,Circle
+94,,B,B,B,Length,Line
+95,,,,C,Length,Triangle
+96,,,,,Length,Circle
+97,,,D,,Length,Circle
+98,,,,,Angle,Triangle
+99,,,,,Length,Triangle
+100,A,,,A,Angle,"Rectangle, Triangle"
+101,,,,B,Length,"Line, Triangle"
+102,A,A,,A,Angle,Triangle
+103,,,,,Area,"Circle, Triangle"
+104,,,,,Length,Triangle
+105,C,,,,Area,Rhombus
+106,,,,A,Angle,Parallelogram
+107,A,,,,Length,Triangle
+108,B,,,,Length,Triangle
+109,,B,,B,Angle,Line
+110,A,,A,,Length,Circle
+111,,,C,C,Length,Triangle
+112,B,,,B,Length,Triangle
+113,A,,A,,Length,Triangle
+114,,A,,A,Length,Triangle
+115,,B,B,B,Angle,Triangle
+116,,,,C,Angle,Triangle
+117,,,D,D,Angle,Line
+118,A,,,A,"Angle, Ratio",Triangle
+119,,,,B,Angle,Circle
+120,,,A,A,Length,Triangle
+121,C,,C,C,Length,Triangle
+122,,B,,,Length,Triangle
+123,,,D,D,Length,Rectangle
+124,,,,,Angle,Circle
+125,,,,A,Length,"Circle, Triangle"
+126,,,,B,Angle,"Line, Triangle"
+127,,,C,C,Length,Parallelogram
+128,,,,B,Area,Circle
+129,D,,D,D,Length,Triangle
+130,,,C,C,Angle,Trapezoid
+131,,,,,Length,Triangle
+132,,,,B,Angle,Circle
+133,,,B,,Length,Triangle
+134,C,,,C,Length,"Line, Triangle"
+135,,,,,Length,Triangle
+136,,,,A,Length,Circle
+137,,,,B,Angle,Circle
+138,,,,,Angle,"Line, Triangle"
+139,,,B,B,Angle,Circle
+140,,,,,Angle,"Line, Triangle"
+141,C,,,C,Angle,Trapezoid
+142,,B,,,Ratio,Other
+143,,,B,B,Length,Triangle
+144,,,,A,Angle,Parallelogram
+145,,,B,B,Area,Circle
+146,,B,B,B,Area,Circle
+147,,,,B,Length,"Circle, Triangle"
+148,,,A,,Angle,Rectangle
+149,,,B,B,Length,Triangle
+150,D,D,D,D,Length,Rhombus
+151,,,,,Length,"Line, Triangle"
+152,,,,,Angle,"Line, Triangle"
+153,A,,,,Angle,Line
+154,,,,D,Length,Triangle
+155,,,,,Angle,Parallelogram
+156,,,,,Length,Circle
+157,B,,,,Angle,"Circle, Triangle"
+158,,,D,D,Length,Triangle
+159,,,,A,Length,Triangle
+160,,,,,Length,Circle
+161,,,,C,Area,"Rectangle, Triangle"
+162,,,,C,Area,Circle
+163,A,,A,,Angle,Parallelogram
+164,A,,,A,Area,Circle
+165,,,,,Ratio,Triangle
+166,,,B,B,Length,Parallelogram
+167,,,D,,Angle,Rectangle
+168,,,A,,Angle,Parallelogram
+169,,,,,Angle,Circle
+170,B,,,,Length,"Circle, Triangle"
+171,B,B,,B,Angle,Circle
+172,,,,,Angle,Triangle
+173,,,,,Angle,Line
+174,,C,,C,Angle,Circle
+175,,,,D,"Angle, Ratio",Circle
+176,,,B,B,Length,Triangle
+177,,,,B,Length,Triangle
+178,,,,A,Length,"Line, Circle"
+179,A,,,A,Area,Parallelogram
+180,,D,,D,Length,Circle
+181,,A,,,Length,Parallelogram
+182,,,,,Length,Triangle
+183,A,A,,,Length,"Line, Triangle"
+184,,D,D,D,Angle,Line
+185,,,C,C,Angle,Triangle
+186,,,,C,Length,Triangle
+187,,D,D,,Angle,"Line, Triangle"
+188,,,D,D,Angle,Line
+189,,D,,D,Length,Triangle
+190,,,,D,Length,Triangle
+191,,,,B,Other,Other
+192,,,,,Area,"Circle, Triangle"
+193,,,,,Length,Triangle
+194,,,B,,Area,Triangle
+195,,,,A,Length,Circle
+196,,D,,D,Length,Triangle
+197,,B,,,Angle,Circle
+198,,,,A,Length,Triangle
+199,,,,C,Length,"Line, Triangle"
+200,D,,D,D,Length,"Rectangle, Triangle"
+201,,,C,,Length,"Line, Triangle"
+202,,,,C,Angle,Triangle
+203,,,,,Length,"Line, Triangle"
+204,,,,,Length,Triangle
+205,A,,,A,Angle,Circle
+206,,,,,Angle,"Line, Trapezoid"
+207,,,,,Length,Triangle
+208,,,D,,Angle,Triangle
+209,,,,,Angle,Circle
+210,,,A,,Length,Triangle
+211,,D,D,D,Angle,Line
+212,,,,C,Length,Line
+213,,,,A,Angle,Circle
+214,,,,,Angle,Triangle
+215,B,,B,,Length,Triangle
+216,,,,,Length,Circle
+217,,,,B,Length,Triangle
+218,,,,,Length,Triangle
+219,,,,D,Length,Rectangle
+220,,,B,,Length,Triangle
+221,,,,C,Length,Triangle
+222,,,,A,Area,Other
+223,,,,C,Length,Trapezoid
+224,B,B,B,B,Angle,Line
+225,,A,,A,Angle,Rectangle
+226,,,,,Area,"Triangle, Parallelogram"
+227,A,,A,,Angle,"Circle, Triangle"
+228,,,,,Length,Circle
+229,,,,,Angle,Line
+230,B,B,,B,Length,Triangle
+231,,,,,Angle,Line
+232,,,,A,Length,Triangle
+233,,,,A,Angle,Circle
+234,C,,,C,Length,Triangle
+235,,,,,Length,"Circle, Triangle"
+236,,,,,Angle,Line
+237,A,,,A,Length,Triangle
+238,,,,,Angle,Triangle
+239,,,C,C,Length,Triangle
+240,,,,,Angle,Circle
+241,,,,B,Angle,Triangle
+242,,,,,Length,"Line, Circle"
+243,,D,D,D,Angle,Line
+244,,,D,,Length,Other
+245,,,,A,Length,Triangle
+246,,B,,,Angle,Triangle
+247,,,B,B,Angle,Line
+248,,,,A,Angle,Circle
+249,,,,,Length,Triangle
+250,,,,,Length,Triangle
+251,,,,,Angle,Circle
+252,,B,,B,Ratio,Triangle
+253,,,,,Angle,Parallelogram
+254,,,,C,Area,Other
+255,,,,B,Angle,"Square, Triangle"
+256,,,,B,Area,Parallelogram
+257,,A,,A,Area,Triangle
+258,,,,,Length,"Circle, Triangle"
+259,B,,,,Length,"Circle, Triangle"
+260,,,,C,Length,Triangle
+261,B,,,,Length,Triangle
+262,,,,,Angle,Circle
+263,,,,D,Length,Trapezoid
+264,,A,,,Angle,Circle
+265,,,,,Length,Triangle
+266,,,,B,Length,Triangle
+267,,,,,Angle,Parallelogram
+268,,,,,Length,Triangle
+269,,,,B,Angle,Line
+270,,,,,Angle,Rectangle
+271,,,,C,Length,Triangle
+272,,,,,Length,Triangle
+273,,,,,Length,Circle
+274,,D,,,Angle,Circle
+275,,,,,Angle,Circle
+276,,,,B,Length,"Line, Triangle"
+277,,A,A,A,Length,Other
+278,C,C,,C,Angle,Circle
+279,C,,,,Angle,Line
+280,,,,C,Angle,Circle
+281,,,,C,Length,Triangle
+282,,,,C,Area,Parallelogram
+283,C,,,,Length,Triangle
+284,A,,,A,Length,Circle
+285,,,A,,Length,Parallelogram
+286,A,,,,Angle,Triangle
+287,,,,D,Length,Circle
+288,,,B,,Length,Parallelogram
+289,,,,,Length,Square
+290,,,,A,Length,"Line, Triangle"
+291,,,D,D,Length,Triangle
+292,,,,A,Length,Parallelogram
+293,,,,,Length,Triangle
+294,,,,,Angle,Parallelogram
+295,,,,,Angle,Circle
+296,,,,B,Length,Triangle
+297,,,D,D,Angle,Parallelogram
+298,C,C,C,C,Length,"Circle, Triangle"
+299,,,,B,Length,Circle
+300,C,,,,Area,Square
+301,,,,,Angle,Parallelogram
+302,,D,,,Angle,Triangle
+303,,,,A,Length,Triangle
+304,A,A,A,A,Length,Parallelogram
+305,A,,,A,Angle,Parallelogram
+306,,,,,Length,Trapezoid
+307,,,,,Area,Parallelogram
+308,,C,C,C,Area,Square
+309,,,,B,Length,Circle
+310,,B,B,B,Angle,Parallelogram
+311,,,,C,Length,Triangle
+312,B,B,,B,Length,Triangle
+313,,,,,Angle,Parallelogram
+314,,,,D,Angle,Trapezoid
+315,,,,,Angle,Parallelogram
+316,,,,C,Length,Triangle
+317,,,A,A,Angle,Line
+318,C,C,,,Angle,Triangle
+319,,A,,,Angle,Line
+320,,,,,Length,"Rectangle, Parallelogram"
+321,,,,D,Length,Triangle
+322,,,,,Length,Triangle
+323,,,,C,Length,Triangle
+324,,,,B,Angle,Triangle
+325,B,B,B,B,Length,Circle
+326,,,,,Angle,Triangle
+327,,,,,Angle,Triangle
+328,,,,,Area,"Circle, Triangle"
+329,,,A,A,Length,Parallelogram
+330,,,,,Length,Triangle
+331,,,,B,Length,Parallelogram
+332,,,C,C,Length,"Circle, Square"
+333,,B,B,B,Length,"Square, Triangle"
+334,D,,D,D,Angle,Triangle
+335,,,B,B,Area,Trapezoid
+336,,B,B,B,Length,Circle
+337,,,,,Length,Triangle
+338,,B,,B,"Angle, Ratio",Triangle
+339,,,,,Area,Parallelogram
+340,,,B,B,Angle,Circle
+341,,,B,B,Angle,Circle
+342,,,C,,Length,Triangle
+343,,,,B,Angle,Triangle
+344,,,,,Angle,Triangle
+345,,,,A,Length,Parallelogram
+346,,,,A,Length,Triangle
+347,,,B,B,Area,Rectangle
+348,D,D,,,Angle,Line
+349,,,,,Length,Rectangle
+350,,B,B,,Area,"Parallelogram, Other"
+351,,,,,Angle,Triangle
+352,,C,,,Angle,"Line, Parallelogram"
+353,,,,,Length,"Line, Circle"
+354,B,,,,Angle,Line
+355,,,,A,Angle,Trapezoid
+356,,,,A,Length,Triangle
+357,C,,C,,Angle,Line
+358,,C,C,C,Length,Trapezoid
+359,,C,,C,Area,Parallelogram
+360,,,A,A,Length,Circle
+361,,,B,B,Length,Triangle
+362,,B,,B,Length,Triangle
+363,A,,,,Angle,Rhombus
+364,,B,B,B,Angle,Line
+365,,D,,D,Ratio,Triangle
+366,,,,,Length,Triangle
+367,C,C,,C,Angle,Circle
+368,,,,,Angle,Line
+369,,,,,Angle,Parallelogram
+370,,,,,Angle,Trapezoid
+371,A,,,,Length,Trapezoid
+372,C,C,,,Angle,Circle
+373,,,,,Angle,Triangle
+374,,,,A,Length,Triangle
+375,A,A,A,A,Length,Parallelogram
+376,,,,,Angle,Rectangle
+377,B,,,,Length,Triangle
+378,,,,,Length,Circle
+379,,C,,,Length,"Line, Triangle"
+380,B,,,,Angle,Circle
+381,,,B,B,Angle,Parallelogram
+382,A,A,,,Length,Triangle
+383,,,B,,Length,Circle
+384,,,,,Length,Circle
+385,,,,D,Angle,Circle
+386,B,B,B,,Length,Triangle
+387,,C,,,Angle,Circle
+388,,,,B,Angle,Triangle
+389,,,,,Length,Circle
+390,C,,C,,Length,Triangle
+391,,,,,Length,"Line, Circle"
+392,A,,,A,Angle,"Line, Triangle"
+393,,B,,B,Angle,Parallelogram
+394,,,B,,Ratio,Rectangle
+395,C,,,,Angle,Other
+396,B,B,,,Angle,Circle
+397,D,,,,Length,Triangle
+398,,,,A,Area,"Circle, Triangle"
+399,,,,D,Length,Circle
+400,C,,,C,Area,Parallelogram
+401,,,,,Angle,Parallelogram
+402,,,,,Angle,Triangle
+403,C,,,C,Length,Triangle
+404,,D,D,D,Length,Parallelogram
+405,,,,,Angle,Circle
+406,B,B,,B,Angle,Trapezoid
+407,,,,,Length,"Line, Circle"
+408,,,,,Angle,Line
+409,,,,B,Angle,Triangle
+410,,,,C,Angle,Rectangle
+411,,C,,,Angle,Triangle
+412,,,,,Angle,Circle
+413,D,,D,,Length,Triangle
+414,,,A,A,Length,Other
+415,,D,D,D,Length,Triangle
+416,,,,B,Length,Trapezoid
+417,C,,C,C,Area,Triangle
+418,,A,A,A,Length,Triangle
+419,,B,,,Area,Rhombus
+420,,,,D,Area,Circle
+421,,B,B,B,Length,Rhombus
+422,,,,A,Length,Trapezoid
+423,,,,B,Length,"Circle, Triangle"
+424,,,,B,Length,Triangle
+425,,,,,Angle,Circle
+426,,,C,,Angle,Parallelogram
+427,,,,,Angle,Rhombus
+428,,B,,B,Angle,Triangle
+429,A,,,,"Area, Other","Circle, Triangle, Other"
+430,,,A,A,Length,Line
+431,,,A,,Length,"Line, Circle"
+432,,C,,C,Angle,Triangle
+433,,,,C,Length,Triangle
+434,,,C,,Length,Triangle
+435,,,,C,Length,"Circle, Square"
+436,,,,,Length,Circle
+437,,,,,Length,Parallelogram
+438,,,,,Length,Triangle
+439,C,,,C,Length,Circle
+440,,C,,C,Area,Trapezoid
+441,A,,A,,Angle,Triangle
+442,,,,,Angle,Parallelogram
+443,,B,,B,Length,Triangle
+444,B,,,B,Area,Parallelogram
+445,,,C,,Angle,"Line, Triangle"
+446,,D,,,Length,Triangle
+447,,,C,,Angle,Circle
+448,,,,,Length,Line
+449,,B,B,,Angle,Line
+450,,,,A,Length,Rectangle
+451,,D,D,D,Angle,Triangle
+452,B,B,B,B,Length,"Line, Triangle"
+453,,,D,D,Ratio,Triangle
+454,,,,,Length,Triangle
+455,A,,,A,Length,Triangle
+456,,,,A,Length,"Circle, Triangle"
+457,,D,,D,"Length, Other",Other
+458,,,,B,Angle,"Line, Triangle"
+459,,,,C,Length,Parallelogram
+460,,,,,Length,Triangle
+461,,,A,A,Angle,Line
+462,,,,D,"Angle, Other",Other
+463,,,D,,Angle,"Line, Triangle"
+464,A,,,,Angle,Triangle
+465,,,,,Length,Parallelogram
+466,,,,,Angle,Line
+467,D,D,,,Angle,Circle
+468,,,,B,Length,"Line, Triangle"
+469,,,B,B,Length,Parallelogram
+470,,,,C,Angle,"Line, Triangle"
+471,,B,,B,Area,Other
+472,,,,C,Angle,Circle
+473,C,C,,,Length,Triangle
+474,,,,,Length,Triangle
+475,B,B,,B,Length,Triangle
+476,A,A,A,A,Length,Triangle
+477,C,C,C,C,Area,"Triangle, Other"
+478,,B,B,B,Angle,Line
+479,,,,C,Length,Triangle
+480,,,,,Angle,Circle
+481,,,,,Length,Triangle
+482,,,,C,Angle,Circle
+483,B,,B,B,Angle,"Rectangle, Triangle"
+484,B,,B,,Length,Triangle
+485,,,,B,Length,Other
+486,,,,C,Angle,Circle
+487,,,,,Length,Circle
+488,,,B,B,Length,Triangle
+489,,,B,B,Length,Triangle
+490,B,,,B,Length,Triangle
+491,,,,B,Length,Circle
+492,C,,,,Length,Triangle
+493,A,,,,Angle,Triangle
+494,,D,D,D,Length,Parallelogram
+495,,D,,D,Length,Triangle
+496,C,,C,C,Angle,Parallelogram
+497,,,,A,Angle,Parallelogram
+498,B,,,B,Area,"Circle, Rectangle"
+499,,,,A,Length,Circle
+500,,,B,B,Area,Triangle
+501,,,B,B,Angle,Triangle
+502,,,,B,Length,Triangle
+503,,,,,Angle,Triangle
+504,,D,D,D,Length,Triangle
+505,C,,,,Length,"Line, Circle"
+506,,,,,Angle,Rectangle
+507,B,B,B,,Angle,Triangle
+508,,,D,,Length,Triangle
+509,A,,,,Angle,Triangle
+510,,,D,,Length,Triangle
+511,D,,,D,Length,Triangle
+512,,B,B,B,Angle,Line
+513,,,,,Length,Triangle
+514,,,,B,Area,Parallelogram
+515,,,,B,Angle,Circle
+516,,,,C,Length,Triangle
+517,,C,,C,Length,Triangle
+518,,,,C,Length,Triangle
+519,,,,,Length,Rhombus
+520,,,,C,Length,Trapezoid
+521,A,,A,A,Angle,Triangle
+522,B,,,,Length,"Line, Circle"
+523,,,,,Length,Triangle
+524,,,,C,Length,Triangle
+525,D,D,D,D,Area,Square
+526,,,,,Area,Trapezoid
+527,,,,B,Length,Trapezoid
+528,,,,C,Length,Triangle
+529,C,C,,C,Angle,Triangle
+530,B,B,,,Angle,Triangle
+531,,C,,C,Length,Parallelogram
+532,B,,,B,Length,Trapezoid
+533,,,C,,Angle,Line
+534,,,,,Length,Triangle
+535,A,,,,Area,Trapezoid
+536,,,,B,Angle,Triangle
+537,,,C,C,Length,Triangle
+538,,,C,C,Angle,Other
+539,,,,,Length,Triangle
+540,,,,,Angle,Circle
+541,C,C,C,C,Angle,Circle
+542,,,,B,Length,Triangle
+543,,,,,Angle,Parallelogram
+544,,,,B,Angle,Rectangle
+545,,,,B,Angle,Circle
+546,,,,B,Angle,Other
+547,B,,B,B,Length,Triangle
+548,,C,,,Length,Triangle
+549,,,,C,Area,Trapezoid
+550,,,D,D,Angle,Circle
+551,,,B,B,Length,"Triangle, Trapezoid"
+552,,,,D,Angle,Trapezoid
+553,,,,,Angle,Triangle
+554,,D,D,D,Angle,Circle
+555,,,,,Angle,Line
+556,,,C,,Length,"Line, Triangle"
+557,,,,,Length,Triangle
+558,,,B,,Length,Triangle
+559,,,B,,Area,Rhombus
+560,C,,,,Ratio,Triangle
+561,,,,D,Length,Triangle
+562,,,C,C,Area,Circle
+563,,,D,D,Angle,Triangle
+564,,,,A,Length,"Rectangle, Triangle, Trapezoid"
+565,,,A,,Length,Triangle
+566,,,B,B,Length,Parallelogram
+567,,,A,,Length,"Line, Triangle"
+568,A,,,,Length,Triangle
+569,C,,C,C,Angle,Circle
+570,C,,,C,Angle,Triangle
+571,B,B,B,B,Length,Parallelogram
+572,,B,B,,Length,Triangle
+573,,,,,Length,Triangle
+574,,D,,,Angle,Circle
+575,,,,C,Length,"Circle, Triangle"
+576,B,,,B,Angle,"Line, Triangle"
+577,C,C,,,Length,Triangle
+578,,,,A,Angle,Circle
+579,,,,,Area,"Triangle, Other"
+580,,,,C,Length,Circle
+581,C,C,,,Area,Rhombus
+582,D,D,,D,Angle,Line
+583,,,,B,Area,Rectangle
+584,,,,,Angle,Other
+585,,,,B,Length,Triangle
+586,,,,,Length,Circle
+587,,,,A,Length,Circle
+588,,,,D,Length,Triangle
+589,,,,B,Length,Other
+590,,,C,,Angle,Line
+591,C,C,,C,Angle,Triangle
+592,,,,B,Angle,Circle
+593,,,,,Angle,Circle
+594,A,A,A,,Length,"Circle, Triangle"
+595,,,B,B,Angle,Triangle
+596,,B,B,,Length,Parallelogram
+597,C,C,,C,Angle,Circle
+598,,B,,B,Length,Triangle
+599,B,B,B,B,Length,"Circle, Square"
+600,,,A,,Angle,Rhombus
+601,,,,C,Length,Circle

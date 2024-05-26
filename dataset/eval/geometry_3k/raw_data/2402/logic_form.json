@@ -23,38 +23,13 @@
     "PointLiesOnCircle(B, Circle(O, radius_0_0))",
     "Perpendicular(Line(X, B), Line(X, D))"
   ],
-  "line_instances": [
-    "CD",
-    "CX",
-    "OB",
-    "OC",
-    "OX",
-    "XB",
-    "XD"
-  ],
+  "line_instances": ["CD", "CX", "OB", "OC", "OX", "XB", "XD"],
   "point_positions": {
-    "B": [
-      127.0,
-      11.0
-    ],
-    "C": [
-      41.0,
-      17.0
-    ],
-    "D": [
-      177.0,
-      84.0
-    ],
-    "O": [
-      88.0,
-      93.0
-    ],
-    "X": [
-      108.0,
-      49.0
-    ]
+    "B": [127.0, 11.0],
+    "C": [41.0, 17.0],
+    "D": [177.0, 84.0],
+    "O": [88.0, 93.0],
+    "X": [108.0, 49.0]
   },
-  "circle_instances": [
-    "O"
-  ]
+  "circle_instances": ["O"]
 }
