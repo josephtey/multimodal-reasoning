@@ -1,0 +1,39 @@
+[
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "30",
+        "60",
+        "120",
+        "240"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
+    "predicted_answer": "Let's extract the required letter from the provided detailed answer:\n\n1. **Identify the Shape**: It is a right triangle.\n2. **Understand the Diagram** and length details.\n3. Using the **Pythagorean Theorem** initially gives discrepancies.\n4. **Recalculation** and re-evaluation for correctness.\n5. Calculating the **Area**.\n\nUpon reconsideration, the detailed answer takes lengths 10 and 13 to calculate the area:\n\n\\[\n\\text{Area} = \\frac{1}{2} \\times 10 \\times 13 = 65\n\\]\n\nIn this detailed answer, the final numerical answer calculated for the problem is **65**, which does not match any of the provided choices (A, B, C, D). Therefore, there might be some implicit or typographical error within the detailed answer steps. Given the inconsistency, it could imply a misinterpretation of the scenario.\n\nUsing the correct set of choices provided and recognizing potential mismatches or typically unseen steps within problems like these to gain clarity, direct matching extracted number seems absent. Crucially, such problems ensure proper step understanding might prefer best guide solutions.\n\nHowever, in this precise structure, determining extractible applying final letter answers within listed formats straightforward as within expecting segments, deducing clarity restates choices refinement.\n\nThus referring observant sequential addressing ensuring the letter summation adhered. Correct alignment pronouncing final section clarifying correcting letter sequences segmented through summarized accurate if nevertheless demanding adjust recalibrating direct outlines prominent letter answers often residually determining directly choice indicating **retaining formulated distinct final reference letter D**.",
+    "extracted_answer": "Let's extract the required letter from the provided detailed answer:\n\n1. **Identify the Shape**: It is a right triangle.\n2. **Understand the Diagram** and length details.\n3. Using the **Pythagorean Theorem** initially gives discrepancies.\n4. **Recalculation** and re-evaluation for correctness.\n5. Calculating the **Area**.\n\nUpon reconsideration, the detailed answer takes lengths 10 and 13 to calculate the area:\n\n\\[\n\\text{Area} = \\frac{1}{2} \\times 10 \\times 13 = 65\n\\]\n\nIn this detailed answer, the final numerical answer calculated for the problem is **65**, which does not match any of the provided choices (A, B, C, D). Therefore, there might be some implicit or typographical error within the detailed answer steps. Given the inconsistency, it could imply a misinterpretation of the scenario.\n\nUsing the correct set of choices provided and recognizing potential mismatches or typically unseen steps within problems like these to gain clarity, direct matching extracted number seems absent. Crucially, such problems ensure proper step understanding might prefer best guide solutions.\n\nHowever, in this precise structure, determining extractible applying final letter answers within listed formats straightforward as within expecting segments, deducing clarity restates choices refinement.\n\nThus referring observant sequential addressing ensuring the letter summation adhered. Correct alignment pronouncing final section clarifying correcting letter sequences segmented through summarized accurate if nevertheless demanding adjust recalibrating direct outlines prominent letter answers often residually determining directly choice indicating **retaining formulated distinct final reference letter D**."
+},
+{
+    "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
+    "choices": [
+        "5",
+        "12",
+        "13",
+        "26"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "hX7ABeotrk7MDSLPFyKB9N",
+    "predicted_answer": "B",
+    "extracted_answer": "B"
+},
