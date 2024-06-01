@@ -1,0 +1,20 @@
+[
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "30",
+        "60",
+        "120",
+        "240"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
+    "predicted_answer": "C",
+    "extracted_answer": "C"
+},
