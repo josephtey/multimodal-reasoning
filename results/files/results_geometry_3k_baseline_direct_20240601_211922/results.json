@@ -1,1914 +1,1037 @@
 [
-{
+  {
     "problem_text": "Find the area of the figure.",
-    "choices": [
-        "30",
-        "60",
-        "120",
-        "240"
-    ],
+    "choices": ["30", "60", "120", "240"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Area"],
     "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
     "predicted_answer": "",
     "extracted_answer": "It seems you provided the format but not the actual detailed answer for the problem. If you provide the detailed answer, I can extract the correct letter (A, B, C, or D) for you."
-},
-{
+  },
+  {
     "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
-    "choices": [
-        "5",
-        "12",
-        "13",
-        "26"
-    ],
+    "choices": ["5", "12", "13", "26"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "hX7ABeotrk7MDSLPFyKB9N",
     "predicted_answer": "",
     "extracted_answer": "It seems you haven't provided the detailed answer to the problem. Please provide the detailed answer so I can extract the letter corresponding to the final answer for you."
-},
-{
+  },
+  {
     "problem_text": "Find x. Round to the nearest tenth.",
-    "choices": [
-        "18.8",
-        "23.2",
-        "25.9",
-        "44.0"
-    ],
+    "choices": ["18.8", "23.2", "25.9", "44.0"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "BWCA6Gyt4V43zDsXgcpHLF",
     "predicted_answer": "",
     "extracted_answer": "It seems that the detailed answer is missing. Could you provide the detailed answer so I can extract the letter for you?"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle C A M.",
-    "choices": [
-        "14",
-        "28",
-        "36",
-        "90"
-    ],
+    "choices": ["14", "28", "36", "90"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Fh2t9y3fBx9MEmAkAYVHp7",
     "predicted_answer": "",
     "extracted_answer": "Could you please provide the detailed answer to the problem?"
-},
-{
+  },
+  {
     "problem_text": "In the figure below, \\angle A B C is intersected by parallel lines l and m. What is the measure of \\angle A B C? Express your answer in degrees.",
-    "choices": [
-        "33",
-        "38",
-        "61",
-        "71"
-    ],
+    "choices": ["33", "38", "61", "71"],
     "answer": "D",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GzYzxzQuLmvqSNqRoC55Td",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the value of x in the diagram.",
-    "choices": [
-        "68",
-        "78",
-        "79",
-        "136"
-    ],
+    "choices": ["68", "78", "79", "136"],
     "answer": "A",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GmK3QeRXHQ4L6jPtQuEaxE",
     "predicted_answer": "",
     "extracted_answer": "It seems that the detailed answer is not provided for me to extract the letter answer. Could you please provide the detailed answer to the problem?"
-},
-{
+  },
+  {
     "problem_text": "Find the value of x.",
-    "choices": [
-        "56",
-        "68",
-        "74",
-        "84"
-    ],
+    "choices": ["56", "68", "74", "84"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "AU9B2ky9ydAjqXtZ8q6sec",
     "predicted_answer": "",
     "extracted_answer": "It seems like the detailed answer is missing from your input. Please provide the detailed answer so that I can extract the letter for you."
-},
-{
+  },
+  {
     "problem_text": "If X N = 6, X M = 2, and X Y = 10, find N Z.",
-    "choices": [
-        "12",
-        "16",
-        "24",
-        "32"
-    ],
+    "choices": ["12", "16", "24", "32"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "N5hsnQCi2bMoye5LDMZ8Dq",
     "predicted_answer": "The correct answer is C. 24.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find y.",
-    "choices": [
-        "21",
-        "21 \\sqrt { 2 }",
-        "21 \\sqrt { 3 }",
-        "42"
-    ],
+    "choices": ["21", "21 \\sqrt { 2 }", "21 \\sqrt { 3 }", "42"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MWxtwQ5XwfDYD92en5cveL",
     "predicted_answer": "",
     "extracted_answer": "To extract the letter of the final answer from the detailed answer, read down to:\n\nLetter Answer: D"
-},
-{
+  },
+  {
     "problem_text": "Find C D if A C = x - 3, B E = 20, A B = 16, and C D = x + 5.",
-    "choices": [
-        "32",
-        "35",
-        "36",
-        "40"
-    ],
+    "choices": ["32", "35", "36", "40"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "bPDmTQ5xKQ9dtX9QP6R2Hn",
     "predicted_answer": "The correct answer is C. 36.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the shaded region. Round to the nearest tenth.",
-    "choices": [
-        "104.7",
-        "157.1",
-        "235.6",
-        "314.2"
-    ],
+    "choices": ["104.7", "157.1", "235.6", "314.2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Area"],
     "image_id": "UcBvrXGVnQHKVwwqMjp5Ge",
     "predicted_answer": "",
     "extracted_answer": "It appears the detailed answer is missing. Could you please provide the detailed answer so I can extract the letter corresponding to the correct choice for you?"
-},
-{
+  },
+  {
     "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K M L.",
-    "choices": [
-        "35",
-        "70",
-        "110",
-        "140"
-    ],
+    "choices": ["35", "70", "110", "140"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rectangle",
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Zqh5wuW9XCeqjkRr8KsRh9",
     "predicted_answer": "",
     "extracted_answer": "It looks like the detailed answer that contains the letter answer is missing. Please provide the detailed answer or the context needed for me to address the problem correctly."
-},
-{
+  },
+  {
     "problem_text": "In rhombus A B C D, m \\angle D A B = 2, m \\angle A D C and C B = 6. Find m \\angle A C D.",
-    "choices": [
-        "45",
-        "60",
-        "90",
-        "180"
-    ],
+    "choices": ["45", "60", "90", "180"],
     "answer": "B",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Qz5uuT2hebuEpm8kCVByMA",
     "predicted_answer": "The correct answer is B. 60.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find A E if A B = 12, A C = 16, and E D = 5.",
-    "choices": [
-        "12",
-        "15",
-        "16",
-        "20"
-    ],
+    "choices": ["12", "15", "16", "20"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "jhG8yd2ZfLBaHzxdHRPLso",
     "predicted_answer": "",
     "extracted_answer": "I apologize, but it seems like there's an incomplete part in your request. The detailed answer is missing in your message. Could you please provide the detailed answer so I can extract the letter for you?"
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram M N P R to find m \\angle R N P.",
-    "choices": [
-        "38",
-        "52",
-        "52",
-        "62"
-    ],
+    "choices": ["38", "52", "52", "62"],
     "answer": "A",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "U7iZuMGgmuRW3qdZLRbvS7",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find y in the figure.",
-    "choices": [
-        "5",
-        "6",
-        "7",
-        "8"
-    ],
+    "choices": ["5", "6", "7", "8"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "24KUvKwkrqdrYbfEW8ciav",
     "predicted_answer": "",
     "extracted_answer": ""
-},
-{
+  },
+  {
     "problem_text": "In \\odot P, the radius is 2 inches, find the length of \\widehat R S. Round to the nearest hundredth.",
-    "choices": [
-        "2.27",
-        "3.91",
-        "4.54",
-        "7.82"
-    ],
+    "choices": ["2.27", "3.91", "4.54", "7.82"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "2NnyShrrU3H4f6xvdYSBiP",
     "predicted_answer": "",
     "extracted_answer": "It seems the detailed answer is missing. Please provide the necessary details or calculations in the detailed answer, so I can extract the correct letter (A, B, C, or D) for you."
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram A B C D to find m \\angle A D C.",
-    "choices": [
-        "42",
-        "52",
-        "72",
-        "128"
-    ],
+    "choices": ["42", "52", "72", "128"],
     "answer": "D",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "ePAZmYcsYnEdRRyDbQjnBA",
     "predicted_answer": "",
     "extracted_answer": "There is no detailed answer provided for the problem. Please provide the detailed answer so that I can extract the letter corresponding to the final answer (A, B, C, or D)."
-},
-{
+  },
+  {
     "problem_text": "The rectangle is inscribed into the circle. Find the exact circumference of the circle.",
-    "choices": [
-        "8 \\pi",
-        "10 \\pi",
-        "16 \\pi",
-        "20 \\pi"
-    ],
+    "choices": ["8 \\pi", "10 \\pi", "16 \\pi", "20 \\pi"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle",
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle", "Rectangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "VpNPiEigYBs3JdLz6NAmi3",
     "predicted_answer": "The rectangle is inscribed into the circle. Find the exact circumference of the circle.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find D E.",
-    "choices": [
-        "3",
-        "4",
-        "6",
-        "9"
-    ],
+    "choices": ["3", "4", "6", "9"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "aHhA7GjZSAvLBUeekdZipr",
     "predicted_answer": "",
     "extracted_answer": "It appears that you've mentioned giving me 4 choices and a detailed answer, but the detailed answer is not completely visible. Instead, you provided \"Letter Answer:\", which should contain a single letter corresponding to one of the choices (A, B, C, or D).\n\nHowever, since the detailed answer isn't present, I cannot extract the letter based on the given information. If you provide the detailed answer, I'd be able to extract the appropriate letter for you."
-},
-{
+  },
+  {
     "problem_text": "Find the perimeter of the parallelogram. Round to the nearest tenth if necessary.",
-    "choices": [
-        "60",
-        "62",
-        "64",
-        "66"
-    ],
+    "choices": ["60", "62", "64", "66"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "Nx7Qn4C5aQ3fonFCNYs4cX",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find the length of \\widehat A B. Round to the nearest hundredth.",
-    "choices": [
-        "7.63",
-        "9.77",
-        "11.13",
-        "14.83"
-    ],
+    "choices": ["7.63", "9.77", "11.13", "14.83"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "fZUy6QW3PAunAksdJSE6VV",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find A B if \\triangle A B C is an isosceles triangle with A B \\cong B C.",
-    "choices": [
-        "3",
-        "4",
-        "7",
-        "11"
-    ],
+    "choices": ["3", "4", "7", "11"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "LbZaQSoM8A6kbr35WiQVQu",
     "predicted_answer": "The correct answer is C. 7.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle B G E.",
-    "choices": [
-        "60",
-        "120",
-        "240",
-        "360"
-    ],
+    "choices": ["60", "120", "240", "360"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "KsojAfXH9x7xHLMykqr6fh",
     "predicted_answer": "",
     "extracted_answer": "The letter extraction from the answer is: B"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round the side measure to the nearest tenth.",
-    "choices": [
-        "69.0",
-        "69.8",
-        "76.4",
-        "77.2"
-    ],
+    "choices": ["69.0", "69.8", "76.4", "77.2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "cjk4HTrWqCisitAwm9YH8g",
     "predicted_answer": "",
     "extracted_answer": "The final answer is:"
-},
-{
+  },
+  {
     "problem_text": "For the pair of similar figures, use the given areas to find x.",
-    "choices": [
-        "1",
-        "2",
-        "8",
-        "16"
-    ],
+    "choices": ["1", "2", "8", "16"],
     "answer": "C",
-    "problem_type_graph": [
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Rectangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "9PPjFnhKNTS5csHyNEZq2g",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, it seems like you have not provided the detailed answer. Please provide the detailed answer so I can extract the letter (A, B, C, or D) for you."
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "\\sqrt { 7 }",
-        "3 \\sqrt { 2 }",
-        "3 \\sqrt { 3 }",
-        "3 \\sqrt { 6 }"
+      "\\sqrt { 7 }",
+      "3 \\sqrt { 2 }",
+      "3 \\sqrt { 3 }",
+      "3 \\sqrt { 6 }"
     ],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "GRJz6XFySh9PU8TCkM6mWf",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "In the figure, a regular polygon is inscribed in a circle. Find the measure of a central angle.",
-    "choices": [
-        "30",
-        "60",
-        "90",
-        "120"
-    ],
+    "choices": ["30", "60", "90", "120"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "CJHUBaDDB4HDSfzzMLJNmm",
     "predicted_answer": "The correct answer is C. 90.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the parallelogram. Round to the nearest tenth if necessary.",
-    "choices": [
-        "56.6",
-        "138.6",
-        "169.7",
-        "196"
-    ],
+    "choices": ["56.6", "138.6", "169.7", "196"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Area"],
     "image_id": "CN3ykb5x2kHm4pHsYHVuHD",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find X Z.",
-    "choices": [
-        "5",
-        "17",
-        "18",
-        "34"
-    ],
+    "choices": ["5", "17", "18", "34"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "S7iLx3JRuF2Mwre9cwT7nA",
     "predicted_answer": "The correct answer is C. 18.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "In regular hexagon U V W X Y Z, the side is 12 centimeters long. Find W Y.",
-    "choices": [
-        "12",
-        "6 \\sqrt { 6 }",
-        "12 \\sqrt { 3 }",
-        "36"
-    ],
+    "choices": ["12", "6 \\sqrt { 6 }", "12 \\sqrt { 3 }", "36"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle",
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle", "Other"],
+    "problem_type_goal": ["Length"],
     "image_id": "a6BUW3FBp7hnyMxq5yah6r",
     "predicted_answer": "",
     "extracted_answer": "The detailed answer appears to be missing. Please provide the detailed answer so I can extract the final letter (A, B, C, or D) from it."
-},
-{
+  },
+  {
     "problem_text": "Find the area of the figure.",
-    "choices": [
-        "25",
-        "50",
-        "72",
-        "144"
-    ],
+    "choices": ["25", "50", "72", "144"],
     "answer": "D",
-    "problem_type_graph": [
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Rectangle"],
+    "problem_type_goal": ["Area"],
     "image_id": "6SAsDqttZvBNnKSPQSUrem",
     "predicted_answer": "",
     "extracted_answer": "The detailed answer is incomplete; it doesn't provide enough information to determine the correct letter. Please provide the detailed answer so I can extract the final letter from it."
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "\\frac { 17 } { 2 }",
-        "\\frac { 17 } { 2 } \\sqrt { 2 }",
-        "\\frac { 17 } { 2 } \\sqrt { 3 }",
-        "17"
+      "\\frac { 17 } { 2 }",
+      "\\frac { 17 } { 2 } \\sqrt { 2 }",
+      "\\frac { 17 } { 2 } \\sqrt { 3 }",
+      "17"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "HgMYH3zaRdMcWaAC2DA5oi",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Let G H be the median of R S B A. Find G H.",
-    "choices": [
-        "27",
-        "54",
-        "62",
-        "86"
-    ],
+    "choices": ["27", "54", "62", "86"],
     "answer": "C",
-    "problem_type_graph": [
-        "Trapezoid"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Trapezoid"],
+    "problem_type_goal": ["Length"],
     "image_id": "XMJux4Xg6PjKPbrdGDbLki",
     "predicted_answer": "The median of a triangle is the line segment that connects the midpoints of two sides. In this case, the median of the triangle is the line segment that connects the midpoints of the sides R and S. To find the length of this median, we can use the fact that the median divides the triangle into two equal areas. This means that the area of the triangle is equal to half the area of the rectangle formed by the median and the base of the triangle.\n\nThe base of the triangle is the side AB, and the height of the triangle is the side QR. The area of the triangle is given by the formula:\n\nArea = (1/2) x base x height\n\nSubstituting the values of the base and height, we get:\n\nArea = (1/2) x AB x QR\n\nSince the area of the triangle is equal to half the area of the rectangle, we can write:\n\n(1/2) x AB x QR = (1/2) x AB x QR\n\nThis simplifies to:\n\nAB = QR\n\nNow, we can use the Pythagorean theorem to find the length of the median. The median is the hypotenuse of a right triangle with legs QR and AB. The Pythagorean theorem states that:\n\nc^2 = a^2 + b^2\n\nwhere c is the hypotenuse, and a and b are the legs. Substituting the values of QR and AB, we get:\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^2\n\nc^2 = QR^2 + AB^",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "25",
-        "40",
-        "65",
-        "115"
-    ],
+    "choices": ["25", "40", "65", "115"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "3jEw8t7gmYFHAFxyASK45e",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 2 if m \\widehat B C = 30 and m \\widehat A D = 20.",
-    "choices": [
-        "20",
-        "25",
-        "30",
-        "155"
-    ],
+    "choices": ["20", "25", "30", "155"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "65AAXmXHtdfXmbYrAuf54M",
     "predicted_answer": "A. 20",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle V X W.",
-    "choices": [
-        "25",
-        "65",
-        "115",
-        "180"
-    ],
+    "choices": ["25", "65", "115", "180"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "X6ugLMmPVtGgJq3bQ5RfkJ",
     "predicted_answer": "",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find W R.",
-    "choices": [
-        "6",
-        "8",
-        "10",
-        "12"
-    ],
+    "choices": ["6", "8", "10", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "9ExVE7fXSBurdZTj2z89tm",
     "predicted_answer": "",
     "extracted_answer": "I apologize, but it looks like detailed information is missing from your request. Could you please provide the detailed answer to the problem? This way, I can help you extract the correct letter from the available choices."
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R S T.",
-    "choices": [
-        "55",
-        "70",
-        "75",
-        "80"
-    ],
+    "choices": ["55", "70", "75", "80"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "XyAsQUSnSJ5p2HL8FGUhQ4",
     "predicted_answer": "",
     "extracted_answer": "The letter answer is C."
-},
-{
+  },
+  {
     "problem_text": "Polygon A B C D \\sim polygon A E F G, m \\angle A G F = 108, G F = 14, A D = 12, D G = 4.5, E F = 8, and A B = 26. Find m \\angle A D C.",
-    "choices": [
-        "14",
-        "72",
-        "108",
-        "120"
-    ],
+    "choices": ["14", "72", "108", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "VfEptATdCVFnAUSWbkinNT",
     "predicted_answer": "",
     "extracted_answer": "The detailed explanation is missing, so I don't have the necessary information to extract the letter of the final answer from it. Please provide the detailed answer for me to determine the correct letter (A, B, C, or D)."
-},
-{
+  },
+  {
     "problem_text": "In the figure, m \\angle 3 = 110 and m \\angle 12 = 55. Find the measure of \\angle 1.",
-    "choices": [
-        "55",
-        "110",
-        "125",
-        "135"
-    ],
+    "choices": ["55", "110", "125", "135"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "k8ivzaNx7qYDgHdVCkUNSB",
     "predicted_answer": "The correct answer is D. 135.",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "60",
-        "80",
-        "90",
-        "120"
-    ],
+    "choices": ["60", "80", "90", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "2VHBV6S8fPSJgPTq9BqMj3",
     "predicted_answer": "",
     "extracted_answer": "None of the detailed answer is provided. To choose from multiple choices, I need the detailed answer."
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 1.",
-    "choices": [
-        "39",
-        "84",
-        "108",
-        "129"
-    ],
+    "choices": ["39", "84", "108", "129"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Dz8pdgDn5bKk4Z8xDFtF38",
     "predicted_answer": "",
     "extracted_answer": "Based on the instructions given, the final answer must be extracted from the detailed answer. Since the statement prompts for a Letter Answer which corresponds to one of the choices (A, B, C, or D), we lookup the letter from your prompt:\n\nChoices: \nA. 39 \nB. 84 \nC. 108 \nD. 129\n\nWhile the given detailed answer is \"Letter Answer,\" the specific letter was not provided in this instance, leaving it ambiguous. Therefore, following the directive, \"Letter Answer,\" translate to extracting the format required by the problem prompt:\n\nAnswer: I must reconsider instructions due to provided data resolving only to \"Letter Answer\". Verifying required format yields:\n\nAnswer: \"A\", \"B\", \"C\", or \"D\" expected.\n\nSo clarity remains absent within presented data. Outcome remains ambiguous.\n\nTypically: the process concluded displaying accurate representation should firm specified choice needed isolated.\n\nAnswer: Duplication absent.\n\nProvide specifics.\n\nConclusively repeat steps. Ambiguous leaves rechecking instructions:\n\nDetail refer exhibits unavailable feedback."
-},
-{
+  },
+  {
     "problem_text": "Find x. Round to the nearest tenth.",
-    "choices": [
-        "37.2",
-        "40.6",
-        "49.4",
-        "52.8"
-    ],
+    "choices": ["37.2", "40.6", "49.4", "52.8"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "c5pAbYjWYQrLRz4mYJEH92",
     "predicted_answer": "",
     "extracted_answer": "It seems the detailed answer is missing. Could you provide the detailed answer so I can extract the letter (A, B, C, or D) for you?"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "4",
-        "4 \\sqrt { 2 }",
-        "4 \\sqrt { 3 }",
-        "8"
-    ],
+    "choices": ["4", "4 \\sqrt { 2 }", "4 \\sqrt { 3 }", "8"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MJtiQBx28o39C6jWRmpJ5i",
     "predicted_answer": "",
     "extracted_answer": "The letter answer from the detailed answer is not provided in the text."
-},
-{
+  },
+  {
     "problem_text": "M C = 7, R M = 4, and A T = 16. Find M B.",
-    "choices": [
-        "6",
-        "8",
-        "10",
-        "12"
-    ],
+    "choices": ["6", "8", "10", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "FD4mAQASAum4KSSeWXshGh",
     "predicted_answer": "The correct answer is B. 8.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the value of the variable y in the figure.",
-    "choices": [
-        "10",
-        "20",
-        "30",
-        "70"
-    ],
+    "choices": ["10", "20", "30", "70"],
     "answer": "A",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "TMkdcLacMETJt2Q4zaFgbF",
     "predicted_answer": "",
     "extracted_answer": ""
-},
-{
+  },
+  {
     "problem_text": "Find y.",
-    "choices": [
-        "4",
-        "6",
-        "8",
-        "10"
-    ],
+    "choices": ["4", "6", "8", "10"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "UP3pQEDPGXo4iXMAT4gJQR",
     "predicted_answer": "",
     "extracted_answer": "This prompt does not contain a sufficient detailed answer to extract a final letter from. Could you please provide the detailed answer?"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle W.",
-    "choices": [
-        "38",
-        "38",
-        "76",
-        "152"
-    ],
+    "choices": ["38", "38", "76", "152"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "EoynC2FvvRkZutW6fYvmak",
     "predicted_answer": "",
     "extracted_answer": "Since the detailed answer was not provided, I cannot extract the letter for you. Please provide the detailed answer so I can proceed accordingly."
-},
-{
+  },
+  {
     "problem_text": "A plane travels from Des Moines to Phoenix, on to Atlanta, and back to Des Moines, as shown below. Find the distance in miles from Phoenix to Atlanta if the total trip was 3482 miles.",
-    "choices": [
-        "53",
-        "73.8",
-        "110",
-        "1591"
-    ],
+    "choices": ["53", "73.8", "110", "1591"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "bM3JmZ8MEiNCeEfd7gyE29",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, but you haven't provided a detailed answer for me to extract the letter from. Could you please provide the detailed answer?"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R.",
-    "choices": [
-        "29.1",
-        "43.7",
-        "54.8",
-        "56.1"
-    ],
+    "choices": ["29.1", "43.7", "54.8", "56.1"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "LmdC4oTghF8aksvgqmt9aA",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, but there is no specific answer provided in your detailed answer for me to extract the letter from. Could you please provide the detailed answer so I can determine the correct letter?"
-},
-{
+  },
+  {
     "problem_text": "In the figure, m \\angle 1 = 58, m \\angle 2 = 47, and m \\angle 3 = 26. Find the measure of \\angle 5.",
-    "choices": [
-        "43",
-        "47",
-        "58",
-        "73"
-    ],
+    "choices": ["43", "47", "58", "73"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "2KKF4jT2Bnqz8kLaT9p5Wz",
     "predicted_answer": "The correct answer is C. 58.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "The diagonals of rhombus F G H J intersect at K. If G H = x + 9 and J H = 5 x - 2, find x.",
-    "choices": [
-        "2.75",
-        "3",
-        "5.5",
-        "9"
-    ],
+    "choices": ["2.75", "3", "5.5", "9"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Length"],
     "image_id": "Sv5NjuBncDvoVoeY7HEJsW",
     "predicted_answer": "The correct answer is C. 5.5.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "3.4",
-        "7.0",
-        "8.1",
-        "9.3"
-    ],
+    "choices": ["3.4", "7.0", "8.1", "9.3"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "VssFAzFjpaj3KPwBqxLZZK",
     "predicted_answer": "",
     "extracted_answer": "I am sorry, but it seems like the detailed answer is missing from your message. Please provide the detailed answer so I can extract the letter (A, B, C, or D) corresponding to the final answer."
-},
-{
+  },
+  {
     "problem_text": "Find the circumference of the figure. Round to the nearest tenth.",
-    "choices": [
-        "18.6",
-        "19.5",
-        "37.7",
-        "39.0"
-    ],
+    "choices": ["18.6", "19.5", "37.7", "39.0"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "JNmU7c93x4Q8vjMeKeNX5c",
     "predicted_answer": "",
     "extracted_answer": "You have not provided the detailed answer yet. Please provide the detailed answer so that I can extract the final letter (A, B, C, or D) for you."
-},
-{
+  },
+  {
     "problem_text": "If m \\widehat F E = 118, m \\widehat A B = 108, m \\angle E G B = 52, and m \\angle E F B = 30, find m \\widehat C F.",
-    "choices": [
-        "30",
-        "44",
-        "108",
-        "118"
-    ],
+    "choices": ["30", "44", "108", "118"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "hsVdfkbBAn24iHLBRcVMcK",
     "predicted_answer": "The correct answer is B. 44.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Use a Pythagorean Triple to find x.",
-    "choices": [
-        "66",
-        "68",
-        "70",
-        "72"
-    ],
+    "choices": ["66", "68", "70", "72"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "nnQtjunEPquHCwk8QrjqMC",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, it seems there is no detailed answer provided. Could you please provide the detailed answer so that I can extract the corresponding letter (A, B, C, or D) for you?"
-},
-{
+  },
+  {
     "problem_text": "Find the measure of \\angle C F D on \\odot F with diameter A C.",
-    "choices": [
-        "115",
-        "119",
-        "120",
-        "123"
-    ],
+    "choices": ["115", "119", "120", "123"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "bPRtcMPCqNtvi7PckJPmFi",
     "predicted_answer": "",
     "extracted_answer": "You did not provide the detailed answer. Please provide it so that I can extract the letter of the final answer for you."
-},
-{
+  },
+  {
     "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K L P.",
-    "choices": [
-        "20",
-        "110",
-        "140",
-        "160"
-    ],
+    "choices": ["20", "110", "140", "160"],
     "answer": "D",
-    "problem_type_graph": [
-        "Rectangle",
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "MEuEeuM3tRxxwADUucGqUH",
     "predicted_answer": "",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round the angle measure to the nearest degree.",
-    "choices": [
-        "98",
-        "103",
-        "108",
-        "113"
-    ],
+    "choices": ["98", "103", "108", "113"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "dfhPBuVzK6CsDqtEzRdufx",
     "predicted_answer": "",
     "extracted_answer": "Sorry, it seems like the detailed answer is missing. Could you please provide the detailed answer so I can extract the letter for you?"
-},
-{
+  },
+  {
     "problem_text": "Q is the centroid and B E = 9. Find B Q.",
-    "choices": [
-        "3",
-        "6",
-        "9",
-        "12"
-    ],
+    "choices": ["3", "6", "9", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "6W4im7PEyRpFbVjiPZG5r5",
     "predicted_answer": "The correct answer is C. 9.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "A B is a diameter, A C = 8 inches, and B C = 15 inches. Find the radius of the circle.",
-    "choices": [
-        "7.5",
-        "8",
-        "8.5",
-        "17"
-    ],
+    "choices": ["7.5", "8", "8.5", "17"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "kij5BCfXfAws2dNFn8bxKH",
     "predicted_answer": "",
     "extracted_answer": "None of the information you've provided includes a detailed answer or context to help determine which choice is correct. Please provide the detailed answer so that I can extract the corresponding letter for you."
-},
-{
+  },
+  {
     "problem_text": "Find y.",
     "choices": [
-        "\\frac { \\sqrt { 2 } } { 2 }",
-        "\\sqrt { 2 }",
-        "2 \\sqrt { 2 }",
-        "4 \\sqrt { 2 }"
+      "\\frac { \\sqrt { 2 } } { 2 }",
+      "\\sqrt { 2 }",
+      "2 \\sqrt { 2 }",
+      "4 \\sqrt { 2 }"
     ],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "APDyotoo5zGPmgB5yb6Uzf",
     "predicted_answer": "",
     "extracted_answer": "The letter of the final answer is: (None was provided in the detailed answer)\n\nTo adjust the instruction completion based on the detailed answer:\n        \n        Choices: A. \\frac { \\sqrt { 2 } } { 2 }, B. \\sqrt { 2 }, C. 2 \\sqrt { 2 }, D. 4 \\sqrt { 2 }\n        \n        Extract the correct letter from the detailed answer:\n        \n        Detailed Answer: Let's assume the final computation provided in your case results in the value \"4\u221a2\". According to the choices, \"4\u221a2\" corresponds to choice D.\n\nTherefore, the letter of the final answer is: D"
-},
-{
+  },
+  {
     "problem_text": "m is the perpendicular bisector of X Z, W Z = 14.9. Find W X.",
-    "choices": [
-        "7.45",
-        "14.9",
-        "22.4",
-        "25.3"
-    ],
+    "choices": ["7.45", "14.9", "22.4", "25.3"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "n7wvTkLoxG7XF4vtzV9vvd",
     "predicted_answer": "",
     "extracted_answer": "It appears the detailed answer is missing. Please provide the detailed answer, and I will extract the letter (A, B, C, or D) from it."
-},
-{
+  },
+  {
     "problem_text": "Lines l, m, and n are perpendicular bisectors of \\triangle P Q R and meet at T. If T Q = 2 x, P T = 3 y - 1, and T R = 8, find z.",
-    "choices": [
-        "3",
-        "4",
-        "5",
-        "6"
-    ],
+    "choices": ["3", "4", "5", "6"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MnzSAJzho7Vpzm4FcB5KoA",
     "predicted_answer": "The correct answer is B. 4.\n\nTo find z, we can use the fact that the perpendicular bisectors of the sides of a triangle intersect at a single point, called the circumcenter. In this case, the perpendicular bisectors of the sides PQ, QR, and PR intersect at T.\n\nSince T Q = 2 x, P T = 3 y - 1, and T R = 8, we can set up the following equations:\n\nT Q = 2 x\nT P = 3 y - 1\nT R = 8\n\nSolving these equations simultaneously, we get:\n\n2x = 3y - 1\n8 = 3y - 1\n\nAdding the two equations, we get:\n\n10 = 6y\n\nDividing both sides by 6, we get:\n\ny = 10/6 = 5/3\n\nSubstituting this value of y into the equation T P = 3 y - 1, we get:\n\nT P = 3(5/3) - 1 = 5 - 1 = 4\n\nTherefore, z = 4.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "If A B = 12, A C = 16, and E D = 5, find A E.",
-    "choices": [
-        "10",
-        "12",
-        "15",
-        "16"
-    ],
+    "choices": ["10", "12", "15", "16"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "NJtJf5rx2BWzhQkcvXuVVq",
     "predicted_answer": "A. 10",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle N C L.",
-    "choices": [
-        "60",
-        "120",
-        "240",
-        "360"
-    ],
+    "choices": ["60", "120", "240", "360"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "TmNTkejKb9x9cDwLr3GAGV",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, but you didn't provide the detailed answer. If you provide the detailed answer, I can help extract the letter of the final answer from it."
-},
-{
+  },
+  {
     "problem_text": "Find the measure of the altitude drawn to the hypotenuse.",
     "choices": [
-        "2 \\sqrt { 3 }",
-        "2 \\sqrt { 6 }",
-        "4 \\sqrt { 3 }",
-        "4 \\sqrt { 6 }"
+      "2 \\sqrt { 3 }",
+      "2 \\sqrt { 6 }",
+      "4 \\sqrt { 3 }",
+      "4 \\sqrt { 6 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "8ecUxcMJ8ZkHmaaN8TChc4",
     "predicted_answer": "",
     "extracted_answer": "To find the correct choice, let's analyze the provided detailed answer step-by-step. \n\nHowever, it seems that the detailed answer that would lead us to the final result is not provided. But based on the given choices and the instructions, in order to give you the final answer format, I will just assume we were solving a problem and arriving at a solution that is one of these choices.\n\nGiven the choices:\nA. 2 \\sqrt{3}\nB. 2 \\sqrt{6}\nC. 4 \\sqrt{3}\nD. 4 \\sqrt{6}\n\nIf we had the complete detailed reasoning, the last statement should logically end with the solution corresponding to one of these choices.\n\nFor instance, if the problem leads to the solution \"4 \\sqrt{6}\", we select:\n\n    Letter Answer: D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "20",
-        "30",
-        "40",
-        "50"
-    ],
+    "choices": ["20", "30", "40", "50"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "7ADXywbVqi2HibDzMNjwSM",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, but it looks like the detailed answer is missing. Could you please provide it?"
-},
-{
+  },
+  {
     "problem_text": "In rhombus L M P Q, m \\angle Q L M = 2 x^ { 2 } - 10, m \\angle Q P M = 8 x, and M P = 10. Find the perimeter of L M P Q.",
-    "choices": [
-        "10",
-        "40",
-        "70",
-        "140"
-    ],
+    "choices": ["10", "40", "70", "140"],
     "answer": "B",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "EsqtHKA8crSrfe6JM3N76M",
     "predicted_answer": "The perimeter of a rhombus is the sum of the lengths of its four sides. In this case, the lengths of the sides are given by the equations m \\angle Q L M = 2 x^ { 2 } - 10, m \\angle Q P M = 8 x, and M P = 10.\n\nTo find the perimeter, we need to find the values of x and then calculate the lengths of the sides.\n\nFrom the equation m \\angle Q L M = 2 x^ { 2 } - 10, we can see that the measure of the angle at the top of the rhombus is 2x^2 - 10 degrees.\n\nFrom the equation m \\angle Q P M = 8 x, we can see that the measure of the angle at the bottom of the rhombus is 8x degrees.\n\nSince the sum of the angles in a triangle is 180 degrees, we can write the equation:\n\n2x^2 - 10 + 8x + 10 = 180\n\nSimplifying the equation, we get:\n\n2x^2 + 8x - 10 = 180\n\nDividing both sides by 2, we get:\n\nx^2 + 4x - 5 = 90\n\nRearranging the equation, we get:\n\nx^2 + 4x - 95 = 0\n\nUsing the quadratic formula, we can find the value of x:\n\nx = (-4 \u00b1 \u221a(4^2 - 4 \\* 1 \\* (-95))) / (2 \\* 1)\n\nx = (-4 \u00b1 \u221a(16 + 380)) / 2\n\nx = (-4 \u00b1 \u221a396) / 2\n\nx \u2248 (-4 \u00b1 19.8) / 2\n\nx \u2248 (-4 + 19.8) / 2 \u2248 7.9 or x \u2248 (-4 - 19.8) / 2 \u2248 -12.9\n\nSince the length of a side of a rhombus cannot be negative, we can discard the negative value of x.\n\nNow that we have the value of x, we can calculate the lengths of the sides:\n\nm \\angle Q L M = 2x^2 - 10 \u2248 2(7.9)^2 - 10 \u2248 2(61.6) - 10 \u2248 122.2 - 10 \u2248 112.2\n\nm \\angle Q P",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the trapezoid.",
-    "choices": [
-        "506",
-        "667",
-        "678.5",
-        "851"
-    ],
+    "choices": ["506", "667", "678.5", "851"],
     "answer": "C",
-    "problem_type_graph": [
-        "Trapezoid"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Trapezoid"],
+    "problem_type_goal": ["Area"],
     "image_id": "er4baEzQPyfNpPMHkgMMFy",
     "predicted_answer": "",
     "extracted_answer": "Sorry, but you didn't complete the detailed answer. Could you please provide the rest of the detailed answer?"
-},
-{
+  },
+  {
     "problem_text": "Triangle L M N is equilateral, and M P bisects L N. Find the measure of the side of \\triangle L M N.",
-    "choices": [
-        "9",
-        "10",
-        "11",
-        "12"
-    ],
+    "choices": ["9", "10", "11", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "PNHHASfJpNJUKPDz4HXaNn",
     "predicted_answer": "The correct answer is B. 10.\n\nTo find the measure of the side of the equilateral triangle, we can use the fact that M P bisects L N. This means that the length of the side of the triangle is equal to the sum of the lengths of the two segments that are formed by M P.\n\nSince the triangle is equilateral, all three sides are equal in length. Let's denote the length of the side of the triangle as x.\n\nThe length of the segment formed by M P is half of the length of the side of the triangle, so it is x/2.\n\nThe length of the segment formed by L N is also half of the length of the side of the triangle, so it is x/2.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nSince the triangle is equilateral, all three sides are equal in length. Therefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length of the side of the triangle is equal to the sum of x/2 and x/2, which is x.\n\nTherefore, the length",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "3",
-        "4",
-        "6",
-        "7"
-    ],
+    "choices": ["3", "4", "6", "7"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MRyybgJTPtzfNUXGFyGx6A",
     "predicted_answer": "",
     "extracted_answer": "It appears that the detailed answer is missing from your request. Please provide the detailed answer so I can appropriately extract the correct letter for you."
-},
-{
+  },
+  {
     "problem_text": "parallelogram M N P Q with m \\angle M = 10 x and m \\angle N = 20 x, find \\angle M.",
-    "choices": [
-        "30",
-        "45",
-        "60",
-        "120"
-    ],
+    "choices": ["30", "45", "60", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "ntjhG53DyUbz2Qej7kurTv",
     "predicted_answer": "The correct answer is C. 60.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "If m \\angle 5 = 7 x - 5 and m \\angle 4 = 2 x + 23, find x.",
-    "choices": [
-        "5.6",
-        "18",
-        "20",
-        "22"
-    ],
+    "choices": ["5.6", "18", "20", "22"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "gFoNe2vzy7vKP8Mb3qU9H2",
     "predicted_answer": "The correct answer is B. 18.\n\nTo find x, we can use the fact that the sum of the angles in a triangle is 180 degrees. Since m \\angle 5 = 7 x - 5 and m \\angle 4 = 2 x + 23, we can write the equation:\n\nm \\angle 5 + m \\angle 4 + m \\angle 3 = 180\n\nSubstituting the given values, we get:\n\n7 x - 5 + 2 x + 23 + m \\angle 3 = 180\n\nSimplifying the equation, we have:\n\n9 x + 18 + m \\angle 3 = 180\n\nSubtracting 18 from both sides, we get:\n\n9 x + m \\angle 3 = 162\n\nSince m \\angle 3 is the third angle in the triangle, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle 3:\n\nm \\angle 3 = 180 - (7 x - 5) - (2 x + 23)\n\nm \\angle 3 = 180 - 7 x + 5 - 2 x - 23\n\nm \\angle 3 = 180 - 5 x - 18\n\nm \\angle 3 = 162 - 5 x\n\nSubstituting this value of m \\angle 3 into the equation 9 x + m \\angle 3 = 162, we get:\n\n9 x + (162 - 5 x) = 162\n\nSimplifying the equation, we have:\n\n9 x + 162 - 5 x = 162\n\n4 x = 0\n\nx = 0\n\nHowever, this solution does not make sense in the context of the problem, as it implies that the triangle has a side length of 0. Therefore, we need to check our calculations and ensure that we have correctly interpreted the given information.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram M N P R to find m \\angle R M N.",
-    "choices": [
-        "33",
-        "38",
-        "71",
-        "109"
-    ],
+    "choices": ["33", "38", "71", "109"],
     "answer": "D",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "VQuhEAFAUzCQCMtGaJYtdk",
     "predicted_answer": "",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle B.",
-    "choices": [
-        "29",
-        "58",
-        "61",
-        "122"
-    ],
+    "choices": ["29", "58", "61", "122"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "mTaJ2qYWNyAFwozhqgVt7x",
     "predicted_answer": "",
     "extracted_answer": "The letter answer is C."
-},
-{
+  },
+  {
     "problem_text": "If \\triangle L M N \\sim \\triangle Q R S, Q R = 35, R S = 37, S Q = 12, and N L = 5, find the perimeter of \\triangle L M N.",
-    "choices": [
-        "35",
-        "42",
-        "63",
-        "84"
-    ],
+    "choices": ["35", "42", "63", "84"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "WWPeTGCdinVayfLvaFhnc3",
     "predicted_answer": "The perimeter of a triangle is the sum of the lengths of its sides. In this case, the triangle L M N is similar to the triangle Q R S, which means that the ratio of their corresponding sides is the same. Therefore, we can set up the following proportion:\n\n\\frac{L}{Q} = \\frac{M}{R} = \\frac{N}{S}\n\nSince N L = 5, we can substitute this value into the proportion:\n\n\\frac{L}{Q} = \\frac{5}{12}\n\nNow, we can use the given values of Q R = 35 and R S = 37 to find the length of L:\n\n\\frac{L}{35} = \\frac{5}{12}\n\nCross-multiplying, we get:\n\n12L = 175\n\nDividing both sides by 12, we find:\n\nL = 14.58\n\nFinally, we can find the perimeter of the triangle L M N by adding the lengths of its sides:\n\nPerimeter = L + M + N = 14.58 + 35 + 37 = 78.58\n\nTherefore, the perimeter of the triangle L M N is approximately 78.58.",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "The two polygons are similar. Find U T.",
-    "choices": [
-        "12",
-        "20.5",
-        "22.5",
-        "35"
-    ],
+    "choices": ["12", "20.5", "22.5", "35"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Length"],
     "image_id": "GhXmeASaGQqUARG5hnKbd7",
     "predicted_answer": "",
     "extracted_answer": "It looks like you did not provide the detailed answer. Please provide the detailed answer, and I'll extract the letter from it for you."
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 6.",
-    "choices": [
-        "25",
-        "28",
-        "35",
-        "55"
-    ],
+    "choices": ["25", "28", "35", "55"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GE33RcZzgAg98WDw44DxPH",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "\\odot P \\cong \\odot Q. Find x.",
-    "choices": [
-        "7",
-        "11",
-        "22",
-        "44"
-    ],
+    "choices": ["7", "11", "22", "44"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "Dn76YqadtCsKBjws8GFuYk",
     "predicted_answer": "",
     "extracted_answer": "It looks like the detailed answer is missing. Could you please provide the detailed answer so I can extract the final letter for you?"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "4 \\sqrt { 2 }",
-        "4 \\sqrt { 3 }",
-        "8",
-        "4 \\sqrt { 5 }"
-    ],
+    "choices": ["4 \\sqrt { 2 }", "4 \\sqrt { 3 }", "8", "4 \\sqrt { 5 }"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "SBNDcGa7LaVNWBr4TuJZJ7",
     "predicted_answer": "",
     "extracted_answer": "The letter is C."
-},
-{
+  },
+  {
     "problem_text": "Find Q P.",
-    "choices": [
-        "2",
-        "3.6",
-        "5",
-        "6"
-    ],
+    "choices": ["2", "3.6", "5", "6"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "jVwD8UTeevsaSQ839YjYim",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "8 \\sqrt { 2 }",
-        "8 \\sqrt { 3 }",
-        "8 \\sqrt { 5 }",
-        "8 \\sqrt { 7 }"
+      "8 \\sqrt { 2 }",
+      "8 \\sqrt { 3 }",
+      "8 \\sqrt { 5 }",
+      "8 \\sqrt { 7 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "Qt6G44jarbEYNqBzqYkdSv",
     "predicted_answer": "",
     "extracted_answer": "The letter answer from the detailed answer is not provided in your query. Please ensure that the detailed answer includes the final selection among the choices (A, B, C, D)."
-},
-{
+  },
+  {
     "problem_text": "In rhombus A B C D, A B = 2 x + 3 and B C = 5 x. Find m \\angle A E B.",
-    "choices": [
-        "45",
-        "60",
-        "90",
-        "180"
-    ],
+    "choices": ["45", "60", "90", "180"],
     "answer": "C",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "QgSqY5wXuGDAFfoZsDGEoV",
     "predicted_answer": "The correct answer is B. 60.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. If m \\widehat C D = 134, find m \\widehat C B.",
-    "choices": [
-        "24",
-        "33",
-        "67",
-        "134"
-    ],
+    "choices": ["24", "33", "67", "134"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "HkDHT9fw79TNfBouN5KBym",
     "predicted_answer": "The correct answer is C. 67.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Circles G, J, and K all intersect at L. If G H = 10, find F H.",
-    "choices": [
-        "5",
-        "10",
-        "20",
-        "25"
-    ],
+    "choices": ["5", "10", "20", "25"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "YzWx64nrLY6XnofBKWsBAw",
     "predicted_answer": "The correct answer is B. 10.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the scale factor from W to W'.",
     "choices": [
-        "\\frac { 1 } { 3 }",
-        "\\frac { 2 } { 3 }",
-        "\\frac { 3 } { 4 }",
-        "\\frac { 3 } { 2 }"
+      "\\frac { 1 } { 3 }",
+      "\\frac { 2 } { 3 }",
+      "\\frac { 3 } { 4 }",
+      "\\frac { 3 } { 2 }"
     ],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Ratio"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Ratio"],
     "image_id": "9N8XsSWN3pSRGe2tzqeq2T",
     "predicted_answer": "",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R.",
-    "choices": [
-        "58",
-        "60",
-        "122",
-        "124"
-    ],
+    "choices": ["58", "60", "122", "124"],
     "answer": "A",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "N4ud5y3idfEucApRKHwcEy",
     "predicted_answer": "",
     "extracted_answer": "It seems that the detailed answer is missing from your message. Could you please provide the detailed answer so that I can extract the letter (A, B, C, or D) for you?"
-},
-{
+  },
+  {
     "problem_text": "Find x so that the quadrilateral is a parallelogram.",
-    "choices": [
-        "3",
-        "5",
-        "12",
-        "18"
-    ],
+    "choices": ["3", "5", "12", "18"],
     "answer": "B",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "6uz94kszbNUWbiQLvmyE3g",
     "predicted_answer": "",
     "extracted_answer": "It seems your detailed answer is incomplete. Could you please provide the full detailed explanation so I can extract the correct letter for you?"
-},
-{
+  },
+  {
     "problem_text": "Express the ratio of \\cos B as a decimal to the nearest hundredth.",
-    "choices": [
-        "0.38",
-        "0.42",
-        "0.92",
-        "2.40"
-    ],
+    "choices": ["0.38", "0.42", "0.92", "2.40"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle",
-        "Ratio"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle", "Ratio"],
     "image_id": "CPL9ZjizYrGL2bPBSxBxHE",
     "predicted_answer": "",
     "extracted_answer": "I apologize, but it looks like the \"Detailed Answer\" section is missing. Could you please provide the detailed answer?"
-},
-{
+  },
+  {
     "problem_text": "A B \\cong D F. Find x.",
-    "choices": [
-        "1",
-        "2",
-        "3",
-        "4"
-    ],
+    "choices": ["1", "2", "3", "4"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "4yprPhPW4TDiJVBND8MwxA",
     "predicted_answer": "",
     "extracted_answer": "C."
-},
-{
+  },
+  {
     "problem_text": "In \\odot M, F L = 24, H J = 48, and m \\widehat H P = 65. Find F G.",
-    "choices": [
-        "24",
-        "32",
-        "48",
-        "65"
-    ],
+    "choices": ["24", "32", "48", "65"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "RduVxE8AV8hDs7KLerNjA6",
     "predicted_answer": "The correct answer is C. 48.",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "0.5",
-        "1",
-        "1.5",
-        "2"
-    ],
+    "choices": ["0.5", "1", "1.5", "2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Length"],
     "image_id": "4fDHb89jCqj6FY2wJssk9c",
     "predicted_answer": "",
     "extracted_answer": "It seems like the detailed explanation is missing. Please provide the detailed answer so I can extract the final letter for you."
-},
-{
+  },
+  {
     "problem_text": "Find z.",
     "choices": [
-        "10",
-        "\\frac { 32 } { 3 }",
-        "\\frac { 40 } { 3 }",
-        "\\frac { 50 } { 3 }"
+      "10",
+      "\\frac { 32 } { 3 }",
+      "\\frac { 40 } { 3 }",
+      "\\frac { 50 } { 3 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "DvjehShZTrhpUP4Ua2uAj9",
     "predicted_answer": "",
     "extracted_answer": "I apologize for any confusion, but it seems there was no detailed answer provided alongside the choices. Therefore, I'm unable to extract the letter of the final answer for you. \n\nPlease provide the detailed answer, and I will extract the letter of the final answer for you."
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "6",
-        "6.5",
-        "7",
-        "7.5"
-    ],
+    "choices": ["6", "6.5", "7", "7.5"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "ELqpBwnJyP28ciFP2fwLzo",
     "predicted_answer": "",
     "extracted_answer": "It looks like there's a part of the question missing that specifies which choice corresponds to the correct detailed answer. Without additional context, I can't provide the letter. Please provide the required detailed answer and context, so I can extract the letter for you."
-},
-{
+  },
+  {
     "problem_text": "In H, the diameter is 18, L M = 12, and m \\widehat L M = 84. Find H P. Round to the nearest hundredth.",
-    "choices": [
-        "2.29",
-        "3.35",
-        "5.65",
-        "6.71"
-    ],
+    "choices": ["2.29", "3.35", "5.65", "6.71"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "ZEvNhHVPWhypzqXfd3AJXr",
     "predicted_answer": "The diameter of the circle is 18, so the radius is 9. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length of the line segment HP is 84. The length of the line segment LM is 12, so the length of the line segment HP is 12. The length of the line segment PM is 84, so the length",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 1.",
-    "choices": [
-        "21",
-        "27",
-        "52",
-        "79"
-    ],
+    "choices": ["21", "27", "52", "79"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "HnB523N39SaykxfsMzsE6s",
     "predicted_answer": "",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "7",
-        "7 \\sqrt { 2 }",
-        "7 \\sqrt { 3 }",
-        "14"
-    ],
+    "choices": ["7", "7 \\sqrt { 2 }", "7 \\sqrt { 3 }", "14"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "oCDWmdQQjsi3WaZxJ2RVxv",
     "predicted_answer": "",
     "extracted_answer": "To determine the shortest path around the loop, we must first understand that Route ABCD is a rectangle. We are given that the short side is 7 units, and the long side is 7\u221a3 units.\n\nBased on this geometry, the shortest path from one corner to the opposite corner can be found using the Pythagorean theorem:\n\n\\[ \\text{Diagonal} = \\sqrt{(7)^2 + (7\\sqrt{3})^2} = \\sqrt{49 + 147} = \\sqrt{196} = 14 \\]\n\nThus, the shortest path around the loop is 14 units. Therefore, the answer is D."
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 2.",
-    "choices": [
-        "39",
-        "42",
-        "48",
-        "51"
-    ],
+    "choices": ["39", "42", "48", "51"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rectangle",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "CKgupGiCYWLwnPyTAPZ6Ws",
     "predicted_answer": "",
     "extracted_answer": "I'm sorry, it appears you've provided a prompt, but there is no detailed answer included for me to extract the final letter from. Could you please provide the detailed answer so I can assist you further?"
-},
-
+  }
 ]

@@ -1,1914 +1,1037 @@
 [
-{
+  {
     "problem_text": "Find the area of the figure.",
-    "choices": [
-        "30",
-        "60",
-        "120",
-        "240"
-    ],
+    "choices": ["30", "60", "120", "240"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Area"],
     "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
     "predicted_answer": "Let a be the length of the base of the triangle [[var a]]. We have [[eq a = 10]]. \n            Let b be the length of the other leg of the triangle [[var b]]. We have [[eq b = 13]]. \n            Let h be the height of the triangle [[var h]]. We have [[eq h = 10]]. \n            Let A be the area of the triangle [[var A]]. We have [[eq A = (1/2) * a * h]]. \n            Substituting the values of a and h into the equation for A, we get [[eq A = (1/2) * 10 * 10]]. \n            Simplifying, we get [[eq A = 50]]. \n            The answer is the value of A [[answer A]]. \n            Answer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
-    "choices": [
-        "5",
-        "12",
-        "13",
-        "26"
-    ],
+    "choices": ["5", "12", "13", "26"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "hX7ABeotrk7MDSLPFyKB9N",
     "predicted_answer": "Peano-style calculation:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = 13]].\n2. Let d be the length of the chord CD [[var d]]. We have [[eq d = 24]].\n3. Let x be the length of the perpendicular from O to CD [[var x]].\n4. Let y be the length of the segment from O to the point where the chord intersects the circle [[var y]].\n5. Since CD is a diameter of the circle, the length of CD is twice the radius. Therefore, we have [[eq d = 2r]].\n6. Using the Pythagorean theorem, we have [[eq x^2 + y^2 = d^2]].\n7. Substituting the values, we get [[eq x^2 + y^2 = (2r)^2]].\n8. Simplifying, we have [[eq x^2 + y^2 = 4r^2]].\n9. Substituting the value of r, we get [[eq x^2 + y^2 = 4(13)^2]].\n10. Simplifying, we get [[eq x^2 + y^2 = 4(169)]].\n11. Therefore, [[eq x^2 + y^2 = 676]].\n12. Since x is the length of the perpendicular from O to CD, we have [[eq x = sqrt(676)]].\n13. Simplifying, we get [[eq x = 26]].\n\nThe answer is the value of x [[answer x]].\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round to the nearest tenth.",
-    "choices": [
-        "18.8",
-        "23.2",
-        "25.9",
-        "44.0"
-    ],
+    "choices": ["18.8", "23.2", "25.9", "44.0"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "BWCA6Gyt4V43zDsXgcpHLF",
     "predicted_answer": "Peano-style calculation:\n\n1. Let a be the length of the side opposite the 54\u00b0 angle [[var a]]. We have [[eq a = x]].\n2. Let b be the length of the side adjacent to the 54\u00b0 angle [[var b]]. We have [[eq b = 32]].\n3. Let c be the length of the hypotenuse of the right triangle [[var c]]. We have [[eq c = x]].\n4. Use the trigonometric function sine to find the length of the side opposite the 54\u00b0 angle [[eq sin(54\u00b0) = a/c]].\n5. Substitute the values of a and c into the equation [[eq sin(54\u00b0) = x/x]].\n6. Simplify the equation [[eq sin(54\u00b0) = 1]].\n7. Solve for x [[eq x = sin(54\u00b0)]].\n8. Use a calculator to find the value of sin(54\u00b0) [[eq x = 0.6]].\n9. Round x to the nearest tenth [[eq x = 0.6]].\n\nThe answer is the value of x [[answer x = 0.6]].\n\nAnswer: C",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle C A M.",
-    "choices": [
-        "14",
-        "28",
-        "36",
-        "90"
-    ],
+    "choices": ["14", "28", "36", "90"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Fh2t9y3fBx9MEmAkAYVHp7",
     "predicted_answer": "Let \\( \\angle TAN \\) be 28\u00b0 [[var \\( \\angle TAN \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\circ \\)]]. \n              Let \\( \\angle TAN \\) be 28\u00b0 [[eq \\( \\angle TAN = 28^\\",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "In the figure below, \\angle A B C is intersected by parallel lines l and m. What is the measure of \\angle A B C? Express your answer in degrees.",
-    "choices": [
-        "33",
-        "38",
-        "61",
-        "71"
-    ],
+    "choices": ["33", "38", "61", "71"],
     "answer": "D",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GzYzxzQuLmvqSNqRoC55Td",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( \\angle A B C \\) be the angle we need to find.\n2. Let \\( \\angle A \\) be the angle given in the diagram. We have \\( \\angle A = 33^\\circ \\).\n3. Let \\( \\angle B \\) be the angle given in the diagram. We have \\( \\angle B = 38^\\circ \\).\n4. Let \\( \\angle C \\) be the angle given in the diagram. We have \\( \\angle C = 33^\\circ \\).\n5. Let \\( \\angle D \\) be the angle given in the diagram. We have \\( \\angle D = 38^\\circ \\).\n6. Let \\( \\angle E \\) be the angle given in the diagram. We have \\( \\angle E = 33^\\circ \\).\n7. Let \\( \\angle F \\) be the angle given in the diagram. We have \\( \\angle F = 38^\\circ \\).\n8. Let \\( \\angle G \\) be the angle given in the diagram. We have \\( \\angle G = 33^\\circ \\).\n9. Let \\( \\angle H \\) be the angle given in the diagram. We have \\( \\angle H = 38^\\circ \\).\n10. Let \\( \\angle I \\) be the angle given in the diagram. We have \\( \\angle I = 33^\\circ \\).\n11. Let \\( \\angle J \\) be the angle given in the diagram. We have \\( \\angle J = 38^\\circ \\).\n12. Let \\( \\angle K \\) be the angle given in the diagram. We have \\( \\angle K = 33^\\circ \\).\n13. Let \\( \\angle L \\) be the angle given in the diagram. We have \\( \\angle L = 38^\\circ \\).\n14. Let \\( \\angle M \\) be the angle given in the diagram. We have \\( \\angle M = 33^\\circ \\).\n15. Let \\( \\angle N \\) be the angle given in the diagram. We have \\( \\angle N = 38^\\circ \\).\n16. Let \\( \\angle O \\) be the angle given in the diagram. We have \\( \\angle O = 33^\\circ \\).\n17. Let \\( \\angle P \\) be the angle given in the diagram.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the value of x in the diagram.",
-    "choices": [
-        "68",
-        "78",
-        "79",
-        "136"
-    ],
+    "choices": ["68", "78", "79", "136"],
     "answer": "A",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GmK3QeRXHQ4L6jPtQuEaxE",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the measure of angle \\( \\alpha \\) [[var a]]. We have [[eq a = x - 1]].\n2. Let \\( b \\) be the measure of angle \\( \\beta \\) [[var b]]. We have [[eq b = x + 10]].\n3. Let \\( c \\) be the measure of angle \\( \\gamma \\) [[var c]]. We have [[eq c = 79]].\n4. Let \\( d \\) be the measure of angle \\( \\delta \\) [[var d]]. We have [[eq d = 2x]].\n5. Let \\( e \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), \\( \\gamma \\), and \\( \\delta \\) [[var e]]. We have [[eq e = a + b + c + d]].\n6. Substitute the values of \\( a \\), \\( b \\), \\( c \\), and \\( d \\) into the equation for \\( e \\): [[eq e = (x - 1) + (x + 10) + 79 + 2x]].\n7. Simplify the equation: [[eq e = 4x + 80]].\n8. Since the sum of angles in a triangle is 180 degrees, we have [[eq e = 180]].\n9. Solve for \\( x \\): [[eq 4x + 80 = 180]].\n10. Subtract 80 from both sides: [[eq 4x = 100]].\n11. Divide both sides by 4: [[eq x = 25]].\n\nThe value of \\( x \\) is 25.\n\nAnswer: None of the provided choices match the calculated value of \\( x \\).",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the value of x.",
-    "choices": [
-        "56",
-        "68",
-        "74",
-        "84"
-    ],
+    "choices": ["56", "68", "74", "84"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "AU9B2ky9ydAjqXtZ8q6sec",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the measure of the angle \\( \\alpha \\) [[var a]]. We have [[eq a = x + 4]].\n2. Let \\( b \\) be the measure of the angle \\( \\beta \\) [[var b]]. We have [[eq b = x + 10]].\n3. Let \\( c \\) be the measure of the angle \\( \\gamma \\) [[var c]]. We have [[eq c = x - 6]].\n4. Let \\( d \\) be the measure of the angle \\( \\delta \\) [[var d]]. We have [[eq d = x + 56]].\n5. Let \\( e \\) be the sum of the measures of the angles in the pentagon [[var e]]. We have [[eq e = 360]].\n6. Let \\( f \\) be the sum of the measures of the angles in the pentagon [[var f]]. We have [[eq f = a + b + c + d]].\n7. Substitute the values of \\( a \\), \\( b \\), \\( c \\), and \\( d \\) into the equation for \\( f \\): [[eq f = (x + 4) + (x + 10) + (x - 6) + (x + 56)]].\n8. Simplify the equation for \\( f \\): [[eq f = 5x + 66]].\n9. Substitute the value of \\( e \\) into the equation for \\( f \\): [[eq 5x + 66 = 360]].\n10. Solve for \\( x \\): [[eq 5x = 306]].\n11. Divide both sides by 5: [[eq x = 60.12]].\n\nThe value of \\( x \\) is approximately 60.12.\n\nAnswer: None of the provided choices match the calculated value of \\( x \\).",
     "extracted_answer": "Since the detailed answer concludes that \"None of the provided choices match the calculated value of \\( x \\),\" the correct letter answer corresponding to this conclusion is:\n\nD"
-},
-{
+  },
+  {
     "problem_text": "If X N = 6, X M = 2, and X Y = 10, find N Z.",
-    "choices": [
-        "12",
-        "16",
-        "24",
-        "32"
-    ],
+    "choices": ["12", "16", "24", "32"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "N5hsnQCi2bMoye5LDMZ8Dq",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( x \\) be the length of \\( MN \\) [[var x]]. We have [[eq x = 2]].\n2. Let \\( y \\) be the length of \\( XY \\) [[var y]]. We have [[eq y = 10]].\n3. Let \\( z \\) be the length of \\( NZ \\) [[var z]].\n4. Let \\( NZ \\) be the length of \\( MN + XY \\) [[var NZ]]. We have [[eq NZ = x + y]].\n5. Substitute the values of \\( x \\) and \\( y \\) into the equation [[eq NZ = 2 + 10]].\n6. Simplify the equation to find \\( NZ \\) [[eq NZ = 12]].\n\nAnswer: A",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find y.",
-    "choices": [
-        "21",
-        "21 \\sqrt { 2 }",
-        "21 \\sqrt { 3 }",
-        "42"
-    ],
+    "choices": ["21", "21 \\sqrt { 2 }", "21 \\sqrt { 3 }", "42"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MWxtwQ5XwfDYD92en5cveL",
     "predicted_answer": "The image presents a right triangle with a 30\u00b0 angle, a 60\u00b0 angle, and a 21 cm side. The task is to find the value of \\( y \\) using the given angles and side lengths.\n\n1. Let \\( a \\) be the length of the side opposite the 30\u00b0 angle. We have \\( a = y \\) [[var a]].\n2. Let \\( b \\) be the length of the side opposite the 60\u00b0 angle. We have \\( b = 21 \\) [[var b]].\n3. Let \\( c \\) be the hypotenuse of the triangle. We have \\( c = 21 \\) [[var c]].\n4. Using the trigonometric ratios for the 30\u00b0 and 60\u00b0 angles, we have:\n   - For the 30\u00b0 angle, \\( \\sin(30^\\circ) = \\frac{1}{2} \\) [[eq \\sin(30^\\circ) = \\frac{1}{2}]].\n   - For the 60\u00b0 angle, \\( \\sin(60^\\circ) = \\sqrt{3} \\) [[eq \\sin(60^\\circ) = \\sqrt{3}]].\n5. Using the sine ratios, we have:\n   - For the 30\u00b0 angle: \\( \\sin(30^\\circ) = \\frac{1}{2} \\) [[eq \\sin(30^\\circ) = \\frac{1}{2}]].\n   - For the 60\u00b0 angle: \\( \\sin(60^\\circ) = \\sqrt{3} \\) [[eq \\sin(60^\\circ) = \\sqrt{3}]].\n6. Using the sine ratios, we have:\n   - For the 30\u00b0 angle: \\( \\sin(30^\\circ) = \\frac{1}{2} \\) [[eq \\sin(30^\\circ) = \\frac{1}{2}]].\n   - For the 60\u00b0 angle: \\( \\sin(60^\\circ) = \\sqrt{3} \\) [[eq \\sin(60^\\circ) = \\sqrt{3}]].\n7. Using the sine ratios, we have:\n   - For the 30\u00b0 angle: \\( \\sin(30^\\circ) = \\frac{1}{2} \\) [[eq \\",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find C D if A C = x - 3, B E = 20, A B = 16, and C D = x + 5.",
-    "choices": [
-        "32",
-        "35",
-        "36",
-        "40"
-    ],
+    "choices": ["32", "35", "36", "40"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "bPDmTQ5xKQ9dtX9QP6R2Hn",
     "predicted_answer": "Answer: \n\n1. Let \\( x \\) be the length of \\( AC \\). We have \\( x = x - 3 \\) [[var x]].\n2. Let \\( y \\) be the length of \\( BE \\). We have \\( y = 20 \\) [[var y]].\n3. Let \\( z \\) be the length of \\( AB \\). We have \\( z = 16 \\) [[var z]].\n4. Let \\( w \\) be the length of \\( CD \\). We have \\( w = x + 5 \\) [[var w]].\n5. Since \\( AC \\) and \\( CD \\) are segments of \\( AB \\) and \\( BE \\), we have \\( x + 5 = 16 + 20 \\) [[eq x + 5 = 36]].\n6. Solving for \\( x \\), we get \\( x = 31 \\) [[eq x = 31]].\n7. Since \\( x \\) is the length of \\( AC \\), we have \\( x = 31 \\) [[eq x = 31]].\n\nThe answer is the value of \\( x \\) [[answer x]].\n\nAnswer: A. 32",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the shaded region. Round to the nearest tenth.",
-    "choices": [
-        "104.7",
-        "157.1",
-        "235.6",
-        "314.2"
-    ],
+    "choices": ["104.7", "157.1", "235.6", "314.2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Area"],
     "image_id": "UcBvrXGVnQHKVwwqMjp5Ge",
     "predicted_answer": "Let \\( r \\) be the radius of the larger circle. We have \\( r = 20 \\) [[var r]].\n\nLet \\( r_1 \\) be the radius of the smaller circle. We have \\( r_1 = 8 \\) [[var r_1]].\n\nThe area of the larger circle is given by \\( A_1 = \\pi r^2 \\) [[eq A_1 = \\pi r^2]].\n\nThe area of the smaller circle is given by \\( A_2 = \\pi r_1^2 \\) [[eq A_2 = \\pi r_1^2]].\n\nThe area of the shaded region is the difference between the areas of the larger and smaller circles: \\( A = A_1 - A_2 \\) [[eq A = A_1 - A_2]].\n\nSubstituting the values of \\( r \\) and \\( r_1 \\) into the equations for \\( A_1 \\) and \\( A_2 \\), we get:\n\n\\[\nA_1 = \\pi (20)^2 = 400\\pi \\text{ square units}\n\\]\n\\[\nA_2 = \\pi (8)^2 = 64\\pi \\text{ square units}\n\\]\n\nSubtracting \\( A_2 \\) from \\( A_1 \\), we get:\n\n\\[\nA = 400\\pi - 64\\pi = 336\\pi \\text{ square units}\n\\]\n\nRounding to the nearest tenth, we get:\n\n\\[\nA \\approx 336\\pi \\approx 1047.2 \\text{ square units}\n\\]\n\nThe answer is not one of the provided choices. Therefore, there might be an error in the question or the provided choices. The correct answer should be \\( A \\approx 1047.2 \\text{ square units} \\).",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K M L.",
-    "choices": [
-        "35",
-        "70",
-        "110",
-        "140"
-    ],
+    "choices": ["35", "70", "110", "140"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rectangle",
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Zqh5wuW9XCeqjkRr8KsRh9",
     "predicted_answer": "Let \\( \\angle J M K \\) be \\( x \\) [[var x]]. We have [[eq x = 55]].\n\nLet \\( \\angle M R P \\) be \\( y \\) [[var y]]. We have [[eq y = 70]].\n\nSince \\( \\angle J M K \\) and \\( \\angle M R P \\) are supplementary angles, we have [[eq x + y = 180]].\n\nSubstituting the values of \\( x \\) and \\( y \\), we get [[eq 55 + 70 = 180]].\n\nTherefore, \\( m \\angle K M L = 180 - 70 = 110 \\) [[eq 110]].\n\nThe answer is the value of \\( m \\angle K M L \\) [[answer 110]].",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "In rhombus A B C D, m \\angle D A B = 2, m \\angle A D C and C B = 6. Find m \\angle A C D.",
-    "choices": [
-        "45",
-        "60",
-        "90",
-        "180"
-    ],
+    "choices": ["45", "60", "90", "180"],
     "answer": "B",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Qz5uuT2hebuEpm8kCVByMA",
     "predicted_answer": "Let \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\) [[var \\( \\angle ADC \\)]].\nLet \\( \\angle ABC = 6 \\) [[var \\( \\angle ABC \\)]].\nLet \\( \\angle BCD = 6 \\) [[var \\( \\angle BCD \\)]].\nLet \\( \\angle DAB = 2 \\) [[var \\( \\angle DAB \\)]].\nLet \\( \\angle ADC = 6 \\)",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find A E if A B = 12, A C = 16, and E D = 5.",
-    "choices": [
-        "12",
-        "15",
-        "16",
-        "20"
-    ],
+    "choices": ["12", "15", "16", "20"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "jhG8yd2ZfLBaHzxdHRPLso",
     "predicted_answer": "Answer: \n\n1. Let \\( AB = 12 \\) [[var AB]].\n2. Let \\( AC = 16 \\) [[var AC]].\n3. Let \\( ED = 5 \\) [[var ED]].\n4. Let \\( AE = x \\) [[var AE]].\n5. Since \\( AB = AC \\), we have \\( 12 = 16 \\) [[eq AB = AC]].\n6. Since \\( AC = 16 \\), we have \\( 16 = 16 \\) [[eq AC = AC]].\n7. Since \\( ED = 5 \\), we have \\( 5 = 5 \\) [[eq ED = ED]].\n8. Since \\( AE = x \\), we have \\( x = 5 \\) [[eq AE = ED]].\n9. Therefore, \\( AE = 5 \\) [[eq AE = 5]].\n\nThe answer is the value of \\( AE \\) [[answer AE]].\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram M N P R to find m \\angle R N P.",
-    "choices": [
-        "38",
-        "52",
-        "52",
-        "62"
-    ],
+    "choices": ["38", "52", "52", "62"],
     "answer": "A",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "U7iZuMGgmuRW3qdZLRbvS7",
     "predicted_answer": "The diagram shows a parallelogram with the following measurements:\n\n- The length of side MN is 17.9.\n- The length of side NP is 20.\n- The length of side QR is 4w - 3.\n- The length of side QR is 33.\n- The length of side QR is 15.4.\n- The length of side QR is 11.1.\n- The length of side QR is y + 5.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side QR is 33.\n- The length of side",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find y in the figure.",
-    "choices": [
-        "5",
-        "6",
-        "7",
-        "8"
-    ],
+    "choices": ["5", "6", "7", "8"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "24KUvKwkrqdrYbfEW8ciav",
     "predicted_answer": "Let a be the measure of angle 8y + 2\u00b0 [[var a]]. We have [[eq a = 8y + 2]].\n\n              Let b be the measure of angle 10x\u00b0 [[var b]]. We have [[eq b = 10x]].\n\n              Let c be the measure of angle 25y - 20\u00b0 [[var c]]. We have [[eq c = 25y - 20]].\n\n              Since the angles are vertical angles, we have [[eq a = c]].\n\n              Substituting the values, we get [[eq 8y + 2 = 25y - 20]].\n\n              Solving for y, we get [[eq y = 6]].\n\n              The answer is the value of y [[answer y = 6]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "In \\odot P, the radius is 2 inches, find the length of \\widehat R S. Round to the nearest hundredth.",
-    "choices": [
-        "2.27",
-        "3.91",
-        "4.54",
-        "7.82"
-    ],
+    "choices": ["2.27", "3.91", "4.54", "7.82"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "2NnyShrrU3H4f6xvdYSBiP",
     "predicted_answer": "Let \\( r \\) be the radius of the circle [[var r]]. We have [[eq r = 2]].\n\nLet \\( \\theta \\) be the angle at point P [[var \\theta]]. We have [[eq \\theta = 120^\\circ]].\n\nLet \\( \\alpha \\) be the angle at point Q [[var \\alpha]]. We have [[eq \\alpha = 112^\\circ]].\n\nLet \\( \\beta \\) be the angle at point R [[var \\beta]]. We have [[eq \\beta = 180^\\circ - \\theta - \\alpha]].\n\nLet \\( \\gamma \\) be the angle at point S [[var \\gamma]]. We have [[eq \\gamma = 180^\\circ - \\beta]].\n\nLet \\( \\delta \\) be the angle at point T [[var \\delta]]. We have [[eq \\delta = 180^\\circ - \\gamma]].\n\nLet \\( \\widehat R S \\) be the length of the chord \\( RS \\) [[var \\widehat R S]].\n\nLet \\( \\widehat R S \\) be the length of the chord \\( RS \\) [[eq \\widehat R S = 2 \\cdot r \\cdot \\sin(\\beta) \\cdot \\sin(\\gamma) \\cdot \\sin(\\delta)]].\n\nLet \\( \\sin(\\beta) \\) be the sine of angle \\( \\beta \\) [[var \\sin(\\beta)]]. We have [[eq \\sin(\\beta) = \\frac{\\text{opposite}}{\\text{hypotenuse}}]].\n\nLet \\( \\sin(\\gamma) \\) be the sine of angle \\( \\gamma \\) [[var \\sin(\\gamma)]]. We have [[eq \\sin(\\gamma) = \\frac{\\text{opposite}}{\\text{hypotenuse}}]].\n\nLet \\( \\sin(\\delta) \\) be the sine of angle \\( \\delta \\) [[var \\sin(\\delta)]]. We have [[eq \\sin(\\delta) = \\frac{\\text{opposite}}{\\text{hypotenuse}}]].\n\nLet \\( \\sin(\\beta) = \\frac{\\text{opposite}}{\\text{hypoten",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram A B C D to find m \\angle A D C.",
-    "choices": [
-        "42",
-        "52",
-        "72",
-        "128"
-    ],
+    "choices": ["42", "52", "72", "128"],
     "answer": "D",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "ePAZmYcsYnEdRRyDbQjnBA",
     "predicted_answer": "The diagram shows a parallelogram ABCD with angle A = 20\u00b0, angle B = 9\u00b0, angle C = 32\u00b0, and angle D = 40\u00b0. We need to find the measure of angle ADC.\n\n1. Let x be the measure of angle ADC [[var x]].\n2. Since the sum of angles in a parallelogram is 360\u00b0, we have [[eq x + 20 + 9 + 32 + 40 = 360]].\n3. Simplifying the equation, we get [[eq x + 101 = 360]].\n4. Solving for x, we have [[eq x = 360 - 101]].\n5. Therefore, [[eq x = 259]].\n\nThe answer is the value of x [[answer 259]].",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "The rectangle is inscribed into the circle. Find the exact circumference of the circle.",
-    "choices": [
-        "8 \\pi",
-        "10 \\pi",
-        "16 \\pi",
-        "20 \\pi"
-    ],
+    "choices": ["8 \\pi", "10 \\pi", "16 \\pi", "20 \\pi"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle",
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle", "Rectangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "VpNPiEigYBs3JdLz6NAmi3",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( r \\) be the radius of the circle. We have \\( r = 6 \\) inches.\n2. Let \\( c \\) be the circumference of the circle. The formula for the circumference of a circle is \\( c = 2 \\pi r \\).\n3. Substitute \\( r = 6 \\) into the formula: \\( c = 2 \\pi \\times 6 \\).\n4. Calculate \\( c = 12 \\pi \\).\n5. The exact circumference of the circle is \\( 12 \\pi \\) inches.\n\nAnswer: \\( 12 \\pi \\) inches",
     "extracted_answer": "None of the provided choices (A, B, C, or D) match the detailed answer of \\( 12 \\pi \\)."
-},
-{
+  },
+  {
     "problem_text": "Find D E.",
-    "choices": [
-        "3",
-        "4",
-        "6",
-        "9"
-    ],
+    "choices": ["3", "4", "6", "9"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "aHhA7GjZSAvLBUeekdZipr",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of \\( EF \\) [[var a]]. We have [[eq a = 3]].\n2. Let \\( b \\) be the length of \\( AE \\) [[var b]]. We have [[eq b = x]].\n3. Let \\( c \\) be the length of \\( CE \\) [[var c]]. We have [[eq c = 45]].\n4. Let \\( d \\) be the length of \\( DE \\) [[var d]]. We have [[eq d = 15]].\n5. Let \\( e \\) be the length of \\( DE \\) [[var e]]. We have [[eq e = d]].\n6. Let \\( f \\) be the length of \\( DE \\) [[var f]]. We have [[eq f = e]].\n7. Let \\( g \\) be the length of \\( DE \\) [[var g]]. We have [[eq g = f]].\n8. Let \\( h \\) be the length of \\( DE \\) [[var h]]. We have [[eq h = g]].\n9. Let \\( i \\) be the length of \\( DE \\) [[var i]]. We have [[eq i = h]].\n10. Let \\( j \\) be the length of \\( DE \\) [[var j]]. We have [[eq j = i]].\n11. Let \\( k \\) be the length of \\( DE \\) [[var k]]. We have [[eq k = j]].\n12. Let \\( l \\) be the length of \\( DE \\) [[var l]]. We have [[eq l = k]].\n13. Let \\( m \\) be the length of \\( DE \\) [[var m]]. We have [[eq m = l]].\n14. Let \\( n \\) be the length of \\( DE \\) [[var n]]. We have [[eq n = m]].\n15. Let \\( o \\) be the length of \\( DE \\) [[var o]]. We have [[eq o = n]].\n16. Let \\( p \\) be the length of \\( DE \\) [[var p]]. We have [[eq p = o]].\n17. Let \\( q \\) be the length of \\( DE \\) [[var q]]. We have",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find the perimeter of the parallelogram. Round to the nearest tenth if necessary.",
-    "choices": [
-        "60",
-        "62",
-        "64",
-        "66"
-    ],
+    "choices": ["60", "62", "64", "66"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "Nx7Qn4C5aQ3fonFCNYs4cX",
     "predicted_answer": "Let a be the length of one side of the parallelogram [[var a]]. We have [[eq a = 20 cm]].\nLet b be the length of the other side of the parallelogram [[var b]]. We have [[eq b = 12 cm]].\nLet c be the length of the diagonal of the parallelogram [[var c]]. We have [[eq c = 20 cm]].\nLet d be the length of the diagonal of the parallelogram [[var d]]. We have [[eq d = 12 cm]].\nLet e be the length of the diagonal of the parallelogram [[var e]]. We have [[eq e = 20 cm]].\nLet f be the length of the diagonal of the parallelogram [[var f]]. We have [[eq f = 12 cm]].\nLet g be the length of the diagonal of the parallelogram [[var g]]. We have [[eq g = 20 cm]].\nLet h be the length of the diagonal of the parallelogram [[var h]]. We have [[eq h = 12 cm]].\nLet i be the length of the diagonal of the parallelogram [[var i]]. We have [[eq i = 20 cm]].\nLet j be the length of the diagonal of the parallelogram [[var j]]. We have [[eq j = 12 cm]].\nLet k be the length of the diagonal of the parallelogram [[var k]]. We have [[eq k = 20 cm]].\nLet l be the length of the diagonal of the parallelogram [[var l]]. We have [[eq l = 12 cm]].\nLet m be the length of the diagonal of the parallelogram [[var m]]. We have [[eq m = 20 cm]].\nLet n be the length of the diagonal of the parallelogram [[var n]]. We have [[eq n = 12 cm]].\nLet o be the length of the diagonal of the parallelogram [[var o]]. We have [[eq o = 20 cm]].\nLet p be the length of the diagonal of the parallelogram [[var p]]. We have [[eq p = 12 cm]].\nLet q be the length of the diagonal of the parallelogram [[var q]]. We have [[eq q = 20 cm]].\nLet r be the length of the diagonal of the parallelogram [[var r",
     "extracted_answer": "A. 60"
-},
-{
+  },
+  {
     "problem_text": "Find the length of \\widehat A B. Round to the nearest hundredth.",
-    "choices": [
-        "7.63",
-        "9.77",
-        "11.13",
-        "14.83"
-    ],
+    "choices": ["7.63", "9.77", "11.13", "14.83"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "fZUy6QW3PAunAksdJSE6VV",
     "predicted_answer": "Let \\( r \\) be the radius of the circle [[var r]]. We have [[eq r = 14 \\text{ m}]]. \n            Let \\( \\theta \\) be the angle at the center of the circle [[var \\theta]]. We have [[eq \\theta = 80^\\circ]]. \n            Let \\( \\alpha \\) be the angle at the center of the circle [[var \\alpha]]. We have [[eq \\alpha = \\theta]]. \n            Let \\( \\beta \\) be the angle at the center of the circle [[var \\beta]]. We have [[eq \\beta = 180^\\circ - \\alpha]]. \n            Let \\( \\gamma \\) be the angle at the center of the circle [[var \\gamma]]. We have [[eq \\gamma = \\beta]]. \n            Let \\( \\delta \\) be the angle at the center of the circle [[var \\delta]]. We have [[eq \\delta = 180^\\circ - \\theta]]. \n            Let \\( \\epsilon \\) be the angle at the center of the circle [[var \\epsilon]]. We have [[eq \\epsilon = \\theta]]. \n            Let \\( \\zeta \\) be the angle at the center of the circle [[var \\zeta]]. We have [[eq \\zeta = 180^\\circ - \\theta]]. \n            Let \\( \\xi \\) be the angle at the center of the circle [[var \\xi]]. We have [[eq \\xi = \\theta]]. \n            Let \\( \\eta \\) be the angle at the center of the circle [[var \\eta]]. We have [[eq \\eta = 180^\\circ - \\theta]]. \n            Let \\( \\beta \\) be the angle at the center of the circle [[var \\beta]]. We have [[eq \\beta = 180^\\circ - \\theta]]. \n            Let \\( \\gamma \\) be the angle at the center of the circle [[var \\gamma]]. We have [[eq \\gamma = 180^\\circ - \\theta]]. \n            Let \\( \\delta \\) be the angle at the center of the circle [[var \\delta]]. We have [[eq \\delta =",
     "extracted_answer": "Apologies, but the provided detailed answer does not seem to conclude with enough information to derive any solution, let alone match it with any given choice. The detailed answer appears to be incomplete and filled with repetitive or irrelevant information about angles which do not directly point to solving for a radius-based problem or any specific numerical answer that fits choices A through D.\n\nWithout additional context, the appropriate letter cannot be determined from this incomplete and circular logical reasoning. However, based on intuition and prior context in quantitative problem solving specifying a circle with a 80 degree angle, the answer might typically lie in the computational realm of trigonometric or geometric analysis.\n\nGiven the choices, estimating we might have used standard circular segment or sector length or law of sines calculations could theoretically deduce solutions near the given numerical values, still it\u2019s speculative.\n\nIn stated improbable errors:\nDetailed answer leads up-to radius-specific solutions nowhere linked to clear numeric choices of A or B or C or D strictly focusing a calculative interpretation.\n\nThus polite reflection on insufficient data represented the specific circular angle misconceptions rectified!"
-},
-{
+  },
+  {
     "problem_text": "Find A B if \\triangle A B C is an isosceles triangle with A B \\cong B C.",
-    "choices": [
-        "3",
-        "4",
-        "7",
-        "11"
-    ],
+    "choices": ["3", "4", "7", "11"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "LbZaQSoM8A6kbr35WiQVQu",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of side \\( AB \\) [[var a]]. We have [[eq a = 2x - 7]].\n2. Let \\( b \\) be the length of side \\( BC \\) [[var b]]. We have [[eq b = 4x - 21]].\n3. Since \\( \\triangle ABC \\) is isosceles, the lengths of \\( AB \\) and \\( BC \\) are equal [[eq a = b]].\n4. Substitute the value of \\( a \\) from the first equation into the second equation: [[eq 2x - 7 = 4x - 21]].\n5. Solve for \\( x \\): [[eq 2x - 4x = -7 + 21]].\n6. Simplify: [[eq -2x = 14]].\n7. Divide by -2: [[eq x = -7]].\n8. Substitute \\( x \\) back into \\( a \\): [[eq a = 2(-7) - 7]].\n9. Simplify: [[eq a = -14 - 7]].\n10. Simplify further: [[eq a = -21]].\n\nThe answer is the value of \\( a \\) [[answer a]].\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle B G E.",
-    "choices": [
-        "60",
-        "120",
-        "240",
-        "360"
-    ],
+    "choices": ["60", "120", "240", "360"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "KsojAfXH9x7xHLMykqr6fh",
     "predicted_answer": "Let \\( \\angle BGE \\) be the angle at point \\( B \\) [[var \\( \\angle BGE \\)]]. We have [[eq \\( \\angle BGE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\circ \\)]]. \n            Let \\( \\angle BDE \\) be the angle at point \\( D \\) [[var \\( \\angle BDE \\)]]. We have [[eq \\( \\angle BDE = 60^\\",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round the side measure to the nearest tenth.",
-    "choices": [
-        "69.0",
-        "69.8",
-        "76.4",
-        "77.2"
-    ],
+    "choices": ["69.0", "69.8", "76.4", "77.2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "cjk4HTrWqCisitAwm9YH8g",
     "predicted_answer": "Let a be the measure of the 60\u00b0 angle [[var a]]. We have [[eq a = 60]].\n\n            Let b be the measure of the 55\u00b0 angle [[var b]]. We have [[eq b = 55]].\n\n            Let c be the measure of the unknown angle [[var c]]. We have [[eq c = 180 - a - b]].\n\n            Let d be the measure of the side opposite the 60\u00b0 angle [[var d]]. We have [[eq d = 73]].\n\n            Let e be the measure of the side opposite the 55\u00b0 angle [[var e]]. We have [[eq e = x]].\n\n            Let f be the measure of the side opposite the unknown angle [[var f]]. We have [[eq f = d]].\n\n            Let g be the measure of the side opposite the 60\u00b0 angle [[var g]]. We have [[eq g = e]].\n\n            Let h be the measure of the side opposite the 55\u00b0 angle [[var h]]. We have [[eq h = f]].\n\n            Let i be the measure of the side opposite the unknown angle [[var i]]. We have [[eq i = g]].\n\n            Let j be the measure of the side opposite the 60\u00b0 angle [[var j]]. We have [[eq j = h]].\n\n            Let k be the measure of the side opposite the 55\u00b0 angle [[var k]]. We have [[eq k = i]].\n\n            Let l be the measure of the side opposite the unknown angle [[var l]]. We have [[eq l = j]].\n\n            Let m be the measure of the side opposite the 60\u00b0 angle [[var m]]. We have [[eq m = k]].\n\n            Let n be the measure of the side opposite the 55\u00b0 angle [[var n]]. We have [[eq n = l]].\n\n            Let o be the measure of the side opposite the unknown angle [[var o]]. We have [[eq o = m]].\n\n            Let p be the measure of the side opposite the 60\u00b0 angle [[var p]]. We have [[eq p = n]].\n\n            Let q be the measure of the side opposite the 55\u00b0 angle [[var q]]. We have [[eq q = o]].\n\n            Let r be the measure of the side opposite the unknown angle [[var r]]. We have [[eq r = p]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "For the pair of similar figures, use the given areas to find x.",
-    "choices": [
-        "1",
-        "2",
-        "8",
-        "16"
-    ],
+    "choices": ["1", "2", "8", "16"],
     "answer": "C",
-    "problem_type_graph": [
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Rectangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "9PPjFnhKNTS5csHyNEZq2g",
     "predicted_answer": "Let a be the area of the smaller rectangle [[var a]]. We have [[eq a = 4 \\* 8]].\n\n              Let b be the area of the larger rectangle [[var b]]. We have [[eq b = x \\* 32]].\n\n              Since the rectangles are similar, the ratio of their areas is equal to the square of the ratio of their corresponding sides. Therefore, we have [[eq a / b = (4 / x)^2]].\n\n              Substituting the values of a and b, we get [[eq 4 / x^2 = (4 / 32)^2]].\n\n              Simplifying, we have [[eq 4 / x^2 = 1 / 16]].\n\n              Cross-multiplying, we get [[eq 16 = 4x^2]].\n\n              Dividing both sides by 4, we get [[eq 4 = x^2]].\n\n              Taking the square root of both sides, we get [[eq x = 2]].\n\n              The answer is the value of x [[answer 2]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "\\sqrt { 7 }",
-        "3 \\sqrt { 2 }",
-        "3 \\sqrt { 3 }",
-        "3 \\sqrt { 6 }"
+      "\\sqrt { 7 }",
+      "3 \\sqrt { 2 }",
+      "3 \\sqrt { 3 }",
+      "3 \\sqrt { 6 }"
     ],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "GRJz6XFySh9PU8TCkM6mWf",
     "predicted_answer": "Answer: \n            Let \\( a \\) be the length of the hypotenuse [[var a]]. We have [[eq a = 5]].\n            Let \\( b \\) be the length of the leg adjacent to the right angle [[var b]]. We have [[eq b = 3 \\sqrt{2}]].\n            Let \\( c \\) be the length of the leg opposite the right angle [[var c]]. We have [[eq c = x]].\n            Let \\( d \\) be the length of the hypotenuse of the right triangle [[var d]]. We have [[eq d = a]].\n            Using the Pythagorean theorem, we have [[eq c^2 + b^2 = d^2]].\n            Substituting the values, we get [[eq x^2 + (3 \\sqrt{2})^2 = 5^2]].\n            Simplifying, we get [[eq x^2 + 9 = 25]].\n            Solving for \\( x \\), we get [[eq x^2 = 16]].\n            Taking the square root of both sides, we get [[eq x = 4]].\n            The answer is the value of \\( x \\) [[answer 4]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "In the figure, a regular polygon is inscribed in a circle. Find the measure of a central angle.",
-    "choices": [
-        "30",
-        "60",
-        "90",
-        "120"
-    ],
+    "choices": ["30", "60", "90", "120"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "CJHUBaDDB4HDSfzzMLJNmm",
     "predicted_answer": "Let \\( \\alpha \\) be the measure of the central angle.\n\n1. Let \\( \\text{side}_1 \\) be the length of one side of the inscribed polygon. We have \\( \\text{side}_1 = 10 \\) units.\n2. Let \\( \\text{radius}_1 \\) be the radius of the circle. We have \\( \\text{radius}_1 = 5 \\) units.\n3. Let \\( \\text{side}_2 \\) be the length of one side of the inscribed hexagon. We have \\( \\text{side}_2 = 10 \\) units.\n4. Let \\( \\text{radius}_2 \\) be the radius of the inscribed circle. We have \\( \\text{radius}_2 = 5 \\) units.\n5. Let \\( \\text{side}_3 \\) be the length of one side of the inscribed octagon. We have \\( \\text{side}_3 = 10 \\) units.\n6. Let \\( \\text{radius}_3 \\) be the radius of the inscribed circle. We have \\( \\text{radius}_3 = 5 \\) units.\n7. Let \\( \\text{side}_4 \\) be the length of one side of the inscribed decagon. We have \\( \\text{side}_4 = 10 \\) units.\n8. Let \\( \\text{radius}_4 \\) be the radius of the inscribed circle. We have \\( \\text{radius}_4 = 5 \\) units.\n9. Let \\( \\text{side}_5 \\) be the length of one side of the inscribed dodecagon. We have \\( \\text{side}_5 = 10 \\) units.\n10. Let \\( \\text{radius}_5 \\) be the radius of the inscribed circle. We have \\( \\text{radius}_5 = 5 \\) units.\n11. Let \\( \\text{side}_6 \\) be the length of one side of the inscribed icosagon. We have \\( \\text{side}_6 = 10 \\) units.\n12. Let \\( \\text{radius}_6 \\) be the radius of the inscribed circle. We have \\( \\text{radius}_6 = 5 \\) units.\n13. Let \\( \\text{side}_7 \\)",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the parallelogram. Round to the nearest tenth if necessary.",
-    "choices": [
-        "56.6",
-        "138.6",
-        "169.7",
-        "196"
-    ],
+    "choices": ["56.6", "138.6", "169.7", "196"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Area"],
     "image_id": "CN3ykb5x2kHm4pHsYHVuHD",
     "predicted_answer": "Let \\( a \\) be the length of the base of the parallelogram [[var a]]. We have [[eq a = 14 mm]].\nLet \\( b \\) be the height of the parallelogram [[var b]]. We have [[eq b = 7 mm]].\nLet \\( A \\) be the area of the parallelogram [[var A]]. We have [[eq A = ab]].\n\nSubstituting the values of \\( a \\) and \\( b \\) into the equation for \\( A \\), we get [[eq A = 14 mm \\times 7 mm]].\n\nCalculating the product, we find [[eq A = 98 mm^2]].\n\nRounding to the nearest tenth, we get [[eq A = 98.0 mm^2]].\n\nThe answer is the value of \\( A \\) [[answer A]].\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find X Z.",
-    "choices": [
-        "5",
-        "17",
-        "18",
-        "34"
-    ],
+    "choices": ["5", "17", "18", "34"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "S7iLx3JRuF2Mwre9cwT7nA",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of \\( WZ \\) [[var a]]. We have [[eq a = 5y - 6]].\n2. Let \\( b \\) be the length of \\( YZ \\) [[var b]]. We have [[eq b = 18 + 2y]].\n3. Let \\( c \\) be the length of \\( ZW \\) [[var c]]. We have [[eq c = x]].\n4. Let \\( d \\) be the length of \\( WZ \\) [[var d]]. We have [[eq d = a]].\n5. Let \\( e \\) be the length of \\( YZ \\) [[var e]]. We have [[eq e = b]].\n6. Let \\( f \\) be the length of \\( ZW \\) [[var f]]. We have [[eq f = c]].\n7. Let \\( g \\) be the length of \\( WZ \\) [[var g]]. We have [[eq g = d]].\n8. Let \\( h \\) be the length of \\( YZ \\) [[var h]]. We have [[eq h = e]].\n9. Let \\( i \\) be the length of \\( ZW \\) [[var i]]. We have [[eq i = f]].\n10. Let \\( j \\) be the length of \\( WZ \\) [[var j]]. We have [[eq j = g]].\n11. Let \\( k \\) be the length of \\( YZ \\) [[var k]]. We have [[eq k = h]].\n12. Let \\( l \\) be the length of \\( ZW \\) [[var l]]. We have [[eq l = i]].\n13. Let \\( m \\) be the length of \\( WZ \\) [[var m]]. We have [[eq m = j]].\n14. Let \\( n \\) be the length of \\( YZ \\) [[var n]]. We have [[eq n = k]].\n15. Let \\( o \\) be the length of \\( ZW \\) [[var o]]. We have [[eq o = l]].\n16. Let \\( p \\) be the length of \\( WZ \\) [[var p]]. We have [[eq p = m]].",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "In regular hexagon U V W X Y Z, the side is 12 centimeters long. Find W Y.",
-    "choices": [
-        "12",
-        "6 \\sqrt { 6 }",
-        "12 \\sqrt { 3 }",
-        "36"
-    ],
+    "choices": ["12", "6 \\sqrt { 6 }", "12 \\sqrt { 3 }", "36"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle",
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle", "Other"],
+    "problem_type_goal": ["Length"],
     "image_id": "a6BUW3FBp7hnyMxq5yah6r",
     "predicted_answer": "Let a be the side of the hexagon [[var a]]. We have [[eq a = 12]].\n\nLet b be the length of the diagonal from W to Y [[var b]]. We have [[eq b = 12]].\n\nLet c be the length of the diagonal from U to Z [[var c]]. We have [[eq c = 12]].\n\nLet d be the length of the diagonal from V to W [[var d]]. We have [[eq d = 12]].\n\nLet e be the length of the diagonal from X to Y [[var e]]. We have [[eq e = 12]].\n\nLet f be the length of the diagonal from Z to U [[var f]]. We have [[eq f = 12]].\n\nLet g be the length of the diagonal from W to Z [[var g]]. We have [[eq g = 12]].\n\nLet h be the length of the diagonal from Y to U [[var h]]. We have [[eq h = 12]].\n\nLet i be the length of the diagonal from Z to V [[var i]]. We have [[eq i = 12]].\n\nLet j be the length of the diagonal from U to V [[var j]]. We have [[eq j = 12]].\n\nLet k be the length of the diagonal from V to W [[var k]]. We have [[eq k = 12]].\n\nLet l be the length of the diagonal from W to X [[var l]]. We have [[eq l = 12]].\n\nLet m be the length of the diagonal from X to Y [[var m]]. We have [[eq m = 12]].\n\nLet n be the length of the diagonal from Y to Z [[var n]]. We have [[eq n = 12]].\n\nLet o be the length of the diagonal from Z to W [[var o]]. We have [[eq o = 12]].\n\nLet p be the length of the diagonal from W to U [[var p]]. We have [[eq p = 12]].\n\nLet q be the length of the diagonal from U to V [[var q]]. We have [[eq q = 12]].\n\nLet r be the length of the diagonal from V to W [[var r]]. We have [[eq r = 12]].\n\nLet s be the length of the diagonal from",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the figure.",
-    "choices": [
-        "25",
-        "50",
-        "72",
-        "144"
-    ],
+    "choices": ["25", "50", "72", "144"],
     "answer": "D",
-    "problem_type_graph": [
-        "Rectangle"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Rectangle"],
+    "problem_type_goal": ["Area"],
     "image_id": "6SAsDqttZvBNnKSPQSUrem",
     "predicted_answer": "Let a be the length of the rectangle [[var a]]. We have [[eq a = 16]].\n            Let b be the width of the rectangle [[var b]]. We have [[eq b = 9]].\n            Let A be the area of the rectangle [[var A]]. We have [[eq A = a \\* b]].\n            Substituting the values of a and b, we get [[eq A = 16 \\* 9]].\n            Calculating, we get [[eq A = 144]].\n            The answer is the value of A [[answer D]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "\\frac { 17 } { 2 }",
-        "\\frac { 17 } { 2 } \\sqrt { 2 }",
-        "\\frac { 17 } { 2 } \\sqrt { 3 }",
-        "17"
+      "\\frac { 17 } { 2 }",
+      "\\frac { 17 } { 2 } \\sqrt { 2 }",
+      "\\frac { 17 } { 2 } \\sqrt { 3 }",
+      "17"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "HgMYH3zaRdMcWaAC2DA5oi",
     "predicted_answer": "",
     "extracted_answer": "Given the detailed answer is missing, I can't determine the exact letter answer directly from it. However, if the detailed answer should be determined from the provided choices, the correct letter corresponding to one of the choices is typically indicated in the section labeled \"Letter Answer:\". Since this is not provided here, it's not possible to extract the letter answer without additional context or information. \n\nPlease provide the detailed answer or context for the problem so I can extract the correct letter (A, B, C, or D) for you."
-},
-{
+  },
+  {
     "problem_text": "Let G H be the median of R S B A. Find G H.",
-    "choices": [
-        "27",
-        "54",
-        "62",
-        "86"
-    ],
+    "choices": ["27", "54", "62", "86"],
     "answer": "C",
-    "problem_type_graph": [
-        "Trapezoid"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Trapezoid"],
+    "problem_type_goal": ["Length"],
     "image_id": "XMJux4Xg6PjKPbrdGDbLki",
     "predicted_answer": "Let \\( m_RSA \\) be the median of \\( RSBA \\). We have [[var m_RSA]].\n\nWe know that the median of a parallelogram bisects the opposite sides. Therefore, \\( m_RSA = \\frac{m_RSA}{2} \\).\n\nLet \\( m_RSA = 54 \\) [[eq m_RSA = 54]].\n\nLet \\( m_RSA = \\frac{m_RSA}{2} \\).\n\nLet \\( m_RSA = \\frac{54}{2} \\).\n\nLet \\( m_RSA = 27 \\) [[eq m_RSA = 27]].\n\nTherefore, the answer is the value of \\( m_RSA \\).\n\nAnswer: A",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "25",
-        "40",
-        "65",
-        "115"
-    ],
+    "choices": ["25", "40", "65", "115"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "3jEw8t7gmYFHAFxyASK45e",
     "predicted_answer": "Let \\( \\alpha \\) be the angle opposite side \\( x \\) [[var \\alpha]]. We have [[eq \\alpha = x]]. \n            Let \\( \\beta \\) be the angle opposite side \\( 25 \\) [[var \\beta]]. We have [[eq \\beta = 25]]. \n            Let \\( \\gamma \\) be the angle opposite side \\( 40 \\) [[var \\gamma]]. We have [[eq \\gamma = 40]]. \n            Let \\( \\delta \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\delta]]. We have [[eq \\delta = x + 25 + 40]]. \n            Let \\( \\epsilon \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\epsilon]]. We have [[eq \\epsilon = x + 25 + 40]]. \n            Let \\( \\zeta \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\zeta]]. We have [[eq \\zeta = x + 25 + 40]]. \n            Let \\( \\theta \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\theta]]. We have [[eq \\theta = x + 25 + 40]]. \n            Let \\( \\xi \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\xi]]. We have [[eq \\xi = x + 25 + 40]]. \n            Let \\( \\eta \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\eta]]. We have [[eq \\eta = x + 25 + 40]]. \n            Let \\( \\phi \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\phi]]. We have [[eq \\phi = x + 25 + 40]]. \n            Let \\( \\psi \\) be the sum of angles \\( \\alpha \\), \\( \\beta \\), and \\( \\gamma \\) [[var \\ps",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 2 if m \\widehat B C = 30 and m \\widehat A D = 20.",
-    "choices": [
-        "20",
-        "25",
-        "30",
-        "155"
-    ],
+    "choices": ["20", "25", "30", "155"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "65AAXmXHtdfXmbYrAuf54M",
     "predicted_answer": "Let \\( m \\angle 2 \\) be the measure of angle \\( 2 \\) [[var m2]].\n\nLet \\( m \\widehat B C \\) be the measure of angle \\( \\widehat B C \\) [[var mwc]]. We have [[eq mwc = 30]].\n\nLet \\( m \\widehat A D \\) be the measure of angle \\( \\widehat A D \\) [[var mwd]]. We have [[eq mwd = 20]].\n\nLet \\( m \\angle 2 \\) be the measure of angle \\( 2 \\) [[var m2]].\n\nSince \\( m \\angle 2 \\) is the sum of \\( m \\widehat B C \\) and \\( m \\widehat A D \\), we have [[eq m2 = mwc + mwd]].\n\nSubstituting the given values, we get [[eq m2 = 30 + 20]].\n\nTherefore, \\( m \\angle 2 = 50 \\) [[eq m2 = 50]].\n\nThe answer is the value of \\( m \\angle 2 \\) [[answer m2]].\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle V X W.",
-    "choices": [
-        "25",
-        "65",
-        "115",
-        "180"
-    ],
+    "choices": ["25", "65", "115", "180"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "X6ugLMmPVtGgJq3bQ5RfkJ",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the measure of angle \\( 4x + 15 \\) [[var a]]. We have [[eq a = 4x + 15]].\n2. Let \\( b \\) be the measure of angle \\( 2x + 65 \\) [[var b]]. We have [[eq b = 2x + 65]].\n3. Let \\( c \\) be the measure of angle \\( x \\) [[var c]]. We have [[eq c = x]].\n4. Let \\( d \\) be the measure of angle \\( WX \\) [[var d]]. We have [[eq d = x]].\n5. Let \\( e \\) be the measure of angle \\( VXW \\) [[var e]]. We have [[eq e = x]].\n6. Let \\( f \\) be the measure of angle \\( VXW \\) [[var f]]. We have [[eq f = x]].\n7. Let \\( g \\) be the measure of angle \\( VXW \\) [[var g]]. We have [[eq g = x]].\n8. Let \\( h \\) be the measure of angle \\( VXW \\) [[var h]]. We have [[eq h = x]].\n9. Let \\( i \\) be the measure of angle \\( VXW \\) [[var i]]. We have [[eq i = x]].\n10. Let \\( j \\) be the measure of angle \\( VXW \\) [[var j]]. We have [[eq j = x]].\n11. Let \\( k \\) be the measure of angle \\( VXW \\) [[var k]]. We have [[eq k = x]].\n12. Let \\( l \\) be the measure of angle \\( VXW \\) [[var l]]. We have [[eq l = x]].\n13. Let \\( m \\) be the measure of angle \\( VXW \\) [[var m]]. We have [[eq m = x]].\n14. Let \\( n \\) be the measure of angle \\( VXW \\) [[var n]]. We have [[eq n = x]].\n15. Let \\( o \\) be the measure of angle \\( VXW \\) [[var o]]. We have [[eq o = x]].\n16.",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find W R.",
-    "choices": [
-        "6",
-        "8",
-        "10",
-        "12"
-    ],
+    "choices": ["6", "8", "10", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "9ExVE7fXSBurdZTj2z89tm",
     "predicted_answer": "Let x be the length of segment WS [[var x]]. We have [[eq x = 8]].\n\n            Let y be the length of segment SV [[var y]]. We have [[eq y = 10]].\n\n            Let z be the length of segment RT [[var z]]. We have [[eq z = 2x + 6]].\n\n            Let W be the length of segment WR [[var W]]. We have [[eq W = x + 6]].\n\n            Let R be the length of segment RS [[var R]]. We have [[eq R = x + 6]].\n\n            Let T be the length of segment TV [[var T]]. We have [[eq T = 10]].\n\n            Let S be the length of segment SV [[var S]]. We have [[eq S = y]].\n\n            Let V be the length of segment VR [[var V]]. We have [[eq V = x + 6]].\n\n            Let W be the length of segment WS [[var W]]. We have [[eq W = x + 6]].\n\n            Let R be the length of segment RS [[var R]]. We have [[eq R = x + 6]].\n\n            Let T be the length of segment TV [[var T]]. We have [[eq T = 10]].\n\n            Let S be the length of segment SV [[var S]]. We have [[eq S = y]].\n\n            Let V be the length of segment VR [[var V]]. We have [[eq V = x + 6]].\n\n            Let W be the length of segment WS [[var W]]. We have [[eq W = x + 6]].\n\n            Let R be the length of segment RS [[var R]]. We have [[eq R = x + 6]].\n\n            Let T be the length of segment TV [[var T]]. We have [[eq T = 10]].\n\n            Let S be the length of segment SV [[var S]]. We have [[eq S = y]].\n\n            Let V be the length of segment VR [[var V]]. We have [[eq V = x + 6]].\n\n            Let W be the length of segment WS [[var W]]. We have [[eq W = x + 6]].\n\n            Let R be the length of segment RS [[var R]]. We have [[eq R = x + 6]].\n\n            Let T be the length",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R S T.",
-    "choices": [
-        "55",
-        "70",
-        "75",
-        "80"
-    ],
+    "choices": ["55", "70", "75", "80"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "XyAsQUSnSJ5p2HL8FGUhQ4",
     "predicted_answer": "Let \\( \\angle RST \\) be the angle we need to find [[var \\angle RST]]. \n            We have [[eq \\angle RST = 70^\\circ]]. \n            Since \\( \\angle RST \\) is an exterior angle of a triangle, it is equal to the sum of the other two angles on the same side of the transversal. \n            Let \\( \\angle RST \\) be \\( x \\) [[var x]]. \n            We have [[eq x = 70]]. \n            Therefore, the answer is the value of \\( x \\) [[answer x]]. \n            The answer is [[answer 70]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Polygon A B C D \\sim polygon A E F G, m \\angle A G F = 108, G F = 14, A D = 12, D G = 4.5, E F = 8, and A B = 26. Find m \\angle A D C.",
-    "choices": [
-        "14",
-        "72",
-        "108",
-        "120"
-    ],
+    "choices": ["14", "72", "108", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "VfEptATdCVFnAUSWbkinNT",
     "predicted_answer": "Answer: \n\n1. Let \\( \\angle A G F \\) be the given angle [[var \\angle A G F]]. We have [[eq \\angle A G F = 108]].\n2. Let \\( G F \\) be the given side length [[var G F]]. We have [[eq G F = 14]].\n3. Let \\( A D \\) be the given side length [[var A D]]. We have [[eq A D = 12]].\n4. Let \\( D G \\) be the given side length [[var D G]]. We have [[eq D G = 4.5]].\n5. Let \\( E F \\) be the given side length [[var E F]]. We have [[eq E F = 8]].\n6. Let \\( A B \\) be the given side length [[var A B]]. We have [[eq A B = 26]].\n7. Let \\( m \\angle A D C \\) be the unknown angle [[var m \\angle A D C]].\n8. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n9. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n10. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n11. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n12. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n13. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n14. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n15. Let \\( m \\angle A D C \\) be the sum of the angles in the given polygon [[var m \\angle A D C]].\n16. Let \\( m \\angle A D C \\) be the sum of",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "In the figure, m \\angle 3 = 110 and m \\angle 12 = 55. Find the measure of \\angle 1.",
-    "choices": [
-        "55",
-        "110",
-        "125",
-        "135"
-    ],
+    "choices": ["55", "110", "125", "135"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "k8ivzaNx7qYDgHdVCkUNSB",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\angle 3 \\) be the measure of angle 3 [[var m\\_3]]. We have [[eq m\\_3 = 110]].\n2. Let \\( m \\angle 12 \\) be the measure of angle 12 [[var m\\_12]]. We have [[eq m\\_12 = 55]].\n3. Let \\( m \\angle 1 \\) be the measure of angle 1 [[var m\\_1]]. We have [[eq m\\_1 = m\\_3 + m\\_12]].\n4. Substitute the values of \\( m \\angle 3 \\) and \\( m \\angle 12 \\) into the equation for \\( m \\angle 1 \\): [[eq m\\_1 = 110 + 55]].\n5. Simplify the equation: [[eq m\\_1 = 165]].\n\nThe answer is the value of \\( m \\angle 1 \\).\n\nAnswer: C",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "60",
-        "80",
-        "90",
-        "120"
-    ],
+    "choices": ["60", "80", "90", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "2VHBV6S8fPSJgPTq9BqMj3",
     "predicted_answer": "Let a be the measure of angle x. We have [[var a]]. \n            Since angle x is a right angle, we have [[eq a = 90]]. \n            Let b be the measure of angle x. We have [[var b]]. \n            Since angle x is a right angle, we have [[eq b = 90]]. \n            Let c be the measure of angle x. We have [[var c]]. \n            Since angle x is a right angle, we have [[eq c = 90]]. \n            Let d be the measure of angle x. We have [[var d]]. \n            Since angle x is a right angle, we have [[eq d = 90]]. \n            Let e be the measure of angle x. We have [[var e]]. \n            Since angle x is a right angle, we have [[eq e = 90]]. \n            Let f be the measure of angle x. We have [[var f]]. \n            Since angle x is a right angle, we have [[eq f = 90]]. \n            Let g be the measure of angle x. We have [[var g]]. \n            Since angle x is a right angle, we have [[eq g = 90]]. \n            Let h be the measure of angle x. We have [[var h]]. \n            Since angle x is a right angle, we have [[eq h = 90]]. \n            Let i be the measure of angle x. We have [[var i]]. \n            Since angle x is a right angle, we have [[eq i = 90]]. \n            Let j be the measure of angle x. We have [[var j]]. \n            Since angle x is a right angle, we have [[eq j = 90]]. \n            Let k be the measure of angle x. We have [[var k]]. \n            Since angle x is a right angle, we have [[eq k = 90]]. \n            Let l be the measure of angle x. We have [[var l]]. \n            Since angle x is a right angle, we have [[eq l = 90]]. \n            Let m be the measure of angle x. We have [[var m]]. \n            Since angle x is a right angle, we have [[eq m = 90]]. \n            Let n be",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 1.",
-    "choices": [
-        "39",
-        "84",
-        "108",
-        "129"
-    ],
+    "choices": ["39", "84", "108", "129"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "Dz8pdgDn5bKk4Z8xDFtF38",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( \\angle QRS \\) be the angle given in the diagram [[var \\angle QRS]]. We have [[eq \\angle QRS = 51^\\circ]].\n2. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n3. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n4. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n5. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n6. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n7. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n8. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n9. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n10. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n11. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n12. Let \\( \\angle QSR \\) be the angle given in the diagram [[var \\angle QSR]]. We have [[eq \\angle QSR = 2^\\circ]].\n13. Let \\( \\angle QSR \\)",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round to the nearest tenth.",
-    "choices": [
-        "37.2",
-        "40.6",
-        "49.4",
-        "52.8"
-    ],
+    "choices": ["37.2", "40.6", "49.4", "52.8"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "c5pAbYjWYQrLRz4mYJEH92",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of the hypotenuse of the right triangle [[var a]]. We have [[eq a = 42]].\n2. Let \\( b \\) be the length of the side adjacent to the angle \\( x \\) [[var b]]. We have [[eq b = 22]].\n3. Let \\( c \\) be the length of the side opposite to the angle \\( x \\) [[var c]]. We have [[eq c = y]].\n4. Let \\( d \\) be the length of the side opposite to the angle \\( y \\) [[var d]]. We have [[eq d = 40]].\n5. Let \\( e \\) be the length of the side opposite to the angle \\( x \\) [[var e]]. We have [[eq e = c]].\n6. Let \\( f \\) be the length of the side opposite to the angle \\( y \\) [[var f]]. We have [[eq f = d]].\n7. Let \\( g \\) be the length of the side opposite to the angle \\( x \\) [[var g]]. We have [[eq g = e]].\n8. Let \\( h \\) be the length of the side opposite to the angle \\( y \\) [[var h]]. We have [[eq h = f]].\n9. Let \\( i \\) be the length of the side opposite to the angle \\( x \\) [[var i]]. We have [[eq i = g]].\n10. Let \\( j \\) be the length of the side opposite to the angle \\( y \\) [[var j]]. We have [[eq j = h]].\n11. Let \\( k \\) be the length of the side opposite to the angle \\( x \\) [[var k]]. We have [[eq k = i]].\n12. Let \\( l \\) be the length of the side opposite to the angle \\( y \\) [[var l]]. We have [[eq l = j]].\n13. Let \\( m \\) be the length of the side opposite to the angle \\( x \\) [[var m]]. We have [[eq m = k]].\n14. Let \\( n \\) be the length of the side opposite to the angle \\( y \\) [[var n]]. We have [[eq n = l]].",
     "extracted_answer": "The letter answer is **A**."
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "4",
-        "4 \\sqrt { 2 }",
-        "4 \\sqrt { 3 }",
-        "8"
-    ],
+    "choices": ["4", "4 \\sqrt { 2 }", "4 \\sqrt { 3 }", "8"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MJtiQBx28o39C6jWRmpJ5i",
     "predicted_answer": "Let a be the length of the side opposite 45\u00b0 [[var a]]. We have [[eq a = 8]].\n\n            Let b be the length of the side opposite 30\u00b0 [[var b]]. We have [[eq b = x]].\n\n            Let c be the length of the hypotenuse [[var c]]. We have [[eq c = y]].\n\n            Let d be the length of the side opposite 45\u00b0 [[var d]]. We have [[eq d = x]].\n\n            Let e be the length of the side opposite 30\u00b0 [[var e]]. We have [[eq e = x]].\n\n            Let f be the length of the hypotenuse [[var f]]. We have [[eq f = y]].\n\n            Let g be the length of the side opposite 45\u00b0 [[var g]]. We have [[eq g = x]].\n\n            Let h be the length of the side opposite 30\u00b0 [[var h]]. We have [[eq h = x]].\n\n            Let i be the length of the hypotenuse [[var i]]. We have [[eq i = y]].\n\n            Let j be the length of the side opposite 45\u00b0 [[var j]]. We have [[eq j = x]].\n\n            Let k be the length of the side opposite 30\u00b0 [[var k]]. We have [[eq k = x]].\n\n            Let l be the length of the hypotenuse [[var l]]. We have [[eq l = y]].\n\n            Let m be the length of the side opposite 45\u00b0 [[var m]]. We have [[eq m = x]].\n\n            Let n be the length of the side opposite 30\u00b0 [[var n]]. We have [[eq n = x]].\n\n            Let o be the length of the hypotenuse [[var o]]. We have [[eq o = y]].\n\n            Let p be the length of the side opposite 45\u00b0 [[var p]]. We have [[eq p = x]].\n\n            Let q be the length of the side opposite 30\u00b0 [[var q]]. We have [[eq q = x]].\n\n            Let r be the length of the hypotenuse [[var r]]. We have [[eq r = y]].\n\n            Let s be the length of the side opposite 45\u00b0 [[var s]]. We have [[eq s = x]].\n\n            Let t be",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "M C = 7, R M = 4, and A T = 16. Find M B.",
-    "choices": [
-        "6",
-        "8",
-        "10",
-        "12"
-    ],
+    "choices": ["6", "8", "10", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "FD4mAQASAum4KSSeWXshGh",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( AC \\) be the length of side \\( AC \\) [[var AC]]. We have [[eq AC = 7]].\n2. Let \\( BM \\) be the length of side \\( BM \\) [[var BM]]. We have [[eq BM = 4]].\n3. Let \\( AT \\) be the length of side \\( AT \\) [[var AT]]. We have [[eq AT = 16]].\n4. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = AC]].\n5. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = BM]].\n6. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n7. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = 4]].\n8. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n9. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = 4]].\n10. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n11. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = 4]].\n12. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n13. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = 4]].\n14. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n15. Let \\( B \\) be the length of side \\( B \\) [[var B]]. We have [[eq B = 4]].\n16. Let \\( M \\) be the length of side \\( M \\) [[var M]]. We have [[eq M = 7]].\n17. Let \\( B \\",
     "extracted_answer": "D."
-},
-{
+  },
+  {
     "problem_text": "Find the value of the variable y in the figure.",
-    "choices": [
-        "10",
-        "20",
-        "30",
-        "70"
-    ],
+    "choices": ["10", "20", "30", "70"],
     "answer": "A",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "TMkdcLacMETJt2Q4zaFgbF",
     "predicted_answer": "Let \\( a \\) be the measure of the angle \\( 3y + 40^\\circ \\) [[var a]]. We have [[eq a = 3y + 40]]. \n    Let \\( b \\) be the measure of the angle \\( 3x - 70^\\circ \\) [[var b]]. We have [[eq b = 3x - 70]]. \n    Let \\( c \\) be the measure of the angle \\( 120^\\circ \\) [[var c]]. We have [[eq c = 120]]. \n    Let \\( d \\) be the measure of the angle \\( x \\) [[var d]]. We have [[eq d = x]]. \n    Let \\( e \\) be the sum of the measures of the angles in the triangle [[var e]]. We have [[eq e = a + b + c]]. \n    Let \\( f \\) be the sum of the measures of the angles in the quadrilateral [[var f]]. We have [[eq f = 360]]. \n    Let \\( g \\) be the sum of the measures of the angles in the quadrilateral [[var g]]. We have [[eq g = 360]]. \n    Let \\( h \\) be the sum of the measures of the angles in the quadrilateral [[var h]]. We have [[eq h = 360]]. \n    Let \\( i \\) be the sum of the measures of the angles in the quadrilateral [[var i]]. We have [[eq i = 360]]. \n    Let \\( j \\) be the sum of the measures of the angles in the quadrilateral [[var j]]. We have [[eq j = 360]]. \n    Let \\( k \\) be the sum of the measures of the angles in the quadrilateral [[var k]]. We have [[eq k = 360]]. \n    Let \\( l \\) be the sum of the measures of the angles in the quadrilateral [[var l]]. We have [[eq l = 360]]. \n    Let \\( m \\) be the sum of the measures of the angles in the quadrilateral [[var m]]. We have [[eq m = 360]]. \n    Let \\( n \\) be the sum of the measures of the angles in the quadrilateral [[var n]]. We have [[eq n = 360]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find y.",
-    "choices": [
-        "4",
-        "6",
-        "8",
-        "10"
-    ],
+    "choices": ["4", "6", "8", "10"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "UP3pQEDPGXo4iXMAT4gJQR",
     "predicted_answer": "The diagram shows a right triangle with one angle of 60 degrees and a hypotenuse of 20 units. Let x be the length of the side adjacent to the 60-degree angle. We need to find the value of y.\n\n1. Let a be the length of the side adjacent to the 60-degree angle [[var a]]. We have [[eq a = x]].\n2. Let b be the length of the hypotenuse [[var b]]. We have [[eq b = 20]].\n3. Let c be the length of the side opposite the 60-degree angle [[var c]]. We have [[eq c = y]].\n4. In a right triangle, the side opposite the 60-degree angle is half the hypotenuse. Therefore, we have [[eq c = b/2]].\n5. Substituting the value of b, we get [[eq c = 20/2]].\n6. Simplifying, we get [[eq c = 10]].\n\nThe value of y is 10.\n\nThe answer is the value of y [[answer y = 10]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle W.",
-    "choices": [
-        "38",
-        "38",
-        "76",
-        "152"
-    ],
+    "choices": ["38", "38", "76", "152"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "EoynC2FvvRkZutW6fYvmak",
     "predicted_answer": "Let \\( \\alpha \\) be the measure of angle \\( UVW \\) [[var \\alpha]]. We have [[eq \\alpha = x - 8]].\n\nLet \\( \\beta \\) be the measure of angle \\( UVW \\) [[var \\beta]]. We have [[eq \\beta = 3x - 11]].\n\nLet \\( \\gamma \\) be the measure of angle \\( WVZ \\) [[var \\gamma]]. We have [[eq \\gamma = 2x + 7]].\n\nLet \\( \\delta \\) be the measure of angle \\( WXY \\) [[var \\delta]]. We have [[eq \\delta = x]].\n\nLet \\( \\epsilon \\) be the measure of angle \\( WXY \\) [[var \\epsilon]]. We have [[eq \\epsilon = x]].\n\nLet \\( \\theta \\) be the measure of angle \\( WXY \\) [[var \\theta]]. We have [[eq \\theta = x]].\n\nLet \\( \\varphi \\) be the measure of angle \\( WXY \\) [[var \\varphi]]. We have [[eq \\varphi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\varpsi \\) be the measure of angle \\( WXY \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n\nLet \\( \\var",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "A plane travels from Des Moines to Phoenix, on to Atlanta, and back to Des Moines, as shown below. Find the distance in miles from Phoenix to Atlanta if the total trip was 3482 miles.",
-    "choices": [
-        "53",
-        "73.8",
-        "110",
-        "1591"
-    ],
+    "choices": ["53", "73.8", "110", "1591"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "bM3JmZ8MEiNCeEfd7gyE29",
     "predicted_answer": "Let d be the distance from Des Moines to Phoenix [[var d]]. We have [[eq d = 110x + 53]].\nLet e be the distance from Phoenix to Atlanta [[var e]]. We have [[eq e = 150x + 91]].\nLet f be the total distance of the trip [[var f]]. We have [[eq f = 3482]].\nLet g be the distance from Atlanta back to Des Moines [[var g]]. We have [[eq g = e]].\nLet h be the distance from Phoenix to Atlanta [[var h]]. We have [[eq h = e]].\nLet i be the distance from Des Moines to Phoenix [[var i]]. We have [[eq i = d]].\nLet j be the distance from Phoenix to Atlanta [[var j]]. We have [[eq j = e]].\nLet k be the distance from Atlanta back to Des Moines [[var k]]. We have [[eq k = g]].\nLet l be the total distance of the trip [[var l]]. We have [[eq l = f]].\nLet m be the distance from Phoenix to Atlanta [[var m]]. We have [[eq m = j]].\nLet n be the distance from Phoenix to Atlanta [[var n]]. We have [[eq n = j]].\nLet o be the distance from Phoenix to Atlanta [[var o]]. We have [[eq o = j]].\nLet p be the distance from Phoenix to Atlanta [[var p]]. We have [[eq p = j]].\nLet q be the distance from Phoenix to Atlanta [[var q]]. We have [[eq q = j]].\nLet r be the distance from Phoenix to Atlanta [[var r]]. We have [[eq r = j]].\nLet s be the distance from Phoenix to Atlanta [[var s]]. We have [[eq s = j]].\nLet t be the distance from Phoenix to Atlanta [[var t]]. We have [[eq t = j]].\nLet u be the distance from Phoenix to Atlanta [[var u]]. We have [[eq u = j]].\nLet v be the distance from Phoenix to Atlanta [[var v]]. We have [[eq v = j]].\nLet w be the distance from Phoenix to Atlanta [[var w]]. We have [[eq w = j]].\nLet x be the distance from Phoenix to Atlanta [[var x]]. We have [[",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R.",
-    "choices": [
-        "29.1",
-        "43.7",
-        "54.8",
-        "56.1"
-    ],
+    "choices": ["29.1", "43.7", "54.8", "56.1"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "LmdC4oTghF8aksvgqmt9aA",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of RS [[var a]]. We have [[eq a = 18]].\n2. Let \\( b \\) be the length of RS [[var b]]. We have [[eq b = 18]].\n3. Let \\( c \\) be the length of RS [[var c]]. We have [[eq c = 18]].\n4. Let \\( d \\) be the length of RS [[var d]]. We have [[eq d = 18]].\n5. Let \\( e \\) be the length of RS [[var e]]. We have [[eq e = 18]].\n6. Let \\( f \\) be the length of RS [[var f]]. We have [[eq f = 18]].\n7. Let \\( g \\) be the length of RS [[var g]]. We have [[eq g = 18]].\n8. Let \\( h \\) be the length of RS [[var h]]. We have [[eq h = 18]].\n9. Let \\( i \\) be the length of RS [[var i]]. We have [[eq i = 18]].\n10. Let \\( j \\) be the length of RS [[var j]]. We have [[eq j = 18]].\n11. Let \\( k \\) be the length of RS [[var k]]. We have [[eq k = 18]].\n12. Let \\( l \\) be the length of RS [[var l]]. We have [[eq l = 18]].\n13. Let \\( m \\) be the length of RS [[var m]]. We have [[eq m = 18]].\n14. Let \\( n \\) be the length of RS [[var n]]. We have [[eq n = 18]].\n15. Let \\( o \\) be the length of RS [[var o]]. We have [[eq o = 18]].\n16. Let \\( p \\) be the length of RS [[var p]]. We have [[eq p = 18]].\n17. Let \\( q \\) be the length of RS [[var q]]. We have [[eq q = 18]].\n18. Let \\( r \\) be the length of RS [[var r]]. We have [[eq r = 18]].\n19. Let \\( s \\) be the length of RS [[var s]",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "In the figure, m \\angle 1 = 58, m \\angle 2 = 47, and m \\angle 3 = 26. Find the measure of \\angle 5.",
-    "choices": [
-        "43",
-        "47",
-        "58",
-        "73"
-    ],
+    "choices": ["43", "47", "58", "73"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "2KKF4jT2Bnqz8kLaT9p5Wz",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\angle 1 \\) be the measure of angle 1 [[var m1]]. We have [[eq m1 = 58]].\n2. Let \\( m \\angle 2 \\) be the measure of angle 2 [[var m2]]. We have [[eq m2 = 47]].\n3. Let \\( m \\angle 3 \\) be the measure of angle 3 [[var m3]]. We have [[eq m3 = 26]].\n4. Let \\( m \\angle 5 \\) be the measure of angle 5 [[var m5]]. We have [[eq m5 = m1 + m2 + m3]].\n5. Substitute the values of \\( m1 \\), \\( m2 \\), and \\( m3 \\) into the equation for \\( m \\angle 5 \\): [[eq m5 = 58 + 47 + 26]].\n\n6. Calculate the sum of \\( m1 \\), \\( m2 \\), and \\( m3 \\): [[eq m5 = 115]].\n\n7. Therefore, the measure of \\( \\angle 5 \\) is 115 degrees [[answer m5]].\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "The diagonals of rhombus F G H J intersect at K. If G H = x + 9 and J H = 5 x - 2, find x.",
-    "choices": [
-        "2.75",
-        "3",
-        "5.5",
-        "9"
-    ],
+    "choices": ["2.75", "3", "5.5", "9"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Length"],
     "image_id": "Sv5NjuBncDvoVoeY7HEJsW",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( d_GH \\) be the length of diagonal \\( GH \\) [[var d_GH]]. We have [[eq d_GH = x + 9]].\n2. Let \\( d_JH \\) be the length of diagonal \\( JH \\) [[var d_JH]]. We have [[eq d_JH = 5x - 2]].\n3. Since \\( FGHJ \\) is a rhombus, the diagonals are equal in length. Therefore, \\( d_GH = d_JH \\) [[eq d_GH = d_JH]].\n4. Substitute the expressions for \\( d_GH \\) and \\( d_JH \\) into the equation: \\( x + 9 = 5x - 2 \\) [[eq x + 9 = 5x - 2]].\n5. Solve for \\( x \\): \\( x + 9 = 5x - 2 \\) [[eq x + 9 = 5x - 2]].\n   \\[\n   x + 9 = 5x - 2 \\implies 9 + 2 = 5x - x \\implies 11 = 4x \\implies x = \\frac{11}{4} \\implies x = 2.75\n   \\]\n\nAnswer: A. 2.75",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "3.4",
-        "7.0",
-        "8.1",
-        "9.3"
-    ],
+    "choices": ["3.4", "7.0", "8.1", "9.3"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "VssFAzFjpaj3KPwBqxLZZK",
     "predicted_answer": "Let a be the length of the hypotenuse [[var a]]. We have [[eq a = 9.7]].\n\n            Let b be the length of the base [[var b]]. We have [[eq b = 9.7]].\n\n            Let \u03b8 be the angle opposite the base [[var \u03b8]]. We have [[eq \u03b8 = 17\u00b0]].\n\n            Let c be the length of the hypotenuse [[var c]]. We have [[eq c = 9.7]].\n\n            Let x be the length of the hypotenuse [[var x]]. We have [[eq x = 9.7]].\n\n            Let y be the length of the base [[var y]]. We have [[eq y = 9.7]].\n\n            Let z be the length of the hypotenuse [[var z]]. We have [[eq z = 9.7]].\n\n            Let w be the length of the hypotenuse [[var w]]. We have [[eq w = 9.7]].\n\n            Let v be the length of the hypotenuse [[var v]]. We have [[eq v = 9.7]].\n\n            Let u be the length of the hypotenuse [[var u]]. We have [[eq u = 9.7]].\n\n            Let t be the length of the hypotenuse [[var t]]. We have [[eq t = 9.7]].\n\n            Let s be the length of the hypotenuse [[var s]]. We have [[eq s = 9.7]].\n\n            Let r be the length of the hypotenuse [[var r]]. We have [[eq r = 9.7]].\n\n            Let p be the length of the hypotenuse [[var p]]. We have [[eq p = 9.7]].\n\n            Let q be the length of the hypotenuse [[var q]]. We have [[eq q = 9.7]].\n\n            Let m be the length of the hypotenuse [[var m]]. We have [[eq m = 9.7]].\n\n            Let n be the length of the hypotenuse [[var n]]. We have [[eq n = 9.7]].\n\n            Let o be the length of the hypotenuse [[var o]]. We have [[eq o = 9.7]].\n\n            Let b be the length of the hypotenuse",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find the circumference of the figure. Round to the nearest tenth.",
-    "choices": [
-        "18.6",
-        "19.5",
-        "37.7",
-        "39.0"
-    ],
+    "choices": ["18.6", "19.5", "37.7", "39.0"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "JNmU7c93x4Q8vjMeKeNX5c",
     "predicted_answer": "Let \\( r \\) be the radius of the circle [[var r]]. We have [[eq r = 6.2 cm]].\n\nThe circumference \\( C \\) of a circle is given by the formula \\( C = 2 \\pi r \\) [[eq C = 2 \\pi r]].\n\nSubstituting the value of \\( r \\) into the formula, we get [[eq C = 2 \\pi (6.2)]]\n\nCalculating the value of \\( C \\), we have [[eq C = 12.4 \\pi]].\n\nUsing the approximation of \\(\\pi \\approx 3.14\\), we get [[eq C = 37.7]].\n\nRounding to the nearest tenth, we have [[eq C = 37.7]].\n\nThe answer is the value of \\( C \\) [[answer 37.7]].\n\nAnswer: C",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "If m \\widehat F E = 118, m \\widehat A B = 108, m \\angle E G B = 52, and m \\angle E F B = 30, find m \\widehat C F.",
-    "choices": [
-        "30",
-        "44",
-        "108",
-        "118"
-    ],
+    "choices": ["30", "44", "108", "118"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "hsVdfkbBAn24iHLBRcVMcK",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\widehat F E \\) be the measure of \\(\\widehat F E\\) [[var m_FE]]. We have [[eq m_FE = 118]].\n2. Let \\( m \\widehat A B \\) be the measure of \\(\\widehat A B\\) [[var m_AB]]. We have [[eq m_AB = 108]].\n3. Let \\( m \\angle E G B \\) be the measure of \\(\\angle E G B\\) [[var m_EGB]]. We have [[eq m_EGB = 52]].\n4. Let \\( m \\angle E F B \\) be the measure of \\(\\angle E F B\\) [[var m_EFB]]. We have [[eq m_EFB = 30]].\n5. Let \\( m \\widehat C F \\) be the measure of \\(\\widehat C F\\) [[var m_CF]]. We have [[eq m_CF = m_FE + m_AB + m_EGB + m_EFB]].\n\nSubstituting the known values:\n\n\\[\nm_CF = 118 + 108 + 52 + 30\n\\]\n\n\\[\nm_CF = 360\n\\]\n\nThe answer is the value of \\( m \\widehat C F \\) [[answer m_CF]].\n\nAnswer: C",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Use a Pythagorean Triple to find x.",
-    "choices": [
-        "66",
-        "68",
-        "70",
-        "72"
-    ],
+    "choices": ["66", "68", "70", "72"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "nnQtjunEPquHCwk8QrjqMC",
     "predicted_answer": "Let a be the length of the hypotenuse of the right triangle [[var a]]. We have [[eq a = 74]].\n\nLet b be the length of the leg adjacent to the right angle [[var b]]. We have [[eq b = 24]].\n\nLet c be the length of the leg opposite the right angle [[var c]]. We have [[eq c = x]].\n\nLet d be the length of the hypotenuse of the right triangle [[var d]]. We have [[eq d = a]].\n\nUsing the Pythagorean theorem, we have [[eq c^2 + b^2 = d^2]].\n\nSubstituting the values, we get [[eq x^2 + 24^2 = 74^2]].\n\nSimplifying, we have [[eq x^2 + 576 = 5476]].\n\nSubtracting 576 from both sides, we get [[eq x^2 = 5200]].\n\nTaking the square root of both sides, we get [[eq x = \u221a5200]].\n\nSince \u221a5200 is approximately 72.11, we round to the nearest whole number, which is 72.\n\nThe answer is the value of x [[answer 72]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find the measure of \\angle C F D on \\odot F with diameter A C.",
-    "choices": [
-        "115",
-        "119",
-        "120",
-        "123"
-    ],
+    "choices": ["115", "119", "120", "123"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "bPRtcMPCqNtvi7PckJPmFi",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\(\\angle AFD\\) be the measure of angle \\(AFD\\) [[var \\(\\angle AFD\\)]]. We have [[eq \\(\\angle AFD = 72^\\circ\\)]].\n2. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n3. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n4. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n5. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n6. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n7. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n8. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n9. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n10. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4a - 1\\)]] (from the diagram).\n11. Let \\(\\angle CFD\\) be the measure of angle \\(CFD\\) [[var \\(\\angle CFD\\)]]. We have [[eq \\(\\angle CFD = 4",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K L P.",
-    "choices": [
-        "20",
-        "110",
-        "140",
-        "160"
-    ],
+    "choices": ["20", "110", "140", "160"],
     "answer": "D",
-    "problem_type_graph": [
-        "Rectangle",
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "MEuEeuM3tRxxwADUucGqUH",
     "predicted_answer": "Let \\( \\angle J M K \\) be \\( x \\) [[var x]]. We have [[eq x = 55]].\n\nLet \\( \\angle M R P \\) be \\( y \\) [[var y]]. We have [[eq y = 70]].\n\nLet \\( \\angle J M L \\) be \\( z \\) [[var z]]. We have [[eq z = x]].\n\nLet \\( \\angle K L P \\) be \\( w \\) [[var w]]. We have [[eq w = y]].\n\nSince \\( \\angle J M K \\) and \\( \\angle M R P \\) are supplementary angles, we have [[eq x + y = 180]].\n\nSubstituting the values, we get [[eq 55 + 70 = 180]].\n\nTherefore, \\( w = 110 \\) [[eq w = 110]].\n\nThe answer is the value of \\( w \\) [[answer 110]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find x. Round the angle measure to the nearest degree.",
-    "choices": [
-        "98",
-        "103",
-        "108",
-        "113"
-    ],
+    "choices": ["98", "103", "108", "113"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "dfhPBuVzK6CsDqtEzRdufx",
     "predicted_answer": "Let a be the length of the side opposite the angle x [[var a]]. We have [[eq a = 29]].\n\n            Let b be the length of the side adjacent to the angle x [[var b]]. We have [[eq b = 50]].\n\n            Let c be the length of the hypotenuse of the triangle [[var c]]. We have [[eq c = 61]].\n\n            Let \u03b8 be the angle opposite side a [[var \u03b8]]. We have [[eq \u03b8 = x]].\n\n            Using the sine function, we have [[eq sin(\u03b8) = a/c]]. Substituting the values, we get [[eq sin(x) = 29/61]].\n\n            Using the cosine function, we have [[eq cos(\u03b8) = b/c]]. Substituting the values, we get [[eq cos(x) = 50/61]].\n\n            Since sin(x) and cos(x) are related by the Pythagorean identity sin^2(x) + cos^2(x) = 1, we have [[eq sin^2(x) + cos^2(x) = 1]]. Substituting the values, we get [[eq (29/61)^2 + (50/61)^2 = 1]].\n\n            Solving for x, we get [[eq x = sin^(-1)((29/61)^2)]]. Using a calculator, we find [[x \u2248 98]].\n\n            Rounding to the nearest degree, we get [[x \u2248 98]].\n\n            The answer is the value of x [[answer 98]].",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Q is the centroid and B E = 9. Find B Q.",
-    "choices": [
-        "3",
-        "6",
-        "9",
-        "12"
-    ],
+    "choices": ["3", "6", "9", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "6W4im7PEyRpFbVjiPZG5r5",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( AB = 9 \\) be the length of segment \\( BE \\). We have \\( AB = 9 \\).\n2. Let \\( Q \\) be the centroid of triangle \\( AFE \\). The centroid divides each median into segments of equal length.\n3. Let \\( QE \\) be the median from vertex \\( Q \\) to vertex \\( E \\). Since \\( QE \\) is the median, it divides \\( AF \\) into two equal segments.\n4. Let \\( QE = x \\) be the length of segment \\( QE \\). We have \\( QE = x \\).\n5. Since \\( QE \\) is the median from \\( Q \\) to \\( E \\), it divides \\( AF \\) into two equal segments. Therefore, \\( AF = 2QE \\).\n6. Substituting \\( QE = x \\) into \\( AF = 2QE \\), we get \\( AF = 2x \\).\n7. Since \\( AF = 9 \\), we have \\( 2x = 9 \\).\n8. Solving for \\( x \\), we get \\( x = \\frac{9}{2} = 4.5 \\).\n9. Since \\( QE = x \\), we have \\( QE = 4.5 \\).\n\nAnswer: The length of segment \\( BQ \\) is 4.5.\n\nThe correct answer is not provided in the choices. Please check the provided choices and the calculation steps.",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "A B is a diameter, A C = 8 inches, and B C = 15 inches. Find the radius of the circle.",
-    "choices": [
-        "7.5",
-        "8",
-        "8.5",
-        "17"
-    ],
+    "choices": ["7.5", "8", "8.5", "17"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "kij5BCfXfAws2dNFn8bxKH",
     "predicted_answer": "The diagram shows a circle with points A, B, C, and D. The diameter AB is labeled as 15 inches. The radius AC is 8 inches. We need to find the radius of the circle.\n\n1. Let \\( r \\) be the radius of the circle [[var r]].\n2. Since AB is the diameter, we have \\( AB = 2r \\) [[eq AB = 2r]].\n3. We know that \\( AC = 8 \\) inches [[eq AC = 8]].\n4. Using the Pythagorean theorem, we have \\( AC^2 + BC^2 = AB^2 \\) [[eq AC^2 + BC^2 = AB^2]].\n5. Substituting the values, we get \\( 8^2 + BC^2 = 15^2 \\) [[eq 8^2 + BC^2 = 15^2]].\n6. Simplifying, we have \\( 64 + BC^2 = 225 \\) [[eq 64 + BC^2 = 225]].\n7. Solving for \\( BC \\), we get \\( BC^2 = 225 - 64 \\) [[eq BC^2 = 225 - 64]].\n8. Simplifying, we have \\( BC^2 = 161 \\) [[eq BC^2 = 161]].\n9. Taking the square root of both sides, we get \\( BC = \\sqrt{161} \\) [[eq BC = \\sqrt{161}]].\n10. Since BC is the radius AC, we have \\( r = \\sqrt{161} \\) [[eq r = \\sqrt{161}]].\n\nThe radius of the circle is approximately 8.5 inches [[answer r]].\n\nAnswer: C",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find y.",
     "choices": [
-        "\\frac { \\sqrt { 2 } } { 2 }",
-        "\\sqrt { 2 }",
-        "2 \\sqrt { 2 }",
-        "4 \\sqrt { 2 }"
+      "\\frac { \\sqrt { 2 } } { 2 }",
+      "\\sqrt { 2 }",
+      "2 \\sqrt { 2 }",
+      "4 \\sqrt { 2 }"
     ],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "APDyotoo5zGPmgB5yb6Uzf",
     "predicted_answer": "Let a be the length of the hypotenuse of the right triangle [[var a]]. We have [[eq a = 12]].\n\n            Let b be the length of the leg adjacent to the right angle [[var b]]. We have [[eq b = 8]].\n\n            Let c be the length of the leg opposite the right angle [[var c]]. We have [[eq c = y]].\n\n            Let d be the length of the hypotenuse of the right triangle [[var d]]. We have [[eq d = \\sqrt{a^2 + b^2}]].\n\n            Let e be the length of the hypotenuse of the right triangle [[var e]]. We have [[eq e = \\sqrt{c^2 + d^2}]].\n\n            Let f be the length of the hypotenuse of the right triangle [[var f]]. We have [[eq f = \\sqrt{c^2 + d^2}]].\n\n            Let g be the length of the hypotenuse of the right triangle [[var g]]. We have [[eq g = \\sqrt{c^2 + d^2}]].\n\n            Let h be the length of the hypotenuse of the right triangle [[var h]]. We have [[eq h = \\sqrt{c^2 + d^2}]].\n\n            Let i be the length of the hypotenuse of the right triangle [[var i]]. We have [[eq i = \\sqrt{c^2 + d^2}]].\n\n            Let j be the length of the hypotenuse of the right triangle [[var j]]. We have [[eq j = \\sqrt{c^2 + d^2}]].\n\n            Let k be the length of the hypotenuse of the right triangle [[var k]]. We have [[eq k = \\sqrt{c^2 + d^2}]].\n\n            Let l be the length of the hypotenuse of the right triangle [[var l]]. We have [[eq l = \\sqrt{c^2 + d^2}]].\n\n            Let m be the length of the hypotenuse of the right triangle [[var m]]. We have [[eq m = \\sqrt{c^2 + d^2}]].\n\n            Let n be the length of the hypotenuse of the right",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "m is the perpendicular bisector of X Z, W Z = 14.9. Find W X.",
-    "choices": [
-        "7.45",
-        "14.9",
-        "22.4",
-        "25.3"
-    ],
+    "choices": ["7.45", "14.9", "22.4", "25.3"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "n7wvTkLoxG7XF4vtzV9vvd",
     "predicted_answer": "The diagram shows a right triangle XYZ with hypotenuse XZ. The perpendicular bisector of XZ is W. The length of WZ is 14.9. We need to find the length of WX.\n\n1. Let \\( x \\) be the length of WZ [[var x]]. We have [[eq x = 14.9]].\n2. Let \\( y \\) be the length of WX [[var y]]. Since WX is the perpendicular bisector of XZ, it divides XZ into two equal segments. Therefore, \\( y = x \\) [[eq y = x]].\n3. Substitute the value of \\( x \\) into the equation for \\( y \\): [[eq y = 14.9]].\n4. The length of WX is the value of \\( y \\).\n\nThe answer is the value of \\( y \\).\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Lines l, m, and n are perpendicular bisectors of \\triangle P Q R and meet at T. If T Q = 2 x, P T = 3 y - 1, and T R = 8, find z.",
-    "choices": [
-        "3",
-        "4",
-        "5",
-        "6"
-    ],
+    "choices": ["3", "4", "5", "6"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MnzSAJzho7Vpzm4FcB5KoA",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( x \\) be the length of \\( TQ \\). We have \\( x = 2x \\) [[var x]].\n2. Let \\( y \\) be the length of \\( PT \\). We have \\( y = 3y - 1 \\) [[var y]].\n3. Let \\( z \\) be the length of \\( TR \\). We have \\( z = 8 \\) [[var z]].\n4. Let \\( m \\) be the length of \\( MR \\). We have \\( m = 7 \\) [[var m]].\n5. Let \\( n \\) be the length of \\( PR \\). We have \\( n = z + 4 \\) [[var n]].\n6. Let \\( P \\) be the length of \\( PR \\). We have \\( P = n + 4 \\) [[var P]].\n7. Let \\( Q \\) be the length of \\( PR \\). We have \\( Q = P + 4 \\) [[var Q]].\n8. Let \\( R \\) be the length of \\( PR \\). We have \\( R = Q + 4 \\) [[var R]].\n9. Let \\( T \\) be the length of \\( PR \\). We have \\( T = R + 4 \\) [[var T]].\n10. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n11. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n12. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n13. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n14. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n15. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n16. Let \\( T \\) be the length of \\( PR \\). We have \\( T = Q + 4 \\) [[var T]].\n17. Let \\( T \\) be the",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "If A B = 12, A C = 16, and E D = 5, find A E.",
-    "choices": [
-        "10",
-        "12",
-        "15",
-        "16"
-    ],
+    "choices": ["10", "12", "15", "16"],
     "answer": "C",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "NJtJf5rx2BWzhQkcvXuVVq",
     "predicted_answer": "Peano-style calculation:\n\n1. Let AB be the length of side AB [[var AB]]. We have [[eq AB = 12]].\n2. Let AC be the length of side AC [[var AC]]. We have [[eq AC = 16]].\n3. Let ED be the length of side ED [[var ED]]. We have [[eq ED = 5]].\n4. Let AE be the length of side AE [[var AE]].\n5. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let BC be the length of side BC [[var BC]]. We have [[eq BC = AC]].\n6. Let BD be the length of side BD [[var BD]]. We have [[eq BD = ED]].\n7. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let CD be the length of side CD [[var CD]]. We have [[eq CD = BC]].\n8. Let DE be the length of side DE [[var DE]]. We have [[eq DE = BD]].\n9. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let EF be the length of side EF [[var EF]]. We have [[eq EF = CD]].\n10. Let FD be the length of side FD [[var FD]]. We have [[eq FD = DE]].\n11. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let GA be the length of side GA [[var GA]]. We have [[eq GA = EF]].\n12. Let GE be the length of side GE [[var GE]]. We have [[eq GE = FD]].\n13. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let GH be the length of side GH [[var GH]]. We have [[eq GH = GA]].\n14. Let HI be the length of side HI [[var HI]]. We have [[eq HI = GE]].\n15. Since triangle ABC is isosceles, the lengths of the two equal sides are equal. Let IJ be the length of side IJ [[var IJ]]. We have [[eq IJ = HI]].\n16. Let JK be the length of side JK [[var JK]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle N C L.",
-    "choices": [
-        "60",
-        "120",
-        "240",
-        "360"
-    ],
+    "choices": ["60", "120", "240", "360"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "TmNTkejKb9x9cDwLr3GAGV",
     "predicted_answer": "Let \\( \\alpha \\) be the angle \\( x - 1 \\) [[var \\alpha]]. We have [[eq \\alpha = x - 1]]. \n            Let \\( \\beta \\) be the angle \\( 3x + 5 \\) [[var \\beta]]. We have [[eq \\beta = 3x + 5]]. \n            Let \\( \\gamma \\) be the angle \\( 60 \\) [[var \\gamma]]. We have [[eq \\gamma = 60]]. \n            Let \\( \\delta \\) be the angle \\( N C L \\) [[var \\delta]]. We have [[eq \\delta = \\alpha + \\beta + \\gamma]]. \n            Let \\( \\epsilon \\) be the value of \\( \\delta \\) [[var \\epsilon]]. We have [[eq \\epsilon = x - 1 + 3x + 5 + 60]]. \n            Let \\( \\zeta \\) be the value of \\( \\epsilon \\) [[var \\zeta]]. We have [[eq \\zeta = x + 3x + 5 + 60]]. \n            Let \\( \\theta \\) be the value of \\( \\zeta \\) [[var \\theta]]. We have [[eq \\theta = 4x + 65]]. \n            Let \\( \\varphi \\) be the value of \\( \\theta \\) [[var \\varphi]]. We have [[eq \\varphi = 4x + 65]]. \n            Let \\( \\varpsi \\) be the value of \\( \\varphi \\) [[var \\varpsi]]. We have [[eq \\varpsi = 4x + 65]]. \n            Let \\( \\varome \\) be the value of \\( \\varpsi \\) [[var \\varome]]. We have [[eq \\varome = 4x + 65]]. \n            Let \\( \\varome \\) be the value of \\( \\varome \\) [[var \\varome]]. We have [[eq \\varome = 4x + 65]]. \n            Let \\( \\varome \\) be the value of \\( \\varome \\) [[var \\varome]]. We have [[eq \\varome = 4x + 65]]. \n            Let \\( \\varome \\) be the value",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the measure of the altitude drawn to the hypotenuse.",
     "choices": [
-        "2 \\sqrt { 3 }",
-        "2 \\sqrt { 6 }",
-        "4 \\sqrt { 3 }",
-        "4 \\sqrt { 6 }"
+      "2 \\sqrt { 3 }",
+      "2 \\sqrt { 6 }",
+      "4 \\sqrt { 3 }",
+      "4 \\sqrt { 6 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "8ecUxcMJ8ZkHmaaN8TChc4",
     "predicted_answer": "Let \\( a \\) be the length of the hypotenuse of the right triangle \\( GHF \\). We have [[var a]]. We have [[eq a = 16]].\n\nLet \\( b \\) be the length of the altitude drawn to the hypotenuse. We have [[var b]].\n\nLet \\( c \\) be the length of the leg \\( GH \\). We have [[var c]]. We have [[eq c = 12]].\n\nLet \\( d \\) be the length of the leg \\( HF \\). We have [[var d]]. We have [[eq d = 16]].\n\nLet \\( e \\) be the length of the leg \\( GH \\). We have [[var e]]. We have [[eq e = c]].\n\nLet \\( f \\) be the length of the leg \\( GHF \\). We have [[var f]]. We have [[eq f = a]].\n\nLet \\( g \\) be the length of the hypotenuse \\( GHF \\). We have [[var g]]. We have [[eq g = a]].\n\nLet \\( h \\) be the length of the altitude \\( GHF \\). We have [[var h]]. We have [[eq h = \\frac{b}{2}]].\n\nLet \\( i \\) be the length of the leg \\( GH \\). We have [[var i]]. We have [[eq i = e]].\n\nLet \\( j \\) be the length of the hypotenuse \\( GHF \\). We have [[var j]]. We have [[eq j = g]].\n\nLet \\( k \\) be the length of the leg \\( GH \\). We have [[var k]]. We have [[eq k = i]].\n\nLet \\( l \\) be the length of the hypotenuse \\( GHF \\). We have [[var l]]. We have [[eq l = j]].\n\nLet \\( m \\) be the length of the hypotenuse \\( GHF \\). We have [[var m]]. We have [[eq m = g]].\n\nLet \\( n \\) be the length of the hypotenuse \\( GHF \\). We have [[var n]]. We have [[eq n = g]].\n\nLet \\( o \\) be the length of the hypotenuse \\( GHF \\). We have [[var o]",
     "extracted_answer": "A."
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "20",
-        "30",
-        "40",
-        "50"
-    ],
+    "choices": ["20", "30", "40", "50"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "7ADXywbVqi2HibDzMNjwSM",
     "predicted_answer": "The diagram shows a triangle ABC with angle BAC being 2x degrees, angle ACB being 4y - 5 degrees, and side BC being 3 inches. We need to find the value of x.",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "In rhombus L M P Q, m \\angle Q L M = 2 x^ { 2 } - 10, m \\angle Q P M = 8 x, and M P = 10. Find the perimeter of L M P Q.",
-    "choices": [
-        "10",
-        "40",
-        "70",
-        "140"
-    ],
+    "choices": ["10", "40", "70", "140"],
     "answer": "B",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "EsqtHKA8crSrfe6JM3N76M",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\angle Q L M \\) be \\( 2x^2 - 10 \\) [[var \\( m \\angle Q L M \\)]].\n2. Let \\( m \\angle Q P M \\) be \\( 8x \\) [[var \\( m \\angle Q P M \\)]].\n3. Let \\( M P = 10 \\) [[var \\( M P \\)]].\n4. Since \\( L M P Q \\) is a rhombus, all angles are equal. Therefore, \\( m \\angle Q P M = m \\angle Q L M \\).\n5. We have \\( 2x^2 - 10 = 8x \\) [[eq \\( 2x^2 - 10 = 8x \\)]].\n6. Solving for \\( x \\), we get \\( x = 5 \\) [[eq \\( x = 5 \\)]].\n7. The perimeter \\( P \\) of the rhombus is given by \\( P = 4M \\) [[var \\( P \\)]].\n8. Substituting \\( M = 10 \\), we get \\( P = 4 \\times 10 = 40 \\) [[eq \\( P = 40 \\)]].\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the area of the trapezoid.",
-    "choices": [
-        "506",
-        "667",
-        "678.5",
-        "851"
-    ],
+    "choices": ["506", "667", "678.5", "851"],
     "answer": "C",
-    "problem_type_graph": [
-        "Trapezoid"
-    ],
-    "problem_type_goal": [
-        "Area"
-    ],
+    "problem_type_graph": ["Trapezoid"],
+    "problem_type_goal": ["Area"],
     "image_id": "er4baEzQPyfNpPMHkgMMFy",
     "predicted_answer": "",
     "extracted_answer": "There is no detailed answer provided for me to extract the letter from. Please provide the detailed answer to your problem, and I will be able to extract the correct letter for you."
-},
-{
+  },
+  {
     "problem_text": "Triangle L M N is equilateral, and M P bisects L N. Find the measure of the side of \\triangle L M N.",
-    "choices": [
-        "9",
-        "10",
-        "11",
-        "12"
-    ],
+    "choices": ["9", "10", "11", "12"],
     "answer": "B",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "PNHHASfJpNJUKPDz4HXaNn",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( a \\) be the length of the side of the equilateral triangle \\( L M N \\). Since \\( L M N \\) is equilateral, we have \\( a = 3x + 1 \\) [[var a]].\n2. Let \\( b \\) be the length of the side of the triangle \\( L P N \\). Since \\( M P \\) bisects \\( L N \\), we have \\( b = 4x - 2 \\) [[var b]].\n3. Let \\( c \\) be the length of the side of the triangle \\( L P N \\). Since \\( L P N \\) is a right triangle, we have \\( c = 5y \\) [[var c]].\n4. Let \\( d \\) be the length of the side of the triangle \\( L P N \\). Since \\( L P N \\) is a right triangle, we have \\( d = a \\) [[var d]].\n5. Since \\( L P N \\) is a right triangle, we have \\( d = a \\) [[eq d = a]].\n6. Substituting the value of \\( a \\) from step 1 into the equation from step 5, we get \\( d = 3x + 1 \\) [[eq d = 3x + 1]].\n7. Since \\( d \\) is the length of the side of the triangle \\( L P N \\), we have \\( d = 5y \\) [[eq d = 5y]].\n8. Equating the expressions for \\( d \\) from steps 6 and 7, we get \\( 3x + 1 = 5y \\) [[eq 3x + 1 = 5y]].\n9. Solving for \\( y \\), we get \\( y = \\frac{3x + 1}{5} \\) [[eq y = \\frac{3x + 1}{5}]].\n10. Substituting the value of \\( y \\) from step 9 into the equation from step 8, we get \\( 3x + 1 = \\frac{3x + 1}{5} \\times 5 \\) [[eq 3x + 1 = 3x + 1]].\n11. Simplifying the equation, we get \\( 3x + 1 = 3x + 1 \\) [[eq 3x + 1 = 3x + 1]].\n12. Since \\( 3x + 1",
     "extracted_answer": "C. 11"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "3",
-        "4",
-        "6",
-        "7"
-    ],
+    "choices": ["3", "4", "6", "7"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "MRyybgJTPtzfNUXGFyGx6A",
     "predicted_answer": "The diagram shows a right triangle with one leg labeled as 6x + 2 and the other leg labeled as 8. The hypotenuse is labeled as 10. We need to find the value of x.\n\n1. Let a be the length of the leg labeled as 6x + 2 [[var a]]. We have [[eq a = 6x + 2]].\n2. Let b be the length of the leg labeled as 8 [[var b]]. We have [[eq b = 8]].\n3. Let c be the length of the hypotenuse [[var c]]. We have [[eq c = 10]].\n4. Using the Pythagorean theorem, we have [[eq a^2 + b^2 = c^2]]. Substituting the values, we get [[eq (6x + 2)^2 + 8^2 = 10^2]].\n5. Simplifying the equation, we get [[eq 36x^2 + 24x + 4 + 64 = 100]].\n6. Combining like terms, we get [[eq 36x^2 + 28x + 68 = 100]].\n7. Subtracting 68 from both sides, we get [[eq 36x^2 + 28x = 32]].\n8. Dividing both sides by 36, we get [[eq x^2 + (28/36)x = 32/36]].\n9. Simplifying, we get [[eq x^2 + (7/9)x = 8/9]].\n10. Solving for x, we get [[eq x^2 + (7/9)x - 8/9 = 0]].\n11. Using the quadratic formula, we get [[eq x = (-b \u00b1 \u221a(b^2 - 4ac)) / 2a]].\n12. Substituting the values, we get [[eq x = (-(7/9) \u00b1 \u221a((7/9)^2 - 4(1)(-8/9)))]].\n13. Simplifying, we get [[eq x = (-(7/9) \u00b1 \u221a(49/81 + 32/81))]].\n14. Simplifying further, we get [[eq x = (-(7/9) \u00b1 \u221a(81/81))]].\n15. Simplifying, we get [[eq x = (-(7/9) \u00b1 9",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "parallelogram M N P Q with m \\angle M = 10 x and m \\angle N = 20 x, find \\angle M.",
-    "choices": [
-        "30",
-        "45",
-        "60",
-        "120"
-    ],
+    "choices": ["30", "45", "60", "120"],
     "answer": "C",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "ntjhG53DyUbz2Qej7kurTv",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\angle M \\) be the measure of angle \\( M \\) [[var m \\angle M]]. We have [[eq m \\angle M = 10x]].\n2. Let \\( m \\angle N \\) be the measure of angle \\( N \\) [[var m \\angle N]]. We have [[eq m \\angle N = 20x]].\n3. Since \\( M \\angle N \\) and \\( N \\angle P \\) are supplementary angles, we have [[eq m \\angle N + m \\angle P = 180]].\n4. Let \\( m \\angle P \\) be the measure of angle \\( P \\) [[var m \\angle P]]. We have [[eq m \\angle P = 180 - m \\angle N]].\n5. Substituting the values of \\( m \\angle N \\) and \\( m \\angle P \\) into the equation, we get [[eq 10x + (180 - 20x) = 180]].\n6. Simplifying the equation, we have [[eq -10x + 180 = 180]].\n7. Solving for \\( x \\), we get [[eq -10x = 0]].\n8. Dividing both sides by -10, we get [[eq x = 0]].\n9. Substituting \\( x = 0 \\) back into \\( m \\angle M \\), we get [[eq m \\angle M = 10 \\times 0 = 0]].\n\nAnswer: The answer is the value of \\( m \\angle M \\).\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "If m \\angle 5 = 7 x - 5 and m \\angle 4 = 2 x + 23, find x.",
-    "choices": [
-        "5.6",
-        "18",
-        "20",
-        "22"
-    ],
+    "choices": ["5.6", "18", "20", "22"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Angle"],
     "image_id": "gFoNe2vzy7vKP8Mb3qU9H2",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( m \\angle 5 \\) be denoted by \\( a \\) [[var a]]. We have [[eq a = 7x - 5]].\n2. Let \\( m \\angle 4 \\) be denoted by \\( b \\) [[var b]]. We have [[eq b = 2x + 23]].\n3. Since \\( m \\angle 5 \\) and \\( m \\angle 4 \\) are alternate interior angles, we have [[eq a = b]].\n4. Substitute the value of \\( a \\) from step 1 into the equation from step 3: [[eq 7x - 5 = 2x + 23]].\n5. Solve for \\( x \\): [[eq 7x - 2x = 23 + 5]].\n6. Simplify: [[eq 5x = 28]].\n7. Divide both sides by 5: [[eq x = 28/5]].\n8. Simplify: [[eq x = 5.6]].\n\nAnswer: A. 5.6",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Use parallelogram M N P R to find m \\angle R M N.",
-    "choices": [
-        "33",
-        "38",
-        "71",
-        "109"
-    ],
+    "choices": ["33", "38", "71", "109"],
     "answer": "D",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Angle"],
     "image_id": "VQuhEAFAUzCQCMtGaJYtdk",
     "predicted_answer": "The diagram shows a parallelogram with the following measurements:\n\n- The length of side MN is 17.9.\n- The length of side QR is 20.\n- The length of side PR is 4w - 3.\n- The length of side QR is 3x - 4.\n- The length of side PR is 15.4.\n- The length of side QR is 11.1.\n- The length of side PR is y + 5.\n- The length of side QR is 33.\n- The length of side QR is 38.\n- The length of side QR is 71.\n- The length of side QR is 109.\n\nLet \\( m \\angle R M N \\) be the angle we need to find.\n\n1. Let \\( a \\) be the length of side QR [[var a]]. We have [[eq a = 3x - 4]].\n2. Let \\( b \\) be the length of side QR [[var b]]. We have [[eq b = 11.1]].\n3. Let \\( c \\) be the length of side QR [[var c]]. We have [[eq c = 33]].\n4. Let \\( d \\) be the length of side QR [[var d]]. We have [[eq d = 38]].\n5. Let \\( e \\) be the length of side QR [[var e]]. We have [[eq e = 71]].\n6. Let \\( f \\) be the length of side QR [[var f]]. We have [[eq f = 109]].\n\nSince the opposite angles in a parallelogram are equal, we have:\n\n\\[\nm \\angle R M N = m \\angle Q P N\n\\]\n\nLet \\( g \\) be the measure of \\( m \\angle R M N \\) [[var g]]. We have [[eq g = 33]].\n\nTherefore, the answer is the value of \\( g \\).\n\nAnswer: A",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle B.",
-    "choices": [
-        "29",
-        "58",
-        "61",
-        "122"
-    ],
+    "choices": ["29", "58", "61", "122"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "mTaJ2qYWNyAFwozhqgVt7x",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\(\\angle A\\) be the measure of angle \\(A\\) [[var \\(\\angle A\\)]]. We have [[eq \\(\\angle A = 122^\\circ\\)]].\n2. Let \\(\\angle B\\) be the measure of angle \\(B\\) [[var \\(\\angle B\\)]]. We have [[eq \\(\\angle B = 180^\\circ - \\angle A\\)]].\n3. Substitute the value of \\(\\angle A\\) into the equation for \\(\\angle B\\) [[eq \\(\\angle B = 180^\\circ - 122^\\circ\\)]].\n4. Calculate \\(\\angle B\\) [[eq \\(\\angle B = 58^\\circ\\)]].\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "If \\triangle L M N \\sim \\triangle Q R S, Q R = 35, R S = 37, S Q = 12, and N L = 5, find the perimeter of \\triangle L M N.",
-    "choices": [
-        "35",
-        "42",
-        "63",
-        "84"
-    ],
+    "choices": ["35", "42", "63", "84"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "WWPeTGCdinVayfLvaFhnc3",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\(a\\) be the length of side \\(NS\\) [[var a]]. We have [[eq a = 12]].\n2. Let \\(b\\) be the length of side \\(RS\\) [[var b]]. We have [[eq b = 37]].\n3. Let \\(c\\) be the length of side \\(QR\\) [[var c]]. We have [[eq c = 35]].\n4. Let \\(d\\) be the length of side \\(NL\\) [[var d]]. We have [[eq d = 5]].\n5. Let \\(P\\) be the perimeter of \\(\\triangle L M N\\) [[var P]]. We have [[eq P = a + b + c + d]].\n\nSubstituting the values:\n\n\\[\nP = 12 + 37 + 35 + 5 = 87\n\\]\n\nThe answer is the value of \\(P\\).\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "The two polygons are similar. Find U T.",
-    "choices": [
-        "12",
-        "20.5",
-        "22.5",
-        "35"
-    ],
+    "choices": ["12", "20.5", "22.5", "35"],
     "answer": "C",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Length"],
     "image_id": "GhXmeASaGQqUARG5hnKbd7",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( x \\) be the length of \\( SR \\) [[var x]]. We have [[eq x = 18]].\n2. Let \\( y \\) be the length of \\( ST \\) [[var y]]. We have [[eq y = 2]].\n3. Let \\( z \\) be the length of \\( RT \\) [[var z]]. We have [[eq z = y + 2]].\n4. Let \\( u \\) be the length of \\( UT \\) [[var u]]. We have [[eq u = z]].\n5. Let \\( v \\) be the length of \\( VR \\) [[var v]]. We have [[eq v = x]].\n6. Let \\( w \\) be the length of \\( VR \\) [[var w]]. We have [[eq w = x]].\n7. Let \\( d \\) be the length of \\( RD \\) [[var d]]. We have [[eq d = x]].\n8. Let \\( e \\) be the length of \\( RD \\) [[var e]]. We have [[eq e = x]].\n9. Let \\( f \\) be the length of \\( RD \\) [[var f]]. We have [[eq f = x]].\n10. Let \\( g \\) be the length of \\( RD \\) [[var g]]. We have [[eq g = x]].\n11. Let \\( h \\) be the length of \\( RD \\) [[var h]]. We have [[eq h = x]].\n12. Let \\( i \\) be the length of \\( RD \\) [[var i]]. We have [[eq i = x]].\n13. Let \\( j \\) be the length of \\( RD \\) [[var j]]. We have [[eq j = x]].\n14. Let \\( k \\) be the length of \\( RD \\) [[var k]]. We have [[eq k = x]].\n15. Let \\( l \\) be the length of \\( RD \\) [[var l]]. We have [[eq l = x]].\n16. Let \\( m \\) be the length of \\( RD \\) [[var m]]. We have [[eq m = x]].\n17. Let \\( n \\) be the length of \\( RD \\) [[var n]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 6.",
-    "choices": [
-        "25",
-        "28",
-        "35",
-        "55"
-    ],
+    "choices": ["25", "28", "35", "55"],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "GE33RcZzgAg98WDw44DxPH",
     "predicted_answer": "Let a be the measure of angle 6 [[var a]]. \n            We have [[eq a = 55]]. \n            Therefore, the answer is the value of a [[answer D]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "\\odot P \\cong \\odot Q. Find x.",
-    "choices": [
-        "7",
-        "11",
-        "22",
-        "44"
-    ],
+    "choices": ["7", "11", "22", "44"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "Dn76YqadtCsKBjws8GFuYk",
     "predicted_answer": "The diagram shows two circles with centers P and Q, intersecting at points R and S. The angle PRQ is given as 155 degrees. The angle SQP is given as 20 degrees. The lengths of the segments PR and SQ are given as 3x and 7x - 44 respectively.\n\nLet \\( \\alpha \\) be the measure of angle PRQ. We have \\( \\alpha = 155^\\circ \\).\n\nLet \\( \\beta \\) be the measure of angle SQP. We have \\( \\beta = 20^\\circ \\).\n\nLet \\( \\gamma \\) be the measure of angle SQP. We have \\( \\gamma = \\beta + \\alpha \\).\n\nLet \\( \\delta \\) be the measure of angle SQP. We have \\( \\delta = 20^\\circ \\).\n\nLet \\( \\epsilon \\) be the measure of angle SQP. We have \\( \\epsilon = \\beta + \\alpha \\).\n\nLet \\( \\varphi \\) be the measure of angle SQP. We have \\( \\varphi = 20^\\circ \\).\n\nLet \\( \\varpsi \\) be the measure of angle SQP. We have \\( \\varpsi = \\beta + \\alpha \\).\n\nLet \\( \\varomega \\) be the measure of angle SQP. We have \\( \\varomega = 20^\\circ \\).\n\nLet \\( \\varxi \\) be the measure of angle SQP. We have \\( \\varxi = \\beta + \\alpha \\).\n\nLet \\( \\varx \\) be the measure of angle SQP. We have \\( \\varx = 20^\\circ \\).\n\nLet \\( \\vary \\) be the measure of angle SQP. We have \\( \\vary = \\beta + \\alpha \\).\n\nLet \\( \\varz \\) be the measure of angle SQP. We have \\( \\varz = 20^\\circ \\).\n\nLet \\( \\varw \\) be the measure of angle SQP. We have \\( \\varw = \\beta + \\alpha \\).\n\nLet \\( \\varv \\) be the measure of angle SQP. We have \\( \\varv = 20^\\circ \\).\n\nLet \\( \\varu \\) be the measure of angle SQP. We have \\( \\varu",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "4 \\sqrt { 2 }",
-        "4 \\sqrt { 3 }",
-        "8",
-        "4 \\sqrt { 5 }"
-    ],
+    "choices": ["4 \\sqrt { 2 }", "4 \\sqrt { 3 }", "8", "4 \\sqrt { 5 }"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "SBNDcGa7LaVNWBr4TuJZJ7",
     "predicted_answer": "Let a be the length of the side opposite the 45\u00b0 angle [[var a]]. We have [[eq a = 4]].\n\n            Let b be the length of the side adjacent to the 45\u00b0 angle [[var b]]. We have [[eq b = x]].\n\n            Let c be the length of the hypotenuse of the right triangle [[var c]]. We have [[eq c = 4]].\n\n            Let d be the length of the side adjacent to the 4\u00b0 angle [[var d]]. We have [[eq d = x]].\n\n            Let e be the length of the side opposite the 4\u00b0 angle [[var e]]. We have [[eq e = 4]].\n\n            Let f be the length of the hypotenuse of the right triangle [[var f]]. We have [[eq f = 4]].\n\n            Let g be the length of the side adjacent to the 45\u00b0 angle [[var g]]. We have [[eq g = x]].\n\n            Let h be the length of the hypotenuse of the right triangle [[var h]]. We have [[eq h = 4]].\n\n            Let i be the length of the side opposite the 45\u00b0 angle [[var i]]. We have [[eq i = 4]].\n\n            Let j be the length of the hypotenuse of the right triangle [[var j]]. We have [[eq j = 4]].\n\n            Let k be the length of the side adjacent to the 45\u00b0 angle [[var k]]. We have [[eq k = x]].\n\n            Let l be the length of the hypotenuse of the right triangle [[var l]]. We have [[eq l = 4]].\n\n            Let m be the length of the side opposite the 4\u00b0 angle [[var m]]. We have [[eq m = 4]].\n\n            Let n be the length of the hypotenuse of the right triangle [[var n]]. We have [[eq n = 4]].\n\n            Let o be the length of the side adjacent to the 45\u00b0 angle [[var o]]. We have [[eq o = x]].\n\n            Let p be the length of the hypotenuse of the right triangle [[var p]]. We have [[eq p = 4]].\n\n            Let q be the length of the side opposite the 4\u00b0 angle [[var q]]. We have [[eq q = 4]].\n\n            Let r be the length",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find Q P.",
-    "choices": [
-        "2",
-        "3.6",
-        "5",
-        "6"
-    ],
+    "choices": ["2", "3.6", "5", "6"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line", "Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "jVwD8UTeevsaSQ839YjYim",
     "predicted_answer": "Let a be the length of segment PQ [[var a]]. We have [[eq a = 5]]. \n            Let b be the length of segment NP [[var b]]. We have [[eq b = 6]]. \n            Let c be the length of segment QN [[var c]]. We have [[eq c = 3.5]]. \n            Let d be the length of segment MP [[var d]]. We have [[eq d = 5]]. \n            Let e be the length of segment QP [[var e]]. We have [[eq e = a + d]]. \n            Let f be the length of segment PQ [[var f]]. We have [[eq f = a + d]]. \n            Let g be the length of segment QP [[var g]]. We have [[eq g = e]]. \n            Let h be the length of segment QP [[var h]]. We have [[eq h = e]]. \n            Let i be the length of segment QP [[var i]]. We have [[eq i = e]]. \n            Let j be the length of segment QP [[var j]]. We have [[eq j = e]]. \n            Let k be the length of segment QP [[var k]]. We have [[eq k = e]]. \n            Let l be the length of segment QP [[var l]]. We have [[eq l = e]]. \n            Let m be the length of segment QP [[var m]]. We have [[eq m = e]]. \n            Let n be the length of segment QP [[var n]]. We have [[eq n = e]]. \n            Let o be the length of segment QP [[var o]]. We have [[eq o = e]]. \n            Let p be the length of segment QP [[var p]]. We have [[eq p = e]]. \n            Let q be the length of segment QP [[var q]]. We have [[eq q = e]]. \n            Let r be the length of segment QP [[var r]]. We have [[eq r = e]]. \n            Let s be the length of segment QP [[var s]]. We have [[eq s = e]]. \n            Let t be the length of segment QP [[var t",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
     "choices": [
-        "8 \\sqrt { 2 }",
-        "8 \\sqrt { 3 }",
-        "8 \\sqrt { 5 }",
-        "8 \\sqrt { 7 }"
+      "8 \\sqrt { 2 }",
+      "8 \\sqrt { 3 }",
+      "8 \\sqrt { 5 }",
+      "8 \\sqrt { 7 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "Qt6G44jarbEYNqBzqYkdSv",
     "predicted_answer": "Let a be the length of the hypotenuse [[var a]]. We have [[eq a = 48]].\n\n            Let b be the length of the base [[var b]]. We have [[eq b = 32]].\n\n            Let c be the length of the other leg [[var c]]. We have [[eq c = x]].\n\n            Let d be the length of the hypotenuse [[var d]]. We have [[eq d = a]].\n\n            Using the Pythagorean theorem, we have [[eq c^2 + b^2 = d^2]]. Substituting the values, we get [[eq x^2 + 32^2 = 48^2]].\n\n            Simplifying, we have [[eq x^2 + 1024 = 2304]].\n\n            Subtracting 1024 from both sides, we get [[eq x^2 = 1408]].\n\n            Taking the square root of both sides, we get [[eq x = \\sqrt{1408}]].\n\n            Calculating the square root, we get [[eq x = 38]].\n\n            However, the answer choices are not consistent with the calculated value of x. Therefore, the answer is incorrect.\n\n            The correct answer is the value of x that satisfies the given conditions.",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "In rhombus A B C D, A B = 2 x + 3 and B C = 5 x. Find m \\angle A E B.",
-    "choices": [
-        "45",
-        "60",
-        "90",
-        "180"
-    ],
+    "choices": ["45", "60", "90", "180"],
     "answer": "C",
-    "problem_type_graph": [
-        "Rhombus"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rhombus"],
+    "problem_type_goal": ["Angle"],
     "image_id": "QgSqY5wXuGDAFfoZsDGEoV",
     "predicted_answer": "Question: \n\n1. Let \\( AB = 2x + 3 \\) [[var AB]].\n2. Let \\( BC = 5x \\) [[var BC]].\n3. Let \\( \\angle AEB = \\angle BEC \\) [[var \\angle AEB]].\n4. Let \\( \\angle BEC = 90^\\circ \\) [[var \\angle BEC]].\n5. Let \\( \\angle AEB = \\angle BEC \\) [[var \\angle AEB]].\n6. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n7. Let \\( \\angle AEB = \\angle BEC \\) [[var \\angle AEB]].\n8. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n9. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n10. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n11. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n12. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n13. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n14. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n15. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n16. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n17. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n18. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n19. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n20. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n21. Let \\( \\angle AEB = 90^\\circ \\) [[var \\angle AEB]].\n22. Let \\( \\angle AEB = 90^\\circ \\)",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. If m \\widehat C D = 134, find m \\widehat C B.",
-    "choices": [
-        "24",
-        "33",
-        "67",
-        "134"
-    ],
+    "choices": ["24", "33", "67", "134"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "HkDHT9fw79TNfBouN5KBym",
     "predicted_answer": "Peano-style calculation:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = 13]].\n2. Let x be the length of the chord CD [[var x]]. We have [[eq x = 24]].\n3. Let m be the measure of the angle \u2220CBD [[var m]]. We have [[eq m = 134]].\n4. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. Since \u2220CBD is a right angle, we have [[eq mCB = 90]].\n5. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n6. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n7. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n8. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n9. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n10. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n11. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n12. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n13. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n14. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n15. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB = 90]].\n16. Let mCB be the measure of the angle \u2220CBD [[var mCB]]. We have [[eq mCB =",
     "extracted_answer": "D."
-},
-{
+  },
+  {
     "problem_text": "Circles G, J, and K all intersect at L. If G H = 10, find F H.",
-    "choices": [
-        "5",
-        "10",
-        "20",
-        "25"
-    ],
+    "choices": ["5", "10", "20", "25"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "YzWx64nrLY6XnofBKWsBAw",
     "predicted_answer": "Let \\( r_GJ \\) be the radius of the circle \\( G \\) that intersects the circle \\( J \\). We have \\( r_GJ = 5 \\) [[var r_GJ]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].\n\nLet \\( r_FJ \\) be the radius of the circle \\( F \\) that intersects the circle \\( J \\). We have \\( r_FJ = 5 \\) [[var r_FJ]].\n\nLet \\( r_KJ \\) be the radius of the circle \\( K \\) that intersects the circle \\( J \\). We have \\( r_KJ = 5 \\) [[var r_KJ]].\n\nLet \\( r_LJ \\) be the radius of the circle \\( L \\) that intersects the circle \\( J \\). We have \\( r_LJ = 5 \\) [[var r_LJ]].\n\nLet \\( r_FJ \\) be the radius of the circle \\( F \\) that intersects the circle \\( J \\). We have \\( r_FJ = 5 \\) [[var r_FJ]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].\n\nLet \\( r_GH \\) be the radius of the circle \\( H \\) that intersects the circle \\( G \\). We have \\( r_GH = 10 \\) [[var r_GH]].",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find the scale factor from W to W'.",
     "choices": [
-        "\\frac { 1 } { 3 }",
-        "\\frac { 2 } { 3 }",
-        "\\frac { 3 } { 4 }",
-        "\\frac { 3 } { 2 }"
+      "\\frac { 1 } { 3 }",
+      "\\frac { 2 } { 3 }",
+      "\\frac { 3 } { 4 }",
+      "\\frac { 3 } { 2 }"
     ],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Ratio"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Ratio"],
     "image_id": "9N8XsSWN3pSRGe2tzqeq2T",
     "predicted_answer": "Answer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle R.",
-    "choices": [
-        "58",
-        "60",
-        "122",
-        "124"
-    ],
+    "choices": ["58", "60", "122", "124"],
     "answer": "A",
-    "problem_type_graph": [
-        "Other"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Other"],
+    "problem_type_goal": ["Angle"],
     "image_id": "N4ud5y3idfEucApRKHwcEy",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( \\alpha \\) be the measure of \\( \\angle R \\) [[var \\alpha]]. We have [[eq \\alpha = x]].\n2. Let \\( \\beta \\) be the measure of \\( \\angle R \\) [[var \\beta]]. We have [[eq \\beta = 2x + 5]].\n3. Let \\( \\gamma \\) be the measure of \\( \\angle R \\) [[var \\gamma]]. We have [[eq \\gamma = 2x + 7]].\n4. Let \\( \\delta \\) be the measure of \\( \\angle R \\) [[var \\delta]]. We have [[eq \\delta = x]].\n5. Let \\( \\epsilon \\) be the measure of \\( \\angle R \\) [[var \\epsilon]]. We have [[eq \\epsilon = x]].\n6. Let \\( \\theta \\) be the measure of \\( \\angle R \\) [[var \\theta]]. We have [[eq \\theta = x]].\n7. Let \\( \\varphi \\) be the measure of \\( \\angle R \\) [[var \\varphi]]. We have [[eq \\varphi = x]].\n8. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n9. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n10. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n11. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n12. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]]. We have [[eq \\varpsi = x]].\n13. Let \\( \\varpsi \\) be the measure of \\( \\angle R \\) [[var \\varpsi]].",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x so that the quadrilateral is a parallelogram.",
-    "choices": [
-        "3",
-        "5",
-        "12",
-        "18"
-    ],
+    "choices": ["3", "5", "12", "18"],
     "answer": "B",
-    "problem_type_graph": [
-        "Parallelogram"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Parallelogram"],
+    "problem_type_goal": ["Length"],
     "image_id": "6uz94kszbNUWbiQLvmyE3g",
     "predicted_answer": "The diagram shows a parallelogram with two pairs of opposite angles given as x + 4 and 55 degrees, and 60 degrees. We need to find the value of x.\n\n1. Let a be the measure of one of the angles in the parallelogram. We have [[var a]].\n2. Since opposite angles in a parallelogram are equal, we have [[eq a = x + 4]].\n3. Let b be the measure of the other angle in the parallelogram. We have [[var b]].\n4. Since opposite angles in a parallelogram are equal, we have [[eq b = 60]].\n5. Let c be the measure of the angle adjacent to angle b. We have [[var c]].\n6. Since the sum of the angles in a quadrilateral is 360 degrees, we have [[eq a + b + c + x = 360]].\n7. Substitute the values of a and b into the equation: [[eq (x + 4) + 60 + c + x = 360]].\n8. Simplify the equation: [[eq 2x + 64 + c = 360]].\n9. Since c is the angle adjacent to b, it is supplementary to b, so c = 180 - b. We have [[eq c = 180 - 60]].\n10. Substitute the value of c into the equation: [[eq 2x + 64 + (180 - 60) = 360]].\n11. Simplify the equation: [[eq 2x + 64 + 120 = 360]].\n12. Combine like terms: [[eq 2x + 184 = 360]].\n13. Subtract 184 from both sides: [[eq 2x = 176]].\n14. Divide both sides by 2: [[eq x = 88]].\n\nThe value of x is 88.\n\nAnswer: D",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Express the ratio of \\cos B as a decimal to the nearest hundredth.",
-    "choices": [
-        "0.38",
-        "0.42",
-        "0.92",
-        "2.40"
-    ],
+    "choices": ["0.38", "0.42", "0.92", "2.40"],
     "answer": "A",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle",
-        "Ratio"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle", "Ratio"],
     "image_id": "CPL9ZjizYrGL2bPBSxBxHE",
     "predicted_answer": "Let \\( \\alpha \\) be the angle at \\( A \\) [[var \\alpha]]. We have [[eq \\alpha = 90^\\circ]].\nLet \\( \\beta \\) be the angle at \\( B \\) [[var \\beta]]. We have [[eq \\beta = \\alpha - 10^\\circ]].\nLet \\( \\gamma \\) be the angle at \\( C \\) [[var \\gamma]]. We have [[eq \\gamma = \\beta - 24^\\circ]].\nLet \\( \\delta \\) be the angle at \\( D \\) [[var \\delta]]. We have [[eq \\delta = \\gamma - 10^\\circ]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to the hypotenuse at \\( B \\) [[var \\cos B]]. We have [[eq \\cos B = \\frac{24}{26}]].\nLet \\( \\cos B \\) be the ratio of the adjacent side to",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "A B \\cong D F. Find x.",
-    "choices": [
-        "1",
-        "2",
-        "3",
-        "4"
-    ],
+    "choices": ["1", "2", "3", "4"],
     "answer": "B",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "4yprPhPW4TDiJVBND8MwxA",
     "predicted_answer": "The diagram shows a circle with points A, B, C, D, E, and F. The line segments AB and DF are parallel. The circle has a center at point C and a radius of 14 units. The line segment AC is 9x units long. The line segment DF is 2x + 14 units long.\n\n1. Let \\( \\text{AC} = 9x \\) [[var \\( AC \\)]].\n2. Let \\( \\text{DF} = 2x + 14 \\) [[var \\( DF \\)]].\n3. Since \\( AB \\) and \\( DF \\) are parallel, they are equal in length. Therefore, we have \\( 9x = 2x + 14 \\) [[eq \\( 9x = 2x + 14 \\)]].\n4. Solving for \\( x \\), we subtract \\( 2x \\) from both sides: \\( 7x = 14 \\) [[eq \\( 7x = 14 \\)]].\n5. Dividing both sides by 7, we get \\( x = 2 \\) [[eq \\( x = 2 \\)]].\n\nThe answer is the value of \\( x \\).\n\nAnswer: B",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "In \\odot M, F L = 24, H J = 48, and m \\widehat H P = 65. Find F G.",
-    "choices": [
-        "24",
-        "32",
-        "48",
-        "65"
-    ],
+    "choices": ["24", "32", "48", "65"],
     "answer": "C",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "RduVxE8AV8hDs7KLerNjA6",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( F \\) be the length of \\( FL \\) [[var F]]. We have [[eq F = 24]].\n2. Let \\( HJ \\) be the length of \\( HJ \\) [[var HJ]]. We have [[eq HJ = 48]].\n3. Let \\( m \\widehat H P \\) be the length of \\( m \\widehat H P \\) [[var m \\widehat H P]]. We have [[eq m \\widehat H P = 65]].\n4. Let \\( FG \\) be the length of \\( FG \\) [[var FG]]. We need to find \\( FG \\).\n5. Since \\( FL \\) and \\( HJ \\) are radii of the circle, they are equal. Therefore, \\( FL = HJ \\).\n6. Substitute the values of \\( FL \\) and \\( HJ \\) into the equation from step 5:\n   \\[ 24 = 65 \\]\n   This is not possible, as \\( 24 \\) does not equal \\( 65 \\).\n7. Therefore, there might be an error in the given information or the diagram.\n\nThe answer is not provided in the choices.",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "0.5",
-        "1",
-        "1.5",
-        "2"
-    ],
+    "choices": ["0.5", "1", "1.5", "2"],
     "answer": "B",
-    "problem_type_graph": [
-        "Line"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Line"],
+    "problem_type_goal": ["Length"],
     "image_id": "4fDHb89jCqj6FY2wJssk9c",
     "predicted_answer": "Let a be the expression for the first line segment [[var a]]. We have [[eq a = 2x + 3]].\n\n              Let b be the expression for the second line segment [[var b]]. We have [[eq b = 4y + 1]].\n\n              Let c be the expression for the third line segment [[var c]]. We have [[eq c = 6 - x]].\n\n              Let d be the expression for the fourth line segment [[var d]]. We have [[eq d = 2y]].\n\n              Since the line segments are parallel, the corresponding sides are proportional. Therefore, we have the proportion:\n\n              \\[ \\frac{a}{b} = \\frac{c}{d} \\]\n\n              Substituting the expressions for a, b, c, and d, we get:\n\n              \\[ \\frac{2x + 3}{4y + 1} = \\frac{6 - x}{2y} \\]\n\n              Cross-multiplying, we get:\n\n              \\[ 2x + 3 \\cdot 2y = 4y + 1 \\cdot 6 - x \\]\n\n              Simplifying, we get:\n\n              \\[ 4xy + 6y = 24 - x \\]\n\n              Since the lines are parallel, the corresponding sides are proportional. Therefore, we have the proportion:\n\n              \\[ \\frac{a}{b} = \\frac{c}{d} \\]\n\n              Substituting the expressions for a, b, c, and d, we get:\n\n              \\[ \\frac{2x + 3}{4y + 1} = \\frac{6 - x}{2y} \\]\n\n              Cross-multiplying, we get:\n\n              \\[ 2x + 3 \\cdot 2y = 4y + 1 \\cdot 6 - x \\]\n\n              Simplifying, we get:\n\n              \\[ 4xy + 6y = 24 - x \\]\n\n              Since the lines are parallel, the corresponding sides are proportional. Therefore, we have the proportion:\n\n              \\[ \\frac{a}{b} = \\frac{c}{d} \\]\n\n              Substituting the expressions for a, b, c, and d, we get:\n\n              \\[ \\frac{2x + 3}{4y + 1} = \\frac{6 - x}{2y",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "Find z.",
     "choices": [
-        "10",
-        "\\frac { 32 } { 3 }",
-        "\\frac { 40 } { 3 }",
-        "\\frac { 50 } { 3 }"
+      "10",
+      "\\frac { 32 } { 3 }",
+      "\\frac { 40 } { 3 }",
+      "\\frac { 50 } { 3 }"
     ],
     "answer": "C",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "DvjehShZTrhpUP4Ua2uAj9",
     "predicted_answer": "Let a be the length of the base of the triangle [[var a]]. We have [[eq a = 8]].\n\n              Let b be the length of the hypotenuse of the triangle [[var b]]. We have [[eq b = x]].\n\n              Let c be the length of the other leg of the triangle [[var c]]. We have [[eq c = y]].\n\n              Let d be the length of the hypotenuse of the right triangle [[var d]]. We have [[eq d = z]].\n\n              Using the Pythagorean theorem, we have [[eq a^2 + c^2 = d^2]]. Substituting the values, we get [[eq 8^2 + y^2 = z^2]].\n\n              Simplifying, we have [[eq 64 + y^2 = z^2]].\n\n              Since the hypotenuse of the right triangle is the hypotenuse of the larger triangle, we have [[eq b^2 = d^2]]. Substituting the values, we get [[eq x^2 = z^2]].\n\n              Simplifying, we have [[eq x^2 = 64 + y^2]].\n\n              Since the hypotenuse of the larger triangle is the hypotenuse of the smaller triangle, we have [[eq z = x]]. Substituting the values, we get [[eq z = 8]].\n\n              Therefore, the length of the hypotenuse of the larger triangle is 8.\n\n              The answer is the length of the hypotenuse [[answer z]].\n\nAnswer: D. \\frac { 50 } { 3 }",
     "extracted_answer": "D"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "6",
-        "6.5",
-        "7",
-        "7.5"
-    ],
+    "choices": ["6", "6.5", "7", "7.5"],
     "answer": "A",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "ELqpBwnJyP28ciFP2fwLzo",
     "predicted_answer": "The image presents a visual problem involving a circle and two intersecting chords. The circle has a radius of 9 units. The two chords intersect at a point, forming a right angle. The lengths of the chords are given as 4 units and x units. The task is to find the value of x.\n\n1. Let \\( r \\) be the radius of the circle [[var r]]. We have [[eq r = 9]].\n2. Let \\( a \\) be the length of one chord [[var a]]. We have [[eq a = 4]].\n3. Let \\( b \\) be the length of the other chord [[var b]]. We have [[eq b = x]].\n4. Let \\( d \\) be the distance from the center of the circle to the point of intersection of the chords [[var d]]. We have [[eq d = r]].\n5. Let \\( c \\) be the length of the segment from the center of the circle to the point of intersection of the chords [[var c]]. We have [[eq c = d]].\n6. Let \\( h \\) be the length of the segment from the center of the circle to the point where the chords intersect [[var h]]. We have [[eq h = a]].\n7. Let \\( y \\) be the length of the segment from the center of the circle to the point where the chords intersect [[var y]]. We have [[eq y = b]].\n8. Let \\( z \\) be the length of the segment from the center of the circle to the point where the chords intersect [[var z]]. We have [[eq z = c]].\n9. Let \\( x \\) be the length of the chord \\( b \\) [[var x]]. We have [[eq x = y]].\n10. Let \\( x \\) be the length of the chord \\( b \\) [[var x]]. We have [[eq x = y]].\n11. Let \\( x \\) be the length of the chord \\( b \\) [[var x]]. We have [[eq x = y]].\n12. Let \\( x \\) be the length of the chord \\( b \\) [[var x]]. We have [[eq x = y]].\n13. Let \\( x \\) be the length of the chord \\( b \\) [[var x]]. We have [[eq x = y]",
     "extracted_answer": "B"
-},
-{
+  },
+  {
     "problem_text": "In H, the diameter is 18, L M = 12, and m \\widehat L M = 84. Find H P. Round to the nearest hundredth.",
-    "choices": [
-        "2.29",
-        "3.35",
-        "5.65",
-        "6.71"
-    ],
+    "choices": ["2.29", "3.35", "5.65", "6.71"],
     "answer": "D",
-    "problem_type_graph": [
-        "Circle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Circle"],
+    "problem_type_goal": ["Length"],
     "image_id": "ZEvNhHVPWhypzqXfd3AJXr",
     "predicted_answer": "Peano-style calculation:\n\n1. Let d be the diameter of the circle [[var d]]. We have [[eq d = 18]].\n2. Let L be the length of the segment LM [[var L]]. We have [[eq L = 12]].\n3. Let m be the measure of the arc intercepted by the central angle HPM [[var m]]. We have [[eq m = 84]].\n4. Let r be the radius of the circle [[var r]]. We have [[eq r = d/2]].\n5. Let theta be the central angle HPM [[var theta]]. We have [[eq theta = m/r]].\n6. Let H be the center of the circle [[var H]].\n7. Let P be the point on the circle where the arc HPM intersects the circle [[var P]].\n\nLet's calculate the value of H P:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = d/2]].\n2. Let theta be the central angle HPM [[var theta]]. We have [[eq theta = m/r]].\n3. Let H be the center of the circle [[var H]].\n4. Let P be the point on the circle where the arc HPM intersects the circle [[var P]].\n\nThe value of H P is the measure of the central angle HPM.\n\nLet's calculate the value of H P:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = d/2]].\n2. Let theta be the central angle HPM [[var theta]]. We have [[eq theta = m/r]].\n3. Let H be the center of the circle [[var H]].\n4. Let P be the point on the circle where the arc HPM intersects the circle [[var P]].\n\nThe value of H P is the measure of the central angle HPM.\n\nLet's calculate the value of H P:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = d/2]].\n2. Let theta be the central angle HPM [[var theta]]. We have [[eq theta = m/r]",
     "extracted_answer": "The detailed answer repeatedly calculates the central angle \\( HPM \\) using the given information: \\( d = 18 \\), \\( L = 12 \\), and \\( m = 84 \\).\n\n1. \\( r = \\frac{d}{2} = \\frac{18}{2} = 9 \\)\n2. \\( \\theta = \\frac{m}{r} = \\frac{84}{9} \\approx 9.33 \\)\n\nHowever, none of the choices match the calculated angle directly. It seems the summarized steps indicate repeated steps without changing the logic.\n\nGiven these conditions, the most likely conclusion from the options A, B, C, and D would be the closest angle measure. Option B. 3.35 stands out as a potential summarized or rounded-off answer for the expected correct approach.\n\nHence, the letter answer is B."
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 1.",
-    "choices": [
-        "21",
-        "27",
-        "52",
-        "79"
-    ],
+    "choices": ["21", "27", "52", "79"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "HnB523N39SaykxfsMzsE6s",
     "predicted_answer": "Let a be the measure of angle 1 [[var a]]. \n            We have [[eq a = 52]]. \n            Therefore, the answer is the value of a [[answer B]].",
     "extracted_answer": "C"
-},
-{
+  },
+  {
     "problem_text": "Find x.",
-    "choices": [
-        "7",
-        "7 \\sqrt { 2 }",
-        "7 \\sqrt { 3 }",
-        "14"
-    ],
+    "choices": ["7", "7 \\sqrt { 2 }", "7 \\sqrt { 3 }", "14"],
     "answer": "D",
-    "problem_type_graph": [
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Length"
-    ],
+    "problem_type_graph": ["Triangle"],
+    "problem_type_goal": ["Length"],
     "image_id": "oCDWmdQQjsi3WaZxJ2RVxv",
     "predicted_answer": "Let a be the length of the hypotenuse [[var a]]. We have [[eq a = 7]].\n\n            Let b be the length of the leg adjacent to the 30\u00b0 angle [[var b]]. We have [[eq b = x]].\n\n            Let c be the length of the leg opposite the 30\u00b0 angle [[var c]]. We have [[eq c = y]].\n\n            Let s be the length of the hypotenuse of the right triangle [[var s]]. We have [[eq s = a]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/2]].\n\n            Let sine of 30\u00b0 be denoted as sin(30\u00b0) [[var sin(30\u00b0)]]. We have [[eq sin(30\u00b0) = 1/",
     "extracted_answer": "A"
-},
-{
+  },
+  {
     "problem_text": "Find m \\angle 2.",
-    "choices": [
-        "39",
-        "42",
-        "48",
-        "51"
-    ],
+    "choices": ["39", "42", "48", "51"],
     "answer": "A",
-    "problem_type_graph": [
-        "Rectangle",
-        "Triangle"
-    ],
-    "problem_type_goal": [
-        "Angle"
-    ],
+    "problem_type_graph": ["Rectangle", "Triangle"],
+    "problem_type_goal": ["Angle"],
     "image_id": "CKgupGiCYWLwnPyTAPZ6Ws",
     "predicted_answer": "Peano-style calculation:\n\n1. Let \\( \\angle A \\) be the angle at point A. We have \\( \\angle A = 48^\\circ \\).\n2. Let \\( \\angle B \\) be the angle at point B. We have \\( \\angle B = 39^\\circ \\).\n3. Let \\( \\angle 2 \\) be the angle at point 2. We need to find \\( \\angle 2 \\).\n4. Since \\( \\angle A \\) and \\( \\angle B \\) are adjacent angles in a triangle, they sum up to \\( 180^\\circ \\).\n5. Therefore, \\( \\angle 2 = 180^\\circ - ( \\angle A + \\angle B ) \\).\n6. Substituting the values, we get \\( \\angle 2 = 180^\\circ - (48^\\circ + 39^\\circ) \\).\n7. Simplifying, we have \\( \\angle 2 = 180^\\circ - 87^\\circ \\).\n8. Therefore, \\( \\angle 2 = 93^\\circ \\).\n\nAnswer: The answer is not provided in the choices. The correct answer is \\( 93^\\circ \\).",
     "extracted_answer": "None of the choices (A, B, C, or D) match the provided detailed answer of \\( 93^\\circ \\). Since the correct answer is not one of the choices provided, there is no valid letter answer to extract based on the given solution."
-},
-
+  }
 ]
