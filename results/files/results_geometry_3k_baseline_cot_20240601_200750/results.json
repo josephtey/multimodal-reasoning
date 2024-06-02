@@ -1,0 +1,1914 @@
+[
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "30",
+        "60",
+        "120",
+        "240"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
+    "predicted_answer": "The image shows a triangle with a base of 10 units and a height of 13 units. To find the area of a triangle, we use the formula: Area = (base x height) / 2. Plugging in the values, we get: Area = (10 x 13) / 2 = 130 / 2 = 65 square units. Therefore, the correct answer is C. 120 square units.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
+    "choices": [
+        "5",
+        "12",
+        "13",
+        "26"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "hX7ABeotrk7MDSLPFyKB9N",
+    "predicted_answer": "First, we know that the radius of the circle is 13 inches.    So, the distance from the center of the circle to any point on the circle is 13 inches.    This is the radius of the circle.    Next, we know that the chord C D is 24 inches long.    Since the chord is perpendicular to the radius, the distance from the center of the circle to the end of the chord is also 24 inches.    Therefore, the distance from the center of the circle to the point where the chord intersects the circle is 13 inches.    This is the radius of the circle.    So, the answer is C. 13.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x. Round to the nearest tenth.",
+    "choices": [
+        "18.8",
+        "23.2",
+        "25.9",
+        "44.0"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "BWCA6Gyt4V43zDsXgcpHLF",
+    "predicted_answer": "The triangle has a base of 53.4 and a height of 32.    The area of a triangle is given by the formula A = 1/2 * base * height.    Substituting the values, we get A = 1/2 * 53.4 * 32 = 846.4.    The area of a triangle is also equal to the product of the base and the height divided by 2.    So, we can write the equation as 53.4 * 32 = 846.4.    Now, we can solve for x by dividing both sides of the equation by 53.4.    x = 846.4 / 53.4 = 16.    Therefore, the answer is C. 16.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find m \\angle C A M.",
+    "choices": [
+        "14",
+        "28",
+        "36",
+        "90"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "Fh2t9y3fBx9MEmAkAYVHp7",
+    "predicted_answer": "The angle is formed by the two lines and the circle.    The two lines are perpendicular to each other.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines and the circle.    The angle is formed by the two lines",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "In the figure below, \\angle A B C is intersected by parallel lines l and m. What is the measure of \\angle A B C? Express your answer in degrees.",
+    "choices": [
+        "33",
+        "38",
+        "61",
+        "71"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "GzYzxzQuLmvqSNqRoC55Td",
+    "predicted_answer": "First, we know that \\angle A B C is intersected by two parallel lines, l and m. This means that the angles formed by the intersection of the lines and the angle A B C are congruent.    \n\nSince the lines are parallel, we can use the fact that the sum of the angles on a straight line is 180 degrees. Therefore, the sum of the angles formed by the intersection of the lines and \\angle A B C is 180 degrees.    \n\nSince there are two angles formed by the intersection of the lines and \\angle A B C, we can divide 180 by 2 to find the measure of each angle.    \n\n180 / 2 = 90 degrees.    \n\nTherefore, the measure of \\angle A B C is 90 degrees.    \n\nThe correct answer is A. 33.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find the value of x in the diagram.",
+    "choices": [
+        "68",
+        "78",
+        "79",
+        "136"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "GmK3QeRXHQ4L6jPtQuEaxE",
+    "predicted_answer": "The diagram shows a triangle with a right angle at the top. The angle measures 79 degrees. The triangle is labeled with x = -1 and x = 2. The diagram also includes a line labeled x + 10. The question asks us to find the value of x.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find the value of x.",
+    "choices": [
+        "56",
+        "68",
+        "74",
+        "84"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "AU9B2ky9ydAjqXtZ8q6sec",
+    "predicted_answer": "The image shows a pentagon with a blue line. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the top and a point at the bottom. There are two arrows pointing to the top of the pentagon. The pentagon has a point at the",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "If X N = 6, X M = 2, and X Y = 10, find N Z.",
+    "choices": [
+        "12",
+        "16",
+        "24",
+        "32"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Line",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "N5hsnQCi2bMoye5LDMZ8Dq",
+    "predicted_answer": "We know that X N = 6, X M = 2, and X Y = 10.    We can use these values to find N Z.    Since X N = 6, we can substitute this value into the equation X N = X M + X Z to find X Z.    This gives us 6 = 2 + X Z.    Solving for X Z, we get X Z = 4.    Now, we can substitute X Z = 4 into the equation X N = X M + X Z to find N Z.    This gives us 6 = 2 + 4, which simplifies to 6 = 6.    Therefore, N Z = 6.",
+    "extracted_answer": "There is no clear connection between the detailed answer provided and the choices presented. The detailed answer ends with the statement \"Therefore, N Z = 6,\" but none of the choices (A. 12, B. 16, C. 24, D. 32) align with the number 6 explicitly.\n\nThus, I'll need to look for any provided steps or context that might imply a different interpretation or additional step. Since the choices represent certain potential outcomes that are multiples of 6 or could relate to additional interpretation of the math given:\n\nReviewing the detailed answer:\n- X N is declared to be 6.\n- There's a consistent check on the fact that N Z equals to 6 based on the problem context. \n\nGiven that none of the 4 choices directly show as 6, the detailed information also doesn't suggest any additional operations that conclude another integer (like doubling, cubing, or similar).\n\nIf one were to use N equaling some multiple or arbitrary reference number spans, but the best interpretation of final conclusion:\n\nSince no operation overtly deem another than default realization calculation N consistency remain (with respect):\n\nThereby realizing Letter-A does conform most directly without excessional prove:\n\nFinal suggested comprehension:\n\nAnswer: A. 12\n\nThus, the extracted letter answer is A.\n"
+},
+{
+    "problem_text": "Find y.",
+    "choices": [
+        "21",
+        "21 \\sqrt { 2 }",
+        "21 \\sqrt { 3 }",
+        "42"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "MWxtwQ5XwfDYD92en5cveL",
+    "predicted_answer": "We are given a triangle with a 60 degree angle and a 30 degree angle.    We can use the fact that the sum of the angles in a triangle is 180 degrees to find the third angle.    So, the third angle is 180 - 60 - 30 = 90 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the value of y.    So, y + 30 + 60 = 180.    Simplifying, we get y + 90 = 180.    Subtracting 90 from both sides, we get y = 90.    Therefore, the correct answer is D. 42.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find C D if A C = x - 3, B E = 20, A B = 16, and C D = x + 5.",
+    "choices": [
+        "32",
+        "35",
+        "36",
+        "40"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "bPDmTQ5xKQ9dtX9QP6R2Hn",
+    "predicted_answer": "First, we know that A C = x - 3, B E = 20, A B = 16, and C D = x + 5.    We can use these equations to find the value of x.    From the equation A B = 16, we can substitute A with x - 3 and B with 20 to get (x - 3) = 16.    Solving for x, we find that x = 19.    Now that we know x, we can substitute it into the equation C D = x + 5 to find C D.    C D = 19 + 5 = 24.    Therefore, the correct answer is C. 36.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find the area of the shaded region. Round to the nearest tenth.",
+    "choices": [
+        "104.7",
+        "157.1",
+        "235.6",
+        "314.2"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "UcBvrXGVnQHKVwwqMjp5Ge",
+    "predicted_answer": "The shaded region is a circle with a diameter of 20. The area of a circle is given by the formula A = \u03c0r^2, where r is the radius of the circle. Since the diameter is 20, the radius is half of that, which is 10. Plugging this value into the formula, we get A = \u03c0(10)^2 = 100\u03c0. To round this to the nearest tenth, we can use the approximation \u03c0 \u2248 3.14. Therefore, the area of the shaded region is approximately 100(3.14) = 314.2 square units. The correct answer is D. 314.2.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K M L.",
+    "choices": [
+        "35",
+        "70",
+        "110",
+        "140"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Rectangle",
+        "Rhombus"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "Zqh5wuW9XCeqjkRr8KsRh9",
+    "predicted_answer": "We know that the sum of the interior angles of a rectangle is 360 degrees.    So, the sum of the interior angles of the rectangle is 360 degrees.    Since the rectangle has four angles, each angle is 360/4 = 90 degrees.    Therefore, m \\angle J M K = 90 degrees.    Now, we know that m \\angle J M K = 55 degrees.    So, m \\angle K M L = 90 - 55 = 35 degrees.    Therefore, the correct answer is A. 35 degrees.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "In rhombus A B C D, m \\angle D A B = 2, m \\angle A D C and C B = 6. Find m \\angle A C D.",
+    "choices": [
+        "45",
+        "60",
+        "90",
+        "180"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Rhombus"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "Qz5uuT2hebuEpm8kCVByMA",
+    "predicted_answer": "We know that in a rhombus, all angles are equal.    So, m \\angle A D C = m \\angle D A B = 2.    Also, m \\angle A D C = m \\angle C B = 6.    Therefore, m \\angle A D C = 2.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle A C D.    Since m \\angle A D C = 2 and m \\angle A D C + m \\angle A C D = 180, we can solve for m \\angle A C D:    m \\angle A C D = 180 - 2 = 178.    So, the answer is C.    180.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find A E if A B = 12, A C = 16, and E D = 5.",
+    "choices": [
+        "12",
+        "15",
+        "16",
+        "20"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "jhG8yd2ZfLBaHzxdHRPLso",
+    "predicted_answer": "First, we know that A B = 12 and A C = 16.    So, we can calculate the length of the side AC by using the Pythagorean theorem: AC^2 = AB^2 + BC^2.    Since AB = 12 and BC = E D = 5, we have AC^2 = 12^2 + 5^2 = 144 + 25 = 169.    Taking the square root of both sides, we find that AC = 13.    Now, we can use the fact that A C = 16 to find the length of the side BC.    Since A C = 16, we have BC = AC - A C = 13 - 16 = -3.    However, the length of a side cannot be negative, so we know that BC = 0.    Finally, we can use the fact that A B = 12 and A C = 16 to find the length of the side AB.    Since A B = 12, we have AB = A B = 12.    Therefore, the length of the side AB is 12.    So, the answer is A. 12.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Use parallelogram M N P R to find m \\angle R N P.",
+    "choices": [
+        "38",
+        "52",
+        "52",
+        "62"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "U7iZuMGgmuRW3qdZLRbvS7",
+    "predicted_answer": "First, we need to find the value of m \\angle R N P.    To do this, we can use the fact that the sum of the interior angles of a triangle is 180 degrees.    Since the triangle formed by the points M, N, and P is a right triangle, we know that one of the angles is 90 degrees.    Therefore, the sum of the other two angles is 180 - 90 = 90 degrees.    Since the triangle is a right triangle, one of the angles is also 90 degrees.    So, the other angle is 90 - 90 = 0 degrees.    Therefore, m \\angle R N P = 0 degrees.",
+    "extracted_answer": "There seems to be an inconsistency in the detailed answer provided regarding the triangle and the angles. The final conclusion states that \\( m \\angle R N P = 0 \\) degrees, but that doesn't align with typical triangle properties. However, without additional correct calculations or clearer problem context, we proceed with extracting relevant numerical values mentioned.\n\n0 degrees isn't directly linked to any of the choices ranging from 38 to 62. Therefore, there is an issue to be addressed regarding the provided reasoning.\n\nFrom the choices given:\nA. 38\nB. 52\nC. 52\nD. 62\n\nThe detailed answer does not match any of the choices numerically. We are then left determining which step likely correlates closest to a choice or recognizing error.\n\nGiven typical contexts, assume extracting more reasonable fitting, despite errors:\n**Choices Analysis**:\n\nMisleading detailed steps favor plausible larger or reused datasets mathematics or simply goagnostic about brut math completion entries often recognized 52 predominant alternatives:\n\nLetter Answer:\nB"
+},
+{
+    "problem_text": "Find y in the figure.",
+    "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "24KUvKwkrqdrYbfEW8ciav",
+    "predicted_answer": "First, we need to find the value of y. The equation given is 8y + 2 = -20. To solve for y, we need to isolate y on one side of the equation. We can do this by subtracting 2 from both sides of the equation: 8y = -20 - 2, which simplifies to 8y = -22. Now, to find the value of y, we divide both sides of the equation by 8: y = -22 / 8, which simplifies to y = -2.75. Therefore, the correct answer is D. -2.75.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "In \\odot P, the radius is 2 inches, find the length of \\widehat R S. Round to the nearest hundredth.",
+    "choices": [
+        "2.27",
+        "3.91",
+        "4.54",
+        "7.82"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "2NnyShrrU3H4f6xvdYSBiP",
+    "predicted_answer": "First, we need to find the length of the line segment RS. We can do this by using the Pythagorean theorem, which states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. In this case, the hypotenuse is RS, and the other two sides are the radius of the circle (2 inches) and the length of the line segment PQ. So, we have:\n\nRS^2 = 2^2 + PQ^2\n\nNext, we need to find the length of the line segment PQ. We can do this by using the fact that the angle between the radius and the line segment is 120 degrees. This means that the length of the line segment PQ is equal to the radius times the sine of 120 degrees. So, we have:\n\nPQ = 2 \\* sin(120)\n\nNow, we can substitute this value of PQ into the equation for RS^2:\n\nRS^2 = 2^2 + (2 \\* sin(120))^2\n\nSimplifying this equation, we get:\n\nRS^2 = 4 + (4 \\* sin^2(120))\n\nSince sin^2(120) is equal to 1 - cos^2(120), we can substitute this value into the equation:\n\nRS^2 = 4 + (4 - 1)\n\nSimplifying further, we get:\n\nRS^2 = 5\n\nTaking the square root of both sides, we find that RS is approximately equal to:\n\nRS \\approx \\sqrt{5}\n\nFinally, we can find the length of the line segment RS by multiplying the radius by the square root of 5:\n\nRS \\approx 2 \\* \\sqrt{5}\n\nRounding to the nearest hundredth, we get:\n\nRS \\approx 2.24 inches\n\nTherefore, the correct answer is A. 2.27 inches.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Use parallelogram A B C D to find m \\angle A D C.",
+    "choices": [
+        "42",
+        "52",
+        "72",
+        "128"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "ePAZmYcsYnEdRRyDbQjnBA",
+    "predicted_answer": "First, we need to find the measure of angle A.    We can do this by using the fact that the sum of the angles in a triangle is 180 degrees.    Since we know that angle A is 20 degrees, we can subtract this from 180 to find the measure of the other two angles.    180 - 20 = 160.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle D.    Since we know that angle D is 9 degrees, we can subtract this from 160 to find the measure of the other two angles.    160 - 9 = 151.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle C.    Since we know that angle C is 40 degrees, we can subtract this from 151 to find the measure of the other two angles.    151 - 40 = 111.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle B.    Since we know that angle B is 6 degrees, we can subtract this from 111 to find the measure of the other two angles.    111 - 6 = 105.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle A.    Since we know that angle A is 20 degrees, we can subtract this from 105 to find the measure of the other two angles.    105 - 20 = 85.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle D.    Since we know that angle D is 9 degrees, we can subtract this from 85 to find the measure of the other two angles.    85 - 9 = 76.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle C.    Since we know that angle C is 40 degrees, we can subtract this from 76 to find the measure of the other two angles.    76 - 40 = 36.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of angle B.    Since we know that angle B is 6 degrees, we can subtract this from 36 to find the measure of the other two angles.    36 - 6 = 30.    Now, we can use the fact that the",
+    "extracted_answer": "The detailed answer provided does not directly correspond to a typical mathematical problem-solving process. However, in solving the problem step-by-step:\n\n1. The problem repeatedly mentions calculating angles in a triangle, which sum up to 180 degrees. Each step typically involves using this sum to establish the value of a remaining angle.\n\n2. Comparing the problem directly with the given choices (A. 42, B. 52, C. 72, D. 128), it appears the problem uses addition and subtraction extensively to determine an angle which presumably fit one of these numeric choices.\n\nWithout a direct numeric result derived from the calculations to identify explicitly from the given explanation, let's refer to a more generic problem-solving inference based on similar sequences or patterns: The problem steps add and subtract measures of angles without a definitive final statement relevant to one of the choices.\n\n**Given the choices (A. 42, B. 52, C. 72, D. 128):**\nThe detailed explanation appears indirectly pointing to a sum or angle approximation, which is mismatched.\n\nHowever, among the available options purely on general approach surrounding generic result often culminates to similar midpoint balances from repetitive patterns:\n\n**Choosing a figure often representative of such commonalities might evidently rely numerically valid:** \nIt likely often rounds to more understandable result in simpler pattern.\n\nAppropriately;\n**Letter Answer:**\nC making more sense likely a midpoint given general probable accurate inference making events.\n\nIncomplete definitive response relevant calculation interpreted A through D,** Picking understanding letter answer to represent best fit angle sumderivation_ liken setting."
+},
+{
+    "problem_text": "The rectangle is inscribed into the circle. Find the exact circumference of the circle.",
+    "choices": [
+        "8 \\pi",
+        "10 \\pi",
+        "16 \\pi",
+        "20 \\pi"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle",
+        "Rectangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "VpNPiEigYBs3JdLz6NAmi3",
+    "predicted_answer": "First, we need to find the length of the rectangle. The rectangle is inscribed into the circle, which means that the length of the rectangle is equal to the diameter of the circle. The diameter of the circle is 8 inches. Therefore, the length of the rectangle is also 8 inches.    Next, we need to find the circumference of the circle. The circumference of a circle is given by the formula C = 2 \\pi r, where r is the radius of the circle. Since the rectangle is inscribed into the circle, the radius of the circle is equal to half the length of the rectangle. Therefore, the radius of the circle is 4 inches.    Now, we can calculate the circumference of the circle using the formula C = 2 \\pi r. C = 2 \\pi \\* 4 = 8 \\pi inches.    Therefore, the exact circumference of the circle is 8 \\pi inches.    The correct answer is A. 8 \\pi.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find D E.",
+    "choices": [
+        "3",
+        "4",
+        "6",
+        "9"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "aHhA7GjZSAvLBUeekdZipr",
+    "predicted_answer": "We have a triangle with sides 3, 4, and 5.    We also have a triangle with sides 3, 3, and 3.    The two triangles are similar, so their corresponding sides are proportional.    Let's call the unknown side of the first triangle \"D\".    We can set up a proportion: 3/5 = 3/D.    Cross-multiplying, we get 3D = 15.    Dividing both sides by 3, we find that D = 5.    Therefore, the answer is D.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find the perimeter of the parallelogram. Round to the nearest tenth if necessary.",
+    "choices": [
+        "60",
+        "62",
+        "64",
+        "66"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "Nx7Qn4C5aQ3fonFCNYs4cX",
+    "predicted_answer": "The image shows a parallelogram with a side length of 12 cm and a diagonal length of 20 cm. The diagonal length is the hypotenuse of a right triangle formed by the two sides of the parallelogram. We can use the Pythagorean theorem to find the length of the other side of the triangle. The Pythagorean theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides. In this case, the hypotenuse is 20 cm, and the other two sides are 12 cm and x cm. So, we have the equation: 20^2 = 12^2 + x^2. Solving for x, we get x = sqrt(20^2 - 12^2) = sqrt(400 - 144) = sqrt(256) = 16 cm. Now that we have the length of the other side, we can find the perimeter of the parallelogram by adding up all four sides: 12 cm + 12 cm + 16 cm + 16 cm = 56 cm. Therefore, the perimeter of the parallelogram is 56 cm.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find the length of \\widehat A B. Round to the nearest hundredth.",
+    "choices": [
+        "7.63",
+        "9.77",
+        "11.13",
+        "14.83"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "fZUy6QW3PAunAksdJSE6VV",
+    "predicted_answer": "The image shows a circle with a diameter of 14 meters. The circle is divided into two equal halves by a line that intersects the circle at the center. The line is labeled with the letters A and B. The angle between the two lines is 80 degrees. To find the length of the line AB, we can use the formula for the length of a chord in a circle. The formula is:\n\nAB = 2 \\* r \\* sin(A/2)\n\nwhere r is the radius of the circle and A is the angle between the two lines. Since the diameter of the circle is 14 meters, the radius is 7 meters. Plugging in the values, we get:\n\nAB = 2 \\* 7 \\* sin(80/2)\nAB = 2 \\* 7 \\* sin(40)\nAB = 2 \\* 7 \\* 0.6428\nAB = 9.77\n\nTherefore, the length of the line AB is approximately 9.77 meters. The correct answer is B.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find A B if \\triangle A B C is an isosceles triangle with A B \\cong B C.",
+    "choices": [
+        "3",
+        "4",
+        "7",
+        "11"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "LbZaQSoM8A6kbr35WiQVQu",
+    "predicted_answer": "We know that the triangle is isosceles, which means it has two sides of equal length.    Let's assume that the two equal sides are AB and BC.    Since AB \\cong BC, we can say that AB = BC.    Now, let's look at the angles of the triangle.    Since it is an isosceles triangle, the angles opposite the equal sides are also equal.    Let's call these angles A and C.    Since the triangle is isosceles, we can say that A = C.    Now, let's look at the angles opposite the sides AB and BC.    Let's call these angles B and A.    Since the triangle is isosceles, we can say that B = A.    Now, we have the following information: AB = BC, A = C, B = A, and A + B + C = 180 degrees.    We can use this information to find the values of A, B, and C.    Since A = C, we can say that A + B + C = 180 degrees.    Since B = A, we can say that A + A + C = 180 degrees.    Now, we can solve for A: A + A + C = 180 degrees.    This simplifies to 2A + C = 180 degrees.    Since A = C, we can say that 2A = 180 degrees.    This simplifies to A = 90 degrees.    Now, we can find the values of B and C: B = A = 90 degrees, and C = 180 - A - B = 180 - 90 - 90 = 0 degrees.    Therefore, the values of A, B, and C are 90 degrees, 90 degrees, and 0 degrees, respectively.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find m \\angle B G E.",
+    "choices": [
+        "60",
+        "120",
+        "240",
+        "360"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "KsojAfXH9x7xHLMykqr6fh",
+    "predicted_answer": "The image shows a circle with a blue line that is 60 degrees. The blue line is labeled with the letters A, B, C, and D. The blue line is also labeled with the letters G and E. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A, B, C, and D. The blue line is labeled with the letters A",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find x. Round the side measure to the nearest tenth.",
+    "choices": [
+        "69.0",
+        "69.8",
+        "76.4",
+        "77.2"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "cjk4HTrWqCisitAwm9YH8g",
+    "predicted_answer": "The triangle has a 60\u00b0 angle and a 55\u00b0 angle.    The sum of the angles in a triangle is 180\u00b0.    So, the third angle is 180\u00b0 - 60\u00b0 - 55\u00b0 = 65\u00b0.    Since the triangle is isosceles, the two equal angles are 55\u00b0 each.    Therefore, the measure of the base angle is 65\u00b0 - 55\u00b0 = 10\u00b0.    The base of the triangle is x.    The base angle is the angle formed by the base and the side of the triangle.    So, we can use the sine function to find x: sin(10\u00b0) = x/x.    Solving for x, we get x = x sin(10\u00b0).    Since x is the base of the triangle, it must be equal to the length of the side.    Therefore, x = x sin(10\u00b0) = x sin(10\u00b0).    So, the side measure is x sin(10\u00b0).    The side measure is approximately 0.7.    Rounding to the nearest tenth, the side measure is 0.7.    Therefore, the correct answer is D. 77.2.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "For the pair of similar figures, use the given areas to find x.",
+    "choices": [
+        "1",
+        "2",
+        "8",
+        "16"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Rectangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "9PPjFnhKNTS5csHyNEZq2g",
+    "predicted_answer": "The area of the blue rectangle is 4 in^2, and the area of the green rectangle is 32 in^2. We can set up a proportion to find x:\n\n                  4 in^2 / 32 in^2 = x / A\n\n                  Cross-multiplying, we get:\n\n                  4 in^2 * A = 32 in^2 * x\n\n                  Simplifying, we have:\n\n                  4A = 32x\n\n                  Dividing both sides by 32, we find:\n\n                  A = x / 8\n\n                  Since A is the area of the blue rectangle, it must be a whole number. The only whole number that satisfies this condition is x = 8. Therefore, the answer is C. 8.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "\\sqrt { 7 }",
+        "3 \\sqrt { 2 }",
+        "3 \\sqrt { 3 }",
+        "3 \\sqrt { 6 }"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "GRJz6XFySh9PU8TCkM6mWf",
+    "predicted_answer": "First, we need to find the length of the base of the triangle.    We know that the base is 3/2 times the length of the side.    So, if we let x be the length of the side, then the base is 3/2x.    We also know that the area of the triangle is 5.    The formula for the area of a triangle is 1/2 times the base times the height.    Since the triangle is isosceles, the height is the same as the base.    So, the area of the triangle is 1/2 times 3/2x times 3/2x, which is equal to 5.    Simplifying this equation, we get x^2 = 10.    Taking the square root of both sides, we get x = \\sqrt{10}.    Therefore, the correct answer is A. \\sqrt{7}.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "In the figure, a regular polygon is inscribed in a circle. Find the measure of a central angle.",
+    "choices": [
+        "30",
+        "60",
+        "90",
+        "120"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "CJHUBaDDB4HDSfzzMLJNmm",
+    "predicted_answer": "First, we need to find the number of sides of the polygon. Since it is a regular polygon, all sides are equal, and all angles are equal. The sum of the interior angles of a polygon with n sides is (n-2)180 degrees. In this case, the sum of the interior angles is (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2)180 = (n-2",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find the area of the parallelogram. Round to the nearest tenth if necessary.",
+    "choices": [
+        "56.6",
+        "138.6",
+        "169.7",
+        "196"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "CN3ykb5x2kHm4pHsYHVuHD",
+    "predicted_answer": "The image shows a 14mm x 7mm rectangle with a 60\u00b0 angle. The area of a rectangle is calculated by multiplying its length by its width. In this case, the length is 14mm and the width is 7mm. So, the area of the rectangle is 14mm x 7mm = 98 square millimeters.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find X Z.",
+    "choices": [
+        "5",
+        "17",
+        "18",
+        "34"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "S7iLx3JRuF2Mwre9cwT7nA",
+    "predicted_answer": "First, we need to find the value of X. We can do this by using the equation X = 18 + 2y. Since y is equal to 5, we can substitute this value into the equation to find X. X = 18 + 2(5) = 18 + 10 = 28. So, X = 28.",
+    "extracted_answer": "The letter answer is not explicitly found in the detailed answer provided, so it seems we need to interpret which choice corresponds to the variable X calculated. Since X is calculated to be 28, and the closest number among the choices provided is 34 which is not equal to 28, it's unclear which letter is the correct one directly from the detailed answer.\n\nRe-evaluating the detailed answer: \n\n1. X is calculated as 28.\n2. None of the choices directly match 28.\n3. This might be a mistake in the provided choices or in the problem itself. However, none of the choices A. 5, B. 17, C. 18, D. 34 match.\n\nTherefore, there is no clear way to derive the correct answer based strictly on the detailed computation and given choices."
+},
+{
+    "problem_text": "In regular hexagon U V W X Y Z, the side is 12 centimeters long. Find W Y.",
+    "choices": [
+        "12",
+        "6 \\sqrt { 6 }",
+        "12 \\sqrt { 3 }",
+        "36"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle",
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "a6BUW3FBp7hnyMxq5yah6r",
+    "predicted_answer": "First, we know that the side of the hexagon is 12 centimeters long.    Since the hexagon is regular, all its sides are equal in length.    Therefore, the distance between any two points on the hexagon is also 12 centimeters.    Now, let's consider the points W and Y.    W is located at the top left corner of the hexagon, and Y is located at the bottom right corner.    Since the hexagon is regular, the distance between W and Y is also 12 centimeters.    Therefore, the answer is D. 36.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "25",
+        "50",
+        "72",
+        "144"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Rectangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "6SAsDqttZvBNnKSPQSUrem",
+    "predicted_answer": "The image shows a rectangle with a length of 16 inches and a width of 9 inches. To find the area of a rectangle, we multiply its length by its width. In this case, the area of the rectangle is 16 inches x 9 inches = 144 square inches. Therefore, the correct answer is D. 144 square inches.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "\\frac { 17 } { 2 }",
+        "\\frac { 17 } { 2 } \\sqrt { 2 }",
+        "\\frac { 17 } { 2 } \\sqrt { 3 }",
+        "17"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "HgMYH3zaRdMcWaAC2DA5oi",
+    "predicted_answer": "The image shows a triangle with a 60-degree angle and a side length of 17. The triangle is labeled with the letter \"x\". To find the value of \"x\", we need to use the properties of a 60-degree triangle. In a 60-degree triangle, the ratio of the side lengths is 1: \\sqrt{3}. Since the side length is 17, we can set up the equation:\n\nx / 17 = 1 / \\sqrt{3}\n\nTo solve for \"x\", we can cross-multiply:\n\nx = 17 \\sqrt{3}\n\nTherefore, the correct answer is B. \\frac { 17 } { 2 } \\sqrt { 2 }.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Let G H be the median of R S B A. Find G H.",
+    "choices": [
+        "27",
+        "54",
+        "62",
+        "86"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Trapezoid"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "XMJux4Xg6PjKPbrdGDbLki",
+    "predicted_answer": "The median of a triangle is the line that divides the triangle into two equal halves. In this case, the median is the line that divides the triangle into two equal halves. Since the triangle is a right triangle, the median will bisect the hypotenuse, which is the line segment connecting the two vertices of the triangle. The median will also bisect the other two sides of the triangle, creating two smaller triangles. Therefore, the median will be the line segment that connects the midpoints of the two sides of the triangle. In this case, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides the line segment into two equal parts. Therefore, the median will be the line segment that connects the midpoints of the sides of the triangle. The midpoint of a line segment is the point that divides",
+    "extracted_answer": "The detailed answer provided is just a repeated description of the median of a triangle. It doesn't actually contain any relevant numerical computation or final answer that correlates to the given choices. Therefore, based on the information given, it is not possible to extract a specific letter (A, B, C, or D) as an answer."
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "25",
+        "40",
+        "65",
+        "115"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "3jEw8t7gmYFHAFxyASK45e",
+    "predicted_answer": "The triangle has a 40 degree angle and a 25 degree angle.    The sum of the angles in a triangle is 180 degrees.    So, the third angle is 180 - 40 - 25 = 135 degrees.    Since the triangle is a right triangle, one of the angles is 90 degrees.    Therefore, the third angle is 90 degrees.    The third angle is the complement of the first angle, so x = 90 - 40 = 50 degrees.    The answer is B. 40.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find m \\angle 2 if m \\widehat B C = 30 and m \\widehat A D = 20.",
+    "choices": [
+        "20",
+        "25",
+        "30",
+        "155"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "65AAXmXHtdfXmbYrAuf54M",
+    "predicted_answer": "We know that m \\widehat B C = 30 and m \\widehat A D = 20.    We can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle 2.    Since m \\angle 2 is the angle formed by the two intersecting lines, it is the angle opposite to the side of length 1.    Therefore, m \\angle 2 = 180 - (m \\widehat A D + m \\widehat B C) = 180 - (20 + 30) = 100 degrees.    So, the correct answer is D. 155.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle V X W.",
+    "choices": [
+        "25",
+        "65",
+        "115",
+        "180"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "X6ugLMmPVtGgJq3bQ5RfkJ",
+    "predicted_answer": "First, we need to find the measure of the angle VXW.    We can do this by using the fact that the sum of the angles in a triangle is 180 degrees.    Since VXW is an angle formed by two intersecting lines, we can consider it as the angle formed by the two intersecting lines and the x-axis.    Therefore, the measure of the angle VXW is 180 degrees minus the measures of the other two angles.    \n\nWe know that the measure of the angle ZXW is 65 degrees, and the measure of the angle ZYW is 115 degrees.    So, the measure of the angle VXW is 180 - 65 - 115 = 30 degrees.    \n\nNow, we can use the fact that the measure of an angle formed by two intersecting lines and the x-axis is equal to the measure of the angle formed by the two intersecting lines and the y-axis.    Since the measure of the angle ZXW is 65 degrees, the measure of the angle ZYW is 115 degrees, and the measure of the angle VXW is 30 degrees, we can conclude that the measure of the angle VXW is equal to the measure of the angle ZYW.    \n\nTherefore, the answer is C. 115 degrees.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find W R.",
+    "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "9ExVE7fXSBurdZTj2z89tm",
+    "predicted_answer": "We have a triangle with a side of length 8 and another side of length 10.    The third side is unknown, so we'll call it W.    The triangle is also isosceles, meaning it has two sides of equal length.    Since the triangle is isosceles, the two equal sides must be the same length.    We can use the Pythagorean theorem to find the length of the third side.    The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.    In this case, the hypotenuse is the unknown side, W, and the other two sides are 8 and 10.    So, we have W^2 = 8^2 + 10^2.    Simplifying this equation, we get W^2 = 64 + 100, which means W^2 = 164.    Taking the square root of both sides, we find that W = 12.    Therefore, the length of the third side, W, is 12.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle R S T.",
+    "choices": [
+        "55",
+        "70",
+        "75",
+        "80"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "XyAsQUSnSJ5p2HL8FGUhQ4",
+    "predicted_answer": "The triangle is a right triangle, so one of the angles is 90 degrees.    The other two angles are not 90 degrees, so they must be acute angles.    The sum of the angles in a triangle is 180 degrees, so the sum of the two acute angles is 180 - 90 = 90 degrees.    Since the two acute angles are equal, each one is 90/2 = 45 degrees.    Therefore, m \\angle R S T = 45 degrees.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Polygon A B C D \\sim polygon A E F G, m \\angle A G F = 108, G F = 14, A D = 12, D G = 4.5, E F = 8, and A B = 26. Find m \\angle A D C.",
+    "choices": [
+        "14",
+        "72",
+        "108",
+        "120"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "VfEptATdCVFnAUSWbkinNT",
+    "predicted_answer": "First, we know that the sum of the interior angles of a triangle is 180 degrees.    So, we can find the measure of angle A D C by subtracting the measures of angles A, D, and C from 180.    We know that angle A is 108 degrees, angle D is 12 degrees, and angle C is 26 degrees.    Therefore, the measure of angle A D C is 180 - 108 - 12 - 26 = 58 degrees.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "In the figure, m \\angle 3 = 110 and m \\angle 12 = 55. Find the measure of \\angle 1.",
+    "choices": [
+        "55",
+        "110",
+        "125",
+        "135"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "k8ivzaNx7qYDgHdVCkUNSB",
+    "predicted_answer": "We know that m \\angle 3 = 110 and m \\angle 12 = 55.    We can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of \\angle 1.    Since m \\angle 3 and m \\angle 12 are on opposite sides of the triangle, they are supplementary angles.    This means that their sum is 180 degrees.    So, we can write the equation:\n\n110 + 55 = 180\n\nSolving for m \\angle 1, we get:\n\nm \\angle 1 = 180 - 110 - 55\n\nm \\angle 1 = 45\n\nTherefore, the measure of \\angle 1 is 45 degrees.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "60",
+        "80",
+        "90",
+        "120"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "2VHBV6S8fPSJgPTq9BqMj3",
+    "predicted_answer": "The image shows a blue line with four blue x's on it. The x's are evenly spaced, and they are all at the same distance from the line. This suggests that the x's are at the same point on the line. Since the x's are evenly spaced, we can determine the distance between them by dividing the total distance from the line to the x's by the number of x's. In this case, there are four x's, so the distance between them is the total distance from the line to the x's divided by 4. Since the x's are at the same point on the line, the distance between them is the same as the distance from the line to the x's. Therefore, the distance between the x's is the same as the distance from the line to the x's. Since the x's are evenly spaced, we can determine the distance between them by dividing the total distance from the line to the x's by the number of x's. In this case, there are four x's, so the distance between them is the total distance from the line to the x's divided by 4. Since the x's are at the same point on the line, the distance between them is the same as the distance from the line to the x's. Therefore, the distance between the x's is the same as the distance from the line to the x's. Since the x's are evenly spaced, we can determine the distance between them by dividing the total distance from the line to the x's by the number of x's. In this case, there are four x's, so the distance between them is the total distance from the line to the x's divided by 4. Since the x's are at the same point on the line, the distance between them is the same as the distance from the line to the x's. Therefore, the distance between the x's is the same as the distance from the line to the x's. Since the x's are evenly spaced, we can determine the distance between them by dividing the total distance from the line to the x's by the number of x's. In this case, there are four x's, so the distance between them is the total distance from the line to the x's divided by 4. Since the x's are at the same point on the line, the distance between them is the same as the distance from the line to the x's. Therefore, the distance between the x's is the same as the distance from the line to",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find m \\angle 1.",
+    "choices": [
+        "39",
+        "84",
+        "108",
+        "129"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "Dz8pdgDn5bKk4Z8xDFtF38",
+    "predicted_answer": "The triangle is a right triangle, so we know that one of the angles is 90 degrees.    The other two angles are labeled as m and 1.    We can use the fact that the sum of the angles in a triangle is 180 degrees to find the value of m.    Since we know that one angle is 90 degrees, we can subtract that from 180 to find the sum of the other two angles.    180 - 90 = 90.    Now, we can divide 90 by 2 to find the value of m.    90 / 2 = 45.    Therefore, m = 45 degrees.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x. Round to the nearest tenth.",
+    "choices": [
+        "37.2",
+        "40.6",
+        "49.4",
+        "52.8"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "c5pAbYjWYQrLRz4mYJEH92",
+    "predicted_answer": "The triangle has a base of 22 and a height of 40.    The area of a triangle is given by the formula A = 1/2 * base * height.    Substituting the values, we get A = 1/2 * 22 * 40 = 440.    Now, we need to find x, which is the length of the other side of the triangle.    We can use the Pythagorean theorem to find x, which states that in a right triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.    In this case, the hypotenuse is x, and the other two sides are 22 and 40.    So, we have x^2 = 22^2 + 40^2.    Simplifying, we get x^2 = 484.    Taking the square root of both sides, we find x = 22.    Therefore, the correct answer is D. 52.8.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "4",
+        "4 \\sqrt { 2 }",
+        "4 \\sqrt { 3 }",
+        "8"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "MJtiQBx28o39C6jWRmpJ5i",
+    "predicted_answer": "We have a triangle with a 45\u00b0 angle and a 30\u00b0 angle.    The triangle has a side length of 8.    We need to find the length of the side opposite the 45\u00b0 angle.    We can use the sine function to solve this problem.    The sine of an angle in a right triangle is equal to the length of the side opposite the angle divided by the length of the hypotenuse.    In this case, the hypotenuse is the side length of 8.    So, we have sin(45\u00b0) = x/8.    Solving for x, we get x = 8 \\* sin(45\u00b0) = 8 \\* 0.707 = 5.66.    Therefore, the length of the side opposite the 45\u00b0 angle is approximately 5.66.    The correct answer is D. 8.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "M C = 7, R M = 4, and A T = 16. Find M B.",
+    "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "FD4mAQASAum4KSSeWXshGh",
+    "predicted_answer": "We know that M C = 7, R M = 4, and A T = 16.    We can use these values to find M B.    Since M C = 7, we can substitute this value into the equation M C = 7 to find M B.    M B = 7 - M C = 7 - 7 = 0.    Therefore, M B = 0.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find the value of the variable y in the figure.",
+    "choices": [
+        "10",
+        "20",
+        "30",
+        "70"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "TMkdcLacMETJt2Q4zaFgbF",
+    "predicted_answer": "The image shows a triangle with a blue line and a red arrow. The blue line is labeled with the equation \"3y + 40 = 70\". This equation represents the relationship between the variable y and the other values in the image. To find the value of y, we need to solve this equation. First, we can subtract 40 from both sides of the equation to isolate the term with y: \"3y = 70 - 40\". This simplifies to \"3y = 30\". Finally, we divide both sides of the equation by 3 to solve for y: \"y = 30/3\". This gives us the value of y as 10. Therefore, the correct answer is A. 10.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find y.",
+    "choices": [
+        "4",
+        "6",
+        "8",
+        "10"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "UP3pQEDPGXo4iXMAT4gJQR",
+    "predicted_answer": "We have a triangle with a 60\u00b0 angle and a 20\u00b0 angle.    The sum of the angles in a triangle is 180\u00b0.    So, the third angle is 180\u00b0 - 60\u00b0 - 20\u00b0 = 100\u00b0.    Since the triangle is isosceles, the two angles on the left are equal.    Let's call them x.    So, we have x + x + 100\u00b0 = 180\u00b0.    Simplifying, we get 2x + 100\u00b0 = 180\u00b0.    Subtracting 100\u00b0 from both sides, we get 2x = 80\u00b0.    Dividing both sides by 2, we get x = 40\u00b0.    Therefore, the answer is D. 10.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle W.",
+    "choices": [
+        "38",
+        "38",
+        "76",
+        "152"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "EoynC2FvvRkZutW6fYvmak",
+    "predicted_answer": "First, we need to find the value of x. We can do this by solving the equation x + 8 = 11. Subtracting 8 from both sides, we get x = 3. Now, we can find the value of y by substituting x = 3 into the equation y = 3x - 7. This gives us y = 3(3) - 7 = 6 - 7 = -1. Now, we can find the value of z by substituting x = 3 and y = -1 into the equation z = x + y. This gives us z = 3 + (-1) = 2. Finally, we can find the value of m by substituting x = 3, y = -1, and z = 2 into the equation m = x + y + z. This gives us m = 3 + (-1) + 2 = 4. Therefore, the correct answer is D. 152.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "A plane travels from Des Moines to Phoenix, on to Atlanta, and back to Des Moines, as shown below. Find the distance in miles from Phoenix to Atlanta if the total trip was 3482 miles.",
+    "choices": [
+        "53",
+        "73.8",
+        "110",
+        "1591"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "bM3JmZ8MEiNCeEfd7gyE29",
+    "predicted_answer": "First, we need to find the distance from Des Moines to Phoenix. The distance from Des Moines to Phoenix is 110 miles.    Next, we need to find the distance from Phoenix to Atlanta. The distance from Phoenix to Atlanta is 151 miles.    Finally, we need to find the distance from Atlanta back to Des Moines. The distance from Atlanta back to Des Moines is 91 miles.    Therefore, the total distance from Phoenix to Atlanta is the sum of these distances: 110 + 151 + 91 = 352 miles.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find m \\angle R.",
+    "choices": [
+        "29.1",
+        "43.7",
+        "54.8",
+        "56.1"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "LmdC4oTghF8aksvgqmt9aA",
+    "predicted_answer": "The triangle is a right triangle, so one of the angles is 90 degrees.    The other two angles are 18 and 23 degrees.    The sum of the angles in a triangle is 180 degrees.    So, the third angle is 180 - 90 - 18 - 23 = 37 degrees.    The angle opposite the side with length 37 is the angle we're looking for.    The side opposite the 37-degree angle is the hypotenuse, so we can use the sine function to find the angle.    sin(37) = opposite/hypotenuse, so sin(37) = 37/37 = 1.    Therefore, the angle is 37 degrees.    The answer is C. 54.8.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "In the figure, m \\angle 1 = 58, m \\angle 2 = 47, and m \\angle 3 = 26. Find the measure of \\angle 5.",
+    "choices": [
+        "43",
+        "47",
+        "58",
+        "73"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "2KKF4jT2Bnqz8kLaT9p5Wz",
+    "predicted_answer": "We know that the sum of the angles in a triangle is 180 degrees.    So, m \\angle 1 + m \\angle 2 + m \\angle 3 = 180.    Substituting the given values, we get 58 + 47 + 26 = 180.    Therefore, m \\angle 5 = 180 - 58 - 47 - 26 = 73.    So, the correct answer is D. 73.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "The diagonals of rhombus F G H J intersect at K. If G H = x + 9 and J H = 5 x - 2, find x.",
+    "choices": [
+        "2.75",
+        "3",
+        "5.5",
+        "9"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Rhombus"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "Sv5NjuBncDvoVoeY7HEJsW",
+    "predicted_answer": "First, we know that the diagonals of a rhombus intersect at K. So, we can write the equation:\n\nF G H J = K\n\nNext, we are given that G H = x + 9 and J H = 5 x - 2. Substituting these values into the equation, we get:\n\nF (5 x - 2) + 9 = K\n\nNow, we can solve for K:\n\n5F - 2 + 9 = K\n\n5F + 7 = K\n\nSince the diagonals of a rhombus are perpendicular bisectors of each other, we can also write:\n\nF G H J = K\n\nF (5 x - 2) + 9 = K\n\n5F - 2 + 9 = K\n\n5F + 7 = K\n\nNow, we can substitute the value of K from the first equation into the second equation:\n\n5F - 2 + 9 = 5F + 7\n\nSimplifying the equation, we get:\n\n7 = 7\n\nThis equation is always true, which means that the value of K can be any real number. Therefore, we cannot determine the exact value of x from the given information.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "3.4",
+        "7.0",
+        "8.1",
+        "9.3"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "VssFAzFjpaj3KPwBqxLZZK",
+    "predicted_answer": "The image shows a triangle with a blue line and a red dot. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of 17 degrees. The blue line has a length of 9.7 units. The red dot is located at the top of the triangle. The triangle is tilted at an angle of",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find the circumference of the figure. Round to the nearest tenth.",
+    "choices": [
+        "18.6",
+        "19.5",
+        "37.7",
+        "39.0"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "JNmU7c93x4Q8vjMeKeNX5c",
+    "predicted_answer": "The image shows a circle with a pink line that is 6.2 cm long. The line is drawn through the center of the circle. The circumference of a circle is calculated using the formula C = 2\u03c0r, where r is the radius of the circle. Since the line is the diameter of the circle, the radius is half of the diameter, which is 6.2/2 = 3.1 cm. Now, we can calculate the circumference: C = 2\u03c0(3.1) \u2248 19.5 cm. Therefore, the correct answer is B. 19.5.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "If m \\widehat F E = 118, m \\widehat A B = 108, m \\angle E G B = 52, and m \\angle E F B = 30, find m \\widehat C F.",
+    "choices": [
+        "30",
+        "44",
+        "108",
+        "118"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "hsVdfkbBAn24iHLBRcVMcK",
+    "predicted_answer": "We know that m \\angle E G B = 52, so m \\angle F B = 52.    Also, m \\angle E F B = 30, so m \\angle F B = 30.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle C F.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle C F = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle A B.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle A B = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle D B.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle D B = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle A D.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle A D = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle C D.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle C D = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle A C.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle A C = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find m \\angle D C.    Since m \\angle E F B = 30 and m \\angle F B = 30, we have m \\angle D C = 180 - 30 - 30 = 120 degrees.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Use a Pythagorean Triple to find x.",
+    "choices": [
+        "66",
+        "68",
+        "70",
+        "72"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "nnQtjunEPquHCwk8QrjqMC",
+    "predicted_answer": "The image shows a triangle with a side length of 74 and an angle of 24 degrees. We can use the Pythagorean Triple to find the length of the other two sides. The Pythagorean Triple consists of three positive integers a, b, and c, such that a^2 + b^2 = c^2. In this case, we can use the side lengths of the triangle to form a Pythagorean Triple. The side length of 74 can be one of the sides of the triangle, and the other two sides can be found using the Pythagorean Triple. The Pythagorean Triple for the triangle with side length 74 and angle 24 degrees is (74, 74, 74). Therefore, the other two sides of the triangle are 74 and 74.",
+    "extracted_answer": "The detailed answer provided doesn't make clear sense when referring to a Pythagorean Triple and doesn't logically lead to a valid triangle problem solution involving the given options. However, based on the information given and the choices provided, we might consider alternative simpler conclusions based on a pattern or an error in the detailed answer transcription.\n\nFrom the options and considering it might be just about picking the closest similar number relations:\n\nSince none of the steps logically lead to a clear triple or angles resolution typical to these types of problems, we take insight from the consistent number being used, 74, as a flawed or simplified representation leading us to check option structures rather than exact math logic if detailed answer processing makes error.\n\nIn observing just options close to context simplification, we break conventional solving and guess closer relations manually, the letter that fits for us among 66 (A), 68 (B), 70 (C), and 72 (D):\n\nThus, a possible misinterpreted right aim leads final letter being:\nD."
+},
+{
+    "problem_text": "Find the measure of \\angle C F D on \\odot F with diameter A C.",
+    "choices": [
+        "115",
+        "119",
+        "120",
+        "123"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "bPRtcMPCqNtvi7PckJPmFi",
+    "predicted_answer": "First, we need to find the measure of the angle C F D.    We can do this by using the fact that the sum of the measures of the angles in a triangle is 180 degrees.    Since we have a right triangle with one angle measuring 72 degrees and another angle measuring 4 degrees, we can find the measure of the third angle by subtracting the sum of the other two angles from 180 degrees.    So, the measure of the third angle is 180 - 72 - 4 = 104 degrees.    Now, we can use the fact that the measure of an angle in a right triangle is equal to the difference between 90 degrees and the measure of the other two angles.    So, the measure of the angle C F D is 90 - 72 - 4 = 14 degrees.    Therefore, the correct answer is D.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "J K L M is a rectangle. M L P R is a rhombus. \\angle J M K \\cong \\angle R M P, m \\angle J M K = 55, and m \\angle M R P = 70. Find m \\angle K L P.",
+    "choices": [
+        "20",
+        "110",
+        "140",
+        "160"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Rectangle",
+        "Rhombus"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "MEuEeuM3tRxxwADUucGqUH",
+    "predicted_answer": "We know that the sum of the interior angles of a rectangle is 360 degrees.    So, the sum of the interior angles of the rectangle is 360 degrees.    Since the rectangle has four angles, each angle is 360/4 = 90 degrees.    Therefore, the angles of the rectangle are 90, 90, 90, and 90 degrees.    Now, let's consider the rhombus.    A rhombus has four equal angles, so each angle is 90 degrees.    Since the rhombus has four angles, the sum of the interior angles of the rhombus is 360 degrees.    Therefore, the angles of the rhombus are 90, 90, 90, and 90 degrees.    Now, let's consider the relationship between the angles of the rectangle and the rhombus.    We know that the angles of the rectangle are 90, 90, 90, and 90 degrees.    We also know that the angles of the rhombus are 90, 90, 90, and 90 degrees.    Therefore, the angles of the rectangle and the rhombus are equal.    Since the angles of the rectangle are 90 degrees, the angles of the rhombus are also 90 degrees.    Therefore, the angles of the rectangle and the rhombus are 90, 90, 90, and 90 degrees.    Now, let's consider the relationship between the angles of the rectangle and the rhombus.    We know that the angles of the rectangle are 90 degrees, and the angles of the rhombus are 90 degrees.    Therefore, the angles of the rectangle and the rhombus are equal.    Since the angles of the rectangle are 90 degrees, the angles of the rhombus are also 90 degrees.    Therefore, the angles of the rectangle and the rhombus are 90, 90, 90, and 90 degrees.    Now, let's consider the relationship between the angles of the rectangle and the rhombus.    We know that the angles of the rectangle are 90 degrees, and the angles of the rhombus are 90 degrees.    Therefore, the angles of the rectangle and the rhombus are equal.    Since the angles of the rectangle are 90 degrees, the angles of the rhombus are also 90 degrees.    Therefore, the angles of the rectangle and the rhombus are 90, 90, 90, and 90 degrees.    Now, let's consider the relationship between the angles of the rectangle and the rhombus.    We know that the angles of",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find x. Round the angle measure to the nearest degree.",
+    "choices": [
+        "98",
+        "103",
+        "108",
+        "113"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "dfhPBuVzK6CsDqtEzRdufx",
+    "predicted_answer": "The triangle has a base of 29 and a height of 50. The angle measure is x. We can use the formula for the area of a triangle: A = 1/2 * base * height. Substituting the values, we get A = 1/2 * 29 * 50 = 725. The area of the triangle is 725. Now, we can use the formula for the area of a triangle to find x: A = 1/2 * base * height = 1/2 * 29 * 50 = 725. Solving for x, we get x = (2A) / base = (2 * 725) / 29 = 50. The angle measure is 50 degrees.",
+    "extracted_answer": "D. 113"
+},
+{
+    "problem_text": "Q is the centroid and B E = 9. Find B Q.",
+    "choices": [
+        "3",
+        "6",
+        "9",
+        "12"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "6W4im7PEyRpFbVjiPZG5r5",
+    "predicted_answer": "The centroid of a triangle is the point where the three medians intersect.    The median of a triangle is a line segment that connects a vertex to the midpoint of the opposite side.    In this case, the median of triangle ABC intersects the line segment BE at the centroid Q.    Since the median of triangle ABC intersects BE at Q, we can conclude that Q is the centroid of triangle ABC.    Therefore, the answer is C. 9.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "A B is a diameter, A C = 8 inches, and B C = 15 inches. Find the radius of the circle.",
+    "choices": [
+        "7.5",
+        "8",
+        "8.5",
+        "17"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "kij5BCfXfAws2dNFn8bxKH",
+    "predicted_answer": "First, we know that the diameter of a circle is twice the radius. So, if the diameter is 15 inches, the radius would be half of that, which is 7.5 inches.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find y.",
+    "choices": [
+        "\\frac { \\sqrt { 2 } } { 2 }",
+        "\\sqrt { 2 }",
+        "2 \\sqrt { 2 }",
+        "4 \\sqrt { 2 }"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "APDyotoo5zGPmgB5yb6Uzf",
+    "predicted_answer": "First, we need to find the length of the base of the triangle. The base is the line segment that connects the two points Z and X. We can see that the length of the base is 12 units.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "m is the perpendicular bisector of X Z, W Z = 14.9. Find W X.",
+    "choices": [
+        "7.45",
+        "14.9",
+        "22.4",
+        "25.3"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "n7wvTkLoxG7XF4vtzV9vvd",
+    "predicted_answer": "First, we know that m is the perpendicular bisector of X Z, W Z = 14.9. This means that m is the line that divides X Z into two equal parts and is perpendicular to both X and Z.    \n\nNext, we are given that W X = 7.45. This means that the length of the line segment W X is 7.45 units.    \n\nNow, we need to find the length of the line segment X Z. We can use the fact that W X = 7.45 and W Z = 14.9 to find X Z.    \n\nSince m is the perpendicular bisector of X Z, we can use the Pythagorean theorem to find X Z. The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.    \n\nIn this case, we have a right triangle with sides X Z and W Z, and the length of the hypotenuse is m.    \n\nUsing the Pythagorean theorem, we can write the equation:    \n\nX Z^2 + W Z^2 = m^2    \n\nSubstituting the values we know, we get:    \n\nX Z^2 + 14.9^2 = m^2    \n\nSince we know that W X = 7.45, we can also write the equation:    \n\nX Z = W X + W Z    \n\nSubstituting the values we know, we get:    \n\nX Z = 7.45 + 14.9    \n\nX Z = 22.4    \n\nNow, we can substitute the value of X Z into the equation we derived earlier:    \n\n22.4^2 + 14.9^2 = m^2    \n\n527.84 + 214.81 = m^2    \n\n843.65 = m^2    \n\nTaking the square root of both sides, we get:    \n\nm = \u221a843.65    \n\nm \u2248 29.8    \n\nTherefore, the length of the line segment X Z is approximately 29.8 units.    \n\nFinally, we can find W X by subtracting the length of X Z from the length of W Z:    \n\nW X = W Z - X",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Lines l, m, and n are perpendicular bisectors of \\triangle P Q R and meet at T. If T Q = 2 x, P T = 3 y - 1, and T R = 8, find z.",
+    "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "MnzSAJzho7Vpzm4FcB5KoA",
+    "predicted_answer": "First, we know that T Q = 2 x, so x = T Q / 2.    Next, we know that P T = 3 y - 1, so y = (P T + 1) / 3.    Finally, we know that T R = 8, so R = T R / 2.    Now, we can use these equations to find z.    Since T Q = 2 x, we have x = T Q / 2 = (T Q / 2) / 2 = T Q / 4.    Since P T = 3 y - 1, we have y = (P T + 1) / 3 = (3 y - 1 + 1) / 3 = 3 y / 3 = y.    Since T R = 8, we have R = T R / 2 = (T R / 2) / 2 = T R / 4.    Now, we can use the fact that T Q = 2 x to find z.    Since T Q = 2 x, we have x = T Q / 2 = (T Q / 2) / 2 = T Q / 4.    Since P T = 3 y - 1, we have y = (P T + 1) / 3 = (3 y - 1 + 1) / 3 = 3 y / 3 = y.    Since T R = 8, we have R = T R / 2 = (T R / 2) / 2 = T R / 4.    Now, we can use the fact that T Q = 2 x to find z.    Since T Q = 2 x, we have x = T Q / 2 = (T Q / 2) / 2 = T Q / 4.    Since P T = 3 y - 1, we have y = (P T + 1) / 3 = (3 y - 1 + 1) / 3 = 3 y / 3 = y.    Since T R = 8, we have R = T R / 2 = (T R / 2) / 2 = T R / 4.    Now, we can use the fact that T Q = 2 x to find z.    Since T Q = 2 x, we have x = T Q / 2 = (T Q / 2) / 2 = T Q / 4.    Since P T = 3 y - 1, we have y = (P T + 1) / 3 = (3 y - 1 + 1) / 3 = 3 y / 3 = y.    Since T R",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "If A B = 12, A C = 16, and E D = 5, find A E.",
+    "choices": [
+        "10",
+        "12",
+        "15",
+        "16"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Line",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "NJtJf5rx2BWzhQkcvXuVVq",
+    "predicted_answer": "We know that A B = 12 and A C = 16.    So, A + C = 28.    We also know that E D = 5.    Since A + C = 28, we can substitute A + C with 28 in the equation E D = 5.    This gives us E D = 28 - 5 = 23.    Now, we need to find A E.    Since A + C = 28, we can substitute A + C with 28 in the equation A E = 28 - E D.    This gives us A E = 28 - 23 = 5.    Therefore, the answer is A.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find m \\angle N C L.",
+    "choices": [
+        "60",
+        "120",
+        "240",
+        "360"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "TmNTkejKb9x9cDwLr3GAGV",
+    "predicted_answer": "The image shows a circle with a blue line going through the center. There are three points labeled as x, r, and m. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled as C. The blue line is labeled as L. The blue line is labeled as N. The blue line is labeled as R. The blue line is labeled",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find the measure of the altitude drawn to the hypotenuse.",
+    "choices": [
+        "2 \\sqrt { 3 }",
+        "2 \\sqrt { 6 }",
+        "4 \\sqrt { 3 }",
+        "4 \\sqrt { 6 }"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "8ecUxcMJ8ZkHmaaN8TChc4",
+    "predicted_answer": "We have a right triangle with a hypotenuse of length 16 and an altitude drawn to the hypotenuse.    The altitude is also the perpendicular bisector of the hypotenuse.    This means that the altitude divides the hypotenuse into two equal parts.    Since the hypotenuse is 16, the altitude is also 16.    Now, we need to find the measure of the altitude.    The altitude is the perpendicular distance from the right angle to the hypotenuse.    In a right triangle, the altitude is always the same as the length of the altitude.    Therefore, the measure of the altitude is 16.    The correct answer is D. 4 \\sqrt { 6 }.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "20",
+        "30",
+        "40",
+        "50"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "7ADXywbVqi2HibDzMNjwSM",
+    "predicted_answer": "We have a triangle with sides 3 in, 2x in, and 4y - 5 in.    We need to find the value of x.    To do this, we can use the fact that the sum of the angles in a triangle is 180 degrees.    Since we have one angle, we can find the other two angles by subtracting the known angle from 180 degrees.    Let's assume the angle opposite the side of length 3 in is A, and the angle opposite the side of length 4y - 5 in is B.    Then, we have:\n\n                  A + B + C = 180 degrees\n\n                  Since we know the length of one side (3 in) and the length of one angle (A), we can find the length of the other side (2x) and the length of the other angle (C) by using the fact that the sum of the lengths of the sides of a triangle is equal to the sum of the lengths of the angles.    So, we have:\n\n                  3 in + 2x + 4y - 5 in = 180 degrees\n\n                  Now, we can solve for x by isolating it on one side of the equation.    First, let's simplify the equation by combining like terms:\n\n                  2x + 4y = 185 degrees\n\n                  Next, let's isolate x by subtracting 4y from both sides of the equation:\n\n                  2x = 185 degrees - 4y\n\n                  Finally, let's divide both sides of the equation by 2 to solve for x:\n\n                  x = (185 degrees - 4y) / 2\n\n\n                  Now, we can substitute the value of x into the equation A + B + C = 180 degrees to find the value of C.    Since we know the length of one side (3 in) and the length of one angle (A), we can find the length of the other side (2x) and the length of the other angle (C) by using the fact that the sum of the lengths of the sides of a triangle is equal to the sum of the lengths of the angles.    So, we have:\n\n                  3 in + 2x + 4y - 5 in = 180 degrees\n\n                  Now, we can substitute the value of x into the equation:\n\n                  3 in + 2((185 degrees - 4y) / 2) + 4y - 5 in = 180 degrees\n\n                  Simplifying the equation, we get:\n\n                  3 in + 185 degrees - 4y",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "In rhombus L M P Q, m \\angle Q L M = 2 x^ { 2 } - 10, m \\angle Q P M = 8 x, and M P = 10. Find the perimeter of L M P Q.",
+    "choices": [
+        "10",
+        "40",
+        "70",
+        "140"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "EsqtHKA8crSrfe6JM3N76M",
+    "predicted_answer": "First, we need to find the length of the sides of the rhombus.    We know that the angles of a rhombus are all equal, so we can use the fact that the sum of the angles in a triangle is 180 degrees to find the measure of each angle.    Since there are four angles in a rhombus, we can divide 180 by 4 to find the measure of each angle.    We know that m \\angle Q L M = 2 x^ { 2 } - 10, so we can solve for x to find the measure of each angle.    We also know that m \\angle Q P M = 8 x, so we can solve for x to find the measure of each angle.    Finally, we know that M P = 10, so we can use the fact that the opposite angles in a rhombus are equal to find the measure of each angle.    Now that we know the measure of each angle, we can use the fact that the opposite sides of a rhombus are equal to find the length of each side.    We can use the fact that the sum of the angles in a triangle is 180 degrees to find the length of each side.    Now that we know the length of each side, we can use the fact that the perimeter of a rhombus is the sum of the lengths of its sides to find the perimeter of the rhombus.    Therefore, the perimeter of the rhombus is 10 + 10 + 10 + 10 = 40.    Therefore, the correct answer is B. 40.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find the area of the trapezoid.",
+    "choices": [
+        "506",
+        "667",
+        "678.5",
+        "851"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Trapezoid"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "er4baEzQPyfNpPMHkgMMFy",
+    "predicted_answer": "The image shows a trapezoid with a base of 27 feet and a height of 37 feet. The area of a trapezoid is calculated by multiplying the average of the two bases by the height. In this case, the average of the two bases is (27 + 37) / 2 = 34 feet. Therefore, the area of the trapezoid is 34 feet * 37 feet = 1258 square feet. The correct answer is not provided in the choices, so the correct answer is 1258 square feet.",
+    "extracted_answer": "None of the choices match the final answer given in the detailed explanation. Therefore, there is no letter answer corresponding to the given choices based on the detailed answer."
+},
+{
+    "problem_text": "Triangle L M N is equilateral, and M P bisects L N. Find the measure of the side of \\triangle L M N.",
+    "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "PNHHASfJpNJUKPDz4HXaNn",
+    "predicted_answer": "We know that the triangle is equilateral, which means all sides are equal.    We also know that M bisects L N, which means that the length of the side opposite M is half the length of the side opposite L.    Since the triangle is equilateral, the length of the side opposite M is also half the length of the side opposite L.    Therefore, the length of the side opposite M is half the length of the side opposite L, which is half the length of the side opposite N.    Since the triangle is equilateral, the length of the side opposite N is also half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite L, which is half the length of the side opposite M.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite L, which is half the length of the side opposite M.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite L, which is half the length of the side opposite M.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite N is half the length of the side opposite M, which is half the length of the side opposite L.    Therefore, the length of the side opposite",
+    "extracted_answer": "The detailed answer does not provide an informative response to solve the problem. It appears to be repetitive and doesn't lead to a clear solution for the length or any particular value from the given choices. However, given that we need to extract the final letter answer from the detailed answer, it is important to note that no explicit numeric solution is given.\n\nThus, without a clear logical solution or indication in the explanation, it remains ambiguous. If this is meant to be a trick question due to lack of coherent information, we might need additional context or correct information to find the appropriate letter corresponding to a value. However, strictly adhering to the text provided:\n\nThere is no direct final answer (A, B, C, or D) clearly stated.\n\nGiven this context, no specific letter answer can be confidently extracted from the provided detailed answer. But if it were a systematic error or repetitive content indicating C. 11 through previous repetitions or context slightly clearer:\n\nI cannot logically extract the correct A, B, C, or D answer from the text provided meaningfully."
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "3",
+        "4",
+        "6",
+        "7"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "MRyybgJTPtzfNUXGFyGx6A",
+    "predicted_answer": "We have a triangle with a base of 6x + 2 and a height of 8. The area of a triangle is given by the formula A = (1/2)bh, where b is the base and h is the height. In this case, the area is 10. So, we can set up the equation (1/2)(6x + 2)(8) = 10. Simplifying this equation, we get (6x + 2)(4) = 10. Expanding the left side of the equation, we get 24x + 8 = 10. Subtracting 8 from both sides, we get 24x = 2. Dividing both sides by 24, we get x = 1/12. Therefore, the correct answer is C. 6x + 2.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "parallelogram M N P Q with m \\angle M = 10 x and m \\angle N = 20 x, find \\angle M.",
+    "choices": [
+        "30",
+        "45",
+        "60",
+        "120"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "ntjhG53DyUbz2Qej7kurTv",
+    "predicted_answer": "We know that the sum of the interior angles of a quadrilateral is 360 degrees.    So, we can set up the equation: m \\angle M + m \\angle N + m \\angle P + m \\angle Q = 360.    Substituting the given values, we get: 10x + 20x + m \\angle P + m \\angle Q = 360.    Since we are looking for the value of m \\angle M, we can rearrange the equation to solve for it: m \\angle M = 360 - (10x + 20x + m \\angle P + m \\angle Q).    Now, we need to find the value of m \\angle P and m \\angle Q.    Since the sum of the interior angles of a triangle is 180 degrees, we can set up the equation: m \\angle P + m \\angle Q = 180 - m \\angle M.    Substituting the value of m \\angle M from the previous equation, we get: m \\angle P + m \\angle Q = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m \\angle Q)) = 180 - (360 - (10x + 20x + m \\angle P + m",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "If m \\angle 5 = 7 x - 5 and m \\angle 4 = 2 x + 23, find x.",
+    "choices": [
+        "5.6",
+        "18",
+        "20",
+        "22"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "gFoNe2vzy7vKP8Mb3qU9H2",
+    "predicted_answer": "We know that m \\angle 5 = 7 x - 5 and m \\angle 4 = 2 x + 23.    Since the angles are supplementary, we can set up the equation: 7x - 5 + 2x + 23 = 180.    Combining like terms, we get 9x + 18 = 180.    Subtracting 18 from both sides, we have 9x = 162.    Finally, dividing both sides by 9, we find x = 18.    Therefore, the correct answer is B. 18.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Use parallelogram M N P R to find m \\angle R M N.",
+    "choices": [
+        "33",
+        "38",
+        "71",
+        "109"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "VQuhEAFAUzCQCMtGaJYtdk",
+    "predicted_answer": "First, we need to find the value of m \\angle R M N. To do this, we can use the fact that the sum of the angles in a triangle is 180 degrees. Since we have a right triangle with one angle of 33 degrees and another angle of 38 degrees, we can find the third angle by subtracting the sum of the other two angles from 180 degrees. So, m \\angle R M N = 180 - (33 + 38) = 109 degrees.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle B.",
+    "choices": [
+        "29",
+        "58",
+        "61",
+        "122"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "mTaJ2qYWNyAFwozhqgVt7x",
+    "predicted_answer": "The image shows a circle with a point at the center, and a line segment AB that intersects the circle at a right angle. The angle formed by the intersection of AB and the circle is called the inscribed angle. The inscribed angle is equal to half the measure of the intercepted arc. In this case, the intercepted arc is a semicircle, so its measure is 180 degrees. Therefore, the inscribed angle is 180/2 = 90 degrees. Since the inscribed angle is a right angle, it is also 90 degrees. The inscribed angle is formed by the line segment AB and the radius of the circle. The radius is the distance from the center of the circle to the point where AB intersects the circle. The radius is also the length of the line segment AC, which is the length of the line segment from the center of the circle to the point where AB intersects the circle. The length of AC is equal to the length of the line segment AB. The length of AC is also equal to the length of the line segment BC, which is the length of the line segment from the point where AB intersects the circle to the point where BC intersects the circle. The length of BC is equal to the length of the line segment AB. The length of BC is also equal to the length of the line segment AC, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AB, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AC, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AB, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AC, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AB, which is the length of the line segment from the center of the circle to the point where BC intersects the circle. The length of BC is also equal to the length of the line segment AC, which is the",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "If \\triangle L M N \\sim \\triangle Q R S, Q R = 35, R S = 37, S Q = 12, and N L = 5, find the perimeter of \\triangle L M N.",
+    "choices": [
+        "35",
+        "42",
+        "63",
+        "84"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "WWPeTGCdinVayfLvaFhnc3",
+    "predicted_answer": "First, we know that the perimeter of a triangle is the sum of its three sides.    So, we need to find the lengths of the sides of \\triangle L M N.    We can use the given information to do this.    We know that Q R = 35, R S = 37, and S Q = 12.    We also know that N L = 5.    We can use these values to find the lengths of the sides of \\triangle L M N.    Let's start with the side opposite the angle N.    We know that N L = 5, so the length of this side is 5.    Next, we can use the fact that \\triangle L M N \\sim \\triangle Q R S to find the length of the side opposite the angle M.    We know that Q R = 35, so the length of this side is 35.    Finally, we can use the fact that S Q = 12 to find the length of the side opposite the angle S.    We know that S Q = 12, so the length of this side is 12.    Now that we have the lengths of all three sides, we can find the perimeter of \\triangle L M N by adding them together: 35 + 37 + 12 = 84.    Therefore, the perimeter of \\triangle L M N is 84.    The correct answer is D. 84.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "The two polygons are similar. Find U T.",
+    "choices": [
+        "12",
+        "20.5",
+        "22.5",
+        "35"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "GhXmeASaGQqUARG5hnKbd7",
+    "predicted_answer": "The two polygons are similar.    This means that their corresponding angles are equal and their corresponding sides are proportional.    We can use this information to find the ratio of the corresponding sides.    Let's say that the ratio of the corresponding sides is k.    Then, we can write the following equation:\n\n                  k = (length of side in polygon A) / (length of side in polygon B)\n\n                  We can use this equation to find the length of the side in polygon A.    Let's say that the length of the side in polygon B is x.    Then, we can write:\n\n                  k = (length of side in polygon A) / x\n\n                  Solving for the length of the side in polygon A, we get:\n\n                  length of side in polygon A = k * x\n\n                  Now, we can use the fact that the two polygons are similar to find the ratio of the corresponding angles.    Let's say that the ratio of the corresponding angles is m.    Then, we can write:\n\n                  m = (angle in polygon A) / (angle in polygon B)\n\n                  We can use this equation to find the angle in polygon A.    Let's say that the angle in polygon B is y.    Then, we can write:\n\n                  m = (angle in polygon A) / y\n\n                  Solving for the angle in polygon A, we get:\n\n                  angle in polygon A = m * y\n\n                  Now, we can use the fact that the two polygons are similar to find the ratio of the corresponding sides.    Let's say that the ratio of the corresponding sides is n.    Then, we can write:\n\n                  n = (length of side in polygon A) / (length of side in polygon B)\n\n                  We can use this equation to find the length of the side in polygon B.    Let's say that the length of the side in polygon A is x.    Then, we can write:\n\n                  n = x / (length of side in polygon B)\n\n                  Solving for the length of the side in polygon B, we get:\n\n                  length of side in polygon B = x / n\n\n                  Now, we can use the fact that the two polygons are similar to find the ratio of the corresponding angles.    Let's say that the ratio of the corresponding angles is p.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find m \\angle 6.",
+    "choices": [
+        "25",
+        "28",
+        "35",
+        "55"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "GE33RcZzgAg98WDw44DxPH",
+    "predicted_answer": "The triangle is a right triangle, so we know that one of the angles is 90 degrees.    The other two angles are 35 and 55 degrees.    The sum of the angles in a triangle is 180 degrees, so we can find the third angle by subtracting the sum of the other two angles from 180.    Therefore, the third angle is 180 - (35 + 55) = 180 - 90 = 90 degrees.    Since the triangle is a right triangle, the angle opposite the side with length 6 is 90 degrees.    Therefore, the angle opposite the side with length 6 is 90 degrees.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "\\odot P \\cong \\odot Q. Find x.",
+    "choices": [
+        "7",
+        "11",
+        "22",
+        "44"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "Dn76YqadtCsKBjws8GFuYk",
+    "predicted_answer": "The image shows two circles, one labeled P and the other labeled Q. The circles are intersecting at a point, and there's a line segment connecting the center of the circles. The line segment is labeled T. The image also contains some text that reads \"155\u00b0\", \"20\u00b0\", \"R\", \"R\", \"3x\", \"S\", \"7x-44\", and \"Q\". \n\nTo find the value of x, we need to use the properties of circles and angles. The fact that the line segment T is perpendicular to the line connecting the centers of the circles suggests that the angle formed by T and the line connecting the centers of the circles is 90\u00b0. \n\nSince the line segment T is labeled T, we can assume that it is the radius of the circle labeled P. The radius of the circle labeled Q is labeled 7x-44. \n\nNow, we can use the fact that the line segment T is perpendicular to the line connecting the centers of the circles to find the value of x. \n\nThe equation of a circle with center (h, k) and radius r is given by (x - h)^2 + (y - k)^2 = r^2. \n\nSince the line segment T is perpendicular to the line connecting the centers of the circles, we can write the equation of the circle labeled P as (x - h)^2 + (y - k)^2 = r^2, where h and k are the coordinates of the center of the circle labeled P, and r is the radius of the circle labeled P. \n\nSimilarly, the equation of the circle labeled Q is (x - h)^2 + (y - k)^2 = (7x-44)^2, where h and k are the coordinates of the center of the circle labeled Q, and (7x-44) is the radius of the circle labeled Q. \n\nSince the circles are intersecting at a point, we can set the equations of the circles equal to each other and solve for x. \n\n(x - h)^2 + (y - k)^2 = (7x-44)^2\n\nExpanding and simplifying the equation, we get:\n\nx^2 - 14xh + h^2 + y^2 - 2yk + k^2 = 7x^2 - 154x + 1936\n\nR",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "4 \\sqrt { 2 }",
+        "4 \\sqrt { 3 }",
+        "8",
+        "4 \\sqrt { 5 }"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "SBNDcGa7LaVNWBr4TuJZJ7",
+    "predicted_answer": "The image shows a triangle with a 45\u00b0 angle and a 4 on the right side. The triangle is labeled with x on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is labeled with a 45\u00b0 angle on the left side. The triangle is labeled with a 4 on the right side. The triangle is",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find Q P.",
+    "choices": [
+        "2",
+        "3.6",
+        "5",
+        "6"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "jVwD8UTeevsaSQ839YjYim",
+    "predicted_answer": "We know that the triangle is a right triangle, so we can use the Pythagorean theorem to find the length of the hypotenuse. The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. In this case, the hypotenuse is the line segment connecting Q and P, and the other two sides are the line segments connecting Q and M, and M and P. So, we can set up the equation:\n\nQ^2 + P^2 = M^2 + P^2\n\nSince we know that M = 6 and P = 3.6, we can substitute these values into the equation:\n\nQ^2 + (3.6)^2 = (6)^2 + (3.6)^2\n\nSimplifying the equation, we get:\n\nQ^2 + 12.96 = 36 + 12.96\n\nCombining like terms, we get:\n\nQ^2 + 12.96 = 48.96\n\nSubtracting 12.96 from both sides, we get:\n\nQ^2 = 36\n\nTaking the square root of both sides, we get:\n\nQ = 6\n\nTherefore, the length of the line segment connecting Q and P is 6.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "8 \\sqrt { 2 }",
+        "8 \\sqrt { 3 }",
+        "8 \\sqrt { 5 }",
+        "8 \\sqrt { 7 }"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "Qt6G44jarbEYNqBzqYkdSv",
+    "predicted_answer": "First, we need to find the length of the base of the triangle.    The base is 42 units long.    Next, we need to find the length of the altitude of the triangle.    The altitude is 38 units long.    Now, we can use the Pythagorean theorem to find the length of the hypotenuse of the triangle.    The Pythagorean theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides.    In this case, the hypotenuse is x, the base is 42, and the altitude is 38.    So, we have x^2 = 42^2 + 38^2.    Simplifying this equation, we get x^2 = 1764.    Taking the square root of both sides, we find that x = 12.    Therefore, the correct answer is D. 8 \\sqrt { 7 }.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "In rhombus A B C D, A B = 2 x + 3 and B C = 5 x. Find m \\angle A E B.",
+    "choices": [
+        "45",
+        "60",
+        "90",
+        "180"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Rhombus"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "QgSqY5wXuGDAFfoZsDGEoV",
+    "predicted_answer": "First, we need to find the length of the diagonal AC. We can use the Pythagorean theorem for this: AC^2 = AB^2 + BC^2.    Since AB = 2x + 3 and BC = 5x, we have AC^2 = (2x + 3)^2 + (5x)^2.    Simplifying this expression, we get AC^2 = 4x^2 + 12x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x^2 + 9x",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. If m \\widehat C D = 134, find m \\widehat C B.",
+    "choices": [
+        "24",
+        "33",
+        "67",
+        "134"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "HkDHT9fw79TNfBouN5KBym",
+    "predicted_answer": "First, we need to find the length of the chord C D. We know that the radius of the circle is 13 inches, so the diameter of the circle is 26 inches. The chord C D is 24 inches long, which means it is half the diameter of the circle. Therefore, the length of the chord C D is 12 inches.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Circles G, J, and K all intersect at L. If G H = 10, find F H.",
+    "choices": [
+        "5",
+        "10",
+        "20",
+        "25"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "YzWx64nrLY6XnofBKWsBAw",
+    "predicted_answer": "First, we know that G H = 10.    Since G, J, and K all intersect at L, we can deduce that the distance between G and L is equal to the distance between J and L.    This means that the distance between G and J is also equal to the distance between J and K.    Therefore, the distance between G and K is also equal to the distance between J and L.    Since the distance between G and J is equal to the distance between J and K, we can conclude that the distance between G and K is also equal to the distance between J and L.    This means that the distance between G and K is equal to the distance between J and L, which is equal to the distance between L and F.    Therefore, F H = 10.    The correct answer is A. 5.",
+    "extracted_answer": "A"
+},
+{
+    "problem_text": "Find the scale factor from W to W'.",
+    "choices": [
+        "\\frac { 1 } { 3 }",
+        "\\frac { 2 } { 3 }",
+        "\\frac { 3 } { 4 }",
+        "\\frac { 3 } { 2 }"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Ratio"
+    ],
+    "image_id": "9N8XsSWN3pSRGe2tzqeq2T",
+    "predicted_answer": "First, we need to find the length of the line segment W'W'. We can do this by using the Pythagorean theorem, which states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. In this case, the length of the line segment W'W' is the hypotenuse, and the lengths of the other two sides are the lengths of the line segments W and W'. So, we have:\n\n                  W'W'^2 = W^2 + W^2\n                  W'W'^2 = 2W^2\n                  W'W' = \\sqrt{2W^2}\n                  W'W' = \\sqrt{2 \\times W^2}\n                  W'W' = \\sqrt{2 \\times (12)^2}\n                  W'W' = \\sqrt{2 \\times 144}\n                  W'W' = \\sqrt{288}\n                  W'W' = 16.97 (rounded to two decimal places)\n\n                  Now that we have the length of the line segment W'W', we can find the scale factor by dividing the length of the line segment W'W' by the length of the line segment W. So, we have:\n\n                  \\frac{W'W'}{W} = \\frac{16.97}{12}\n                  \\frac{W'W'}{W} = 1.39 (rounded to two decimal places)\n\n                  Therefore, the scale factor from W to W' is approximately 1.39.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle R.",
+    "choices": [
+        "58",
+        "60",
+        "122",
+        "124"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Other"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "N4ud5y3idfEucApRKHwcEy",
+    "predicted_answer": "First, we need to find the value of x.    From the image, we can see that x = 2 + 5 = 7.    Now, we can use the fact that the sum of the angles in a triangle is 180 degrees to find the value of m \\angle R.    Since the triangle is an isosceles triangle, the two angles on the left side of the triangle are equal.    Therefore, m \\angle R = (180 - 2x - 5) / 2 = (180 - 2(7) - 5) / 2 = (180 - 14 - 5) / 2 = (161) / 2 = 80.5.    So, the correct answer is C. 122.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x so that the quadrilateral is a parallelogram.",
+    "choices": [
+        "3",
+        "5",
+        "12",
+        "18"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Parallelogram"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "6uz94kszbNUWbiQLvmyE3g",
+    "predicted_answer": "First, we need to find the value of x.    We know that the quadrilateral is a parallelogram, which means that the opposite sides are parallel and equal in length.    We also know that the sum of the interior angles of a quadrilateral is 360 degrees.    Since the quadrilateral is a parallelogram, the opposite angles are equal.    Therefore, we can set up the equation:\n\nx + 4 + 3x - 6 = 360\n\nCombining like terms, we get:\n\n4x - 2 = 360\n\nAdding 2 to both sides, we get:\n\n4x = 362\n\nDividing both sides by 4, we get:\n\nx = 91.5\n\nSo, the value of x is 91.5.",
+    "extracted_answer": "None of the provided choices correspond to the value of x, which is 91.5. Therefore, it appears that the detailed answer does not directly lead to one of the given choices (A, B, C, or D). Consequently, the correct letter answer is not present in the detailed answer provided."
+},
+{
+    "problem_text": "Express the ratio of \\cos B as a decimal to the nearest hundredth.",
+    "choices": [
+        "0.38",
+        "0.42",
+        "0.92",
+        "2.40"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle",
+        "Ratio"
+    ],
+    "image_id": "CPL9ZjizYrGL2bPBSxBxHE",
+    "predicted_answer": "The image shows a triangle with a side labeled A and a side labeled B. The triangle has a side labeled A with a length of 24 and a side labeled B with a length of 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is at the top of the triangle. The triangle is labeled with the numbers 10, 24, and 26. The angle labeled C is",
+    "extracted_answer": "C. "
+},
+{
+    "problem_text": "A B \\cong D F. Find x.",
+    "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "4yprPhPW4TDiJVBND8MwxA",
+    "predicted_answer": "We have a circle with a diameter of 14 units.    The circle is divided into four equal parts, with each part labeled A, B, C, and D.    The circle is also divided into two equal parts, with each part labeled E and F.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.    The circle has a diameter of 14 units, so the radius is 7 units.",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "In \\odot M, F L = 24, H J = 48, and m \\widehat H P = 65. Find F G.",
+    "choices": [
+        "24",
+        "32",
+        "48",
+        "65"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "RduVxE8AV8hDs7KLerNjA6",
+    "predicted_answer": "First, we know that F L = 24 and H J = 48.    We can use these values to find F G.    Since F L = 24 and F G = F L + H J, we have F G = 24 + 48 = 72.    Therefore, the correct answer is D. 65.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Line"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "4fDHb89jCqj6FY2wJssk9c",
+    "predicted_answer": "We have a triangle with two sides of length 2 and 3, and an angle of 4 degrees.    We can use the Law of Cosines to find the length of the third side.    The Law of Cosines states that c^2 = a^2 + b^2 - 2ab cos(C), where c is the length of the third side, a and b are the lengths of the other two sides, and C is the angle between them.    Plugging in the values we have, we get c^2 = 2^2 + 3^2 - 2(2)(3) cos(4).    Simplifying, we get c^2 = 13 - 12 cos(4).    We can use a calculator to find that cos(4) is approximately 0.8.    Plugging this into the equation, we get c^2 = 13 - 12(0.8) = 1.    Taking the square root of both sides, we get c = 1.    Therefore, the length of the third side is 1.    The answer is D.",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Find z.",
+    "choices": [
+        "10",
+        "\\frac { 32 } { 3 }",
+        "\\frac { 40 } { 3 }",
+        "\\frac { 50 } { 3 }"
+    ],
+    "answer": "C",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "DvjehShZTrhpUP4Ua2uAj9",
+    "predicted_answer": "First, we need to find the length of the base of the triangle.    The base is the line segment that connects the two points on the x-axis.    We can see that the x-axis is labeled with the numbers 6 and 8.    Therefore, the length of the base is 8 - 6 = 2 units.    Now, we can use the Pythagorean theorem to find the length of the hypotenuse, which is the line segment that connects the two points on the y-axis.    The Pythagorean theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides.    In this case, the hypotenuse is the line segment that connects the points (6, 8) and (8, z).    Therefore, we have:\n\n                  z^2 = (8 - 6)^2 + z^2\n\n                  Simplifying, we get:\n\n                  z^2 = 4 + z^2\n\n                  Subtracting z^2 from both sides, we get:\n\n                  0 = 4\n\n                  This is a contradiction, so there is no solution for z.    Therefore, the answer is D. \\frac { 50 } { 3 }.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "6",
+        "6.5",
+        "7",
+        "7.5"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "ELqpBwnJyP28ciFP2fwLzo",
+    "predicted_answer": "The image shows a circle with a blue line that is intersecting the circle at two points. The blue line is labeled with the numbers 4 and 9. The circle is divided into four equal sections, and the blue line is labeled with the numbers 4 and 9. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two points, and the numbers 4 and 9 are located at these points. The blue line is labeled with the numbers 4 and 9, and the circle is divided into four equal sections. The blue line intersects the circle at two",
+    "extracted_answer": "The final answer to the problem is based on the average of the two numbers, 4 and 9, which is (4 + 9) / 2 = 6.5.\n\nTherefore, the letter answer is B."
+},
+{
+    "problem_text": "In H, the diameter is 18, L M = 12, and m \\widehat L M = 84. Find H P. Round to the nearest hundredth.",
+    "choices": [
+        "2.29",
+        "3.35",
+        "5.65",
+        "6.71"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "ZEvNhHVPWhypzqXfd3AJXr",
+    "predicted_answer": "First, we know that the diameter of the circle is 18.    So, the radius is half of that, which is 9.    We also know that the length of the line segment LM is 12.    Since LM is a diameter, it is twice the radius, so LM = 2 \\* 9 = 18.    Now, we can use the Pythagorean theorem to find the length of the line segment H P.    The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.    In this case, the hypotenuse is H P, and the other two sides are LM and H.    So, we have H P^2 = LM^2 + H^2.    Substituting the values we know, we get H P^2 = 18^2 + H^2.    Since LM = 18, we can substitute that in and get H P^2 = 324 + H^2.    Now, we can use the fact that LM = 2 \\* 9 = 18 to substitute that in and get H P^2 = 324 + (2 \\* 9)^2.    Simplifying, we get H P^2 = 324 + 36 = 360.    Taking the square root of both sides, we get H P = \\sqrt{360} = 18.    Therefore, the length of the line segment H P is 18.",
+    "extracted_answer": "The detailed answer seems incorrect and does not correctly solve any right-triangle or circle-related problem to yield an answer that matches any of the given choice values. Based on the choices A (2.29), B (3.35), C (5.65), and D (6.71), and the calculation provided that concluded with 18 (which is incorrect given the choices), none of the choices fit.\n\nSince the final calculation produces 18 but the choices given do not include 18 and there seems to be a misunderstanding in the problem solution process, none of A, B, C, or D would be valid.\n\nThe specific letter answer cannot be extracted from an incorrect explanation if it's not inline with the problem statement and choices given. Therefore, there is no valid letter that corresponds to the provided calculation output."
+},
+{
+    "problem_text": "Find m \\angle 1.",
+    "choices": [
+        "21",
+        "27",
+        "52",
+        "79"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "HnB523N39SaykxfsMzsE6s",
+    "predicted_answer": "The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two lines.    The angle is 27 degrees.    The angle is the angle between the two lines.    The angle is 1 degree.    The angle is the angle between the two lines.    The angle is 52 degrees.    The angle is the angle between the two",
+    "extracted_answer": "C"
+},
+{
+    "problem_text": "Find x.",
+    "choices": [
+        "7",
+        "7 \\sqrt { 2 }",
+        "7 \\sqrt { 3 }",
+        "14"
+    ],
+    "answer": "D",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "oCDWmdQQjsi3WaZxJ2RVxv",
+    "predicted_answer": "We have a triangle with a 30\u00b0 angle and a 7\u00b0 angle.    The sum of the angles in a triangle is 180\u00b0.    So, the third angle is 180\u00b0 - 30\u00b0 - 7\u00b0 = 143\u00b0.    Since the triangle is isosceles, the two angles on the left are equal.    Let's call them x.    So, we have x + x + 143\u00b0 = 180\u00b0.    Simplifying, we get 2x + 143\u00b0 = 180\u00b0.    Subtracting 143\u00b0 from both sides, we get 2x = 37\u00b0.    Dividing both sides by 2, we get x = 18.5\u00b0.    Therefore, the answer is D. 14.",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find m \\angle 2.",
+    "choices": [
+        "39",
+        "42",
+        "48",
+        "51"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Rectangle",
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Angle"
+    ],
+    "image_id": "CKgupGiCYWLwnPyTAPZ6Ws",
+    "predicted_answer": "The triangle is a right triangle, so we know that one of the angles is 90 degrees.    We also know that the other two angles are 39 degrees and 3 degrees.    Therefore, the sum of the angles in a triangle is 180 degrees.    So, we can set up the equation: 90 + 39 + 3 = 180.    Solving for the missing angle, we get: 180 - 90 - 39 - 3 = 180 - 132 = 48.    Therefore, the missing angle is 48 degrees.    The correct answer is C. 48.",
+    "extracted_answer": "C"
+},
+
+]
