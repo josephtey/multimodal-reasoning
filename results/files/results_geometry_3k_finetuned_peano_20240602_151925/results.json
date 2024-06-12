@@ -1,0 +1,58 @@
+[
+{
+    "problem_text": "Find the area of the figure.",
+    "choices": [
+        "30",
+        "60",
+        "120",
+        "240"
+    ],
+    "answer": "B",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Area"
+    ],
+    "image_id": "ApCeUBCzABkj8JqtmqrUgJ",
+    "predicted_answer": "Let a be the length of the base of the triangle [[var a]]. We have [[eq a = 10]]. \n            Let b be the length of the other leg of the triangle [[var b]]. We have [[eq b = 13]]. \n            Let h be the height of the triangle [[var h]]. We have [[eq h = 10]]. \n            Let A be the area of the triangle [[var A]]. We have [[eq A = (1/2) * a * h]]. \n            Substituting the values of a and h into the equation for A, we get [[eq A = (1/2) * 10 * 10]]. \n            Simplifying, we get [[eq A = 50]]. \n            The answer is the value of A [[answer A]]. \n            Answer: B",
+    "extracted_answer": "B"
+},
+{
+    "problem_text": "Circle O has a radius of 13 inches. Radius O B is perpendicular to chord C D which is 24 inches long. Find O X.",
+    "choices": [
+        "5",
+        "12",
+        "13",
+        "26"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Circle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "hX7ABeotrk7MDSLPFyKB9N",
+    "predicted_answer": "Peano-style calculation:\n\n1. Let r be the radius of the circle [[var r]]. We have [[eq r = 13]].\n2. Let d be the length of the chord CD [[var d]]. We have [[eq d = 24]].\n3. Let x be the length of the perpendicular from O to CD [[var x]].\n4. Let y be the length of the segment from O to the point where the chord intersects the circle [[var y]].\n5. Since CD is a diameter of the circle, the length of CD is twice the radius. Therefore, we have [[eq d = 2r]].\n6. Using the Pythagorean theorem, we have [[eq x^2 + y^2 = d^2]].\n7. Substituting the values, we get [[eq x^2 + y^2 = (2r)^2]].\n8. Simplifying, we have [[eq x^2 + y^2 = 4r^2]].\n9. Substituting the value of r, we get [[eq x^2 + y^2 = 4(13)^2]].\n10. Simplifying, we get [[eq x^2 + y^2 = 4(169)]].\n11. Therefore, [[eq x^2 + y^2 = 676]].\n12. Since x is the length of the perpendicular from O to CD, we have [[eq x = sqrt(676)]].\n13. Simplifying, we get [[eq x = 26]].\n\nThe answer is the value of x [[answer x]].\n\nAnswer: D",
+    "extracted_answer": "D"
+},
+{
+    "problem_text": "Find x. Round to the nearest tenth.",
+    "choices": [
+        "18.8",
+        "23.2",
+        "25.9",
+        "44.0"
+    ],
+    "answer": "A",
+    "problem_type_graph": [
+        "Triangle"
+    ],
+    "problem_type_goal": [
+        "Length"
+    ],
+    "image_id": "BWCA6Gyt4V43zDsXgcpHLF",
+    "predicted_answer": "Peano-style calculation:\n\n1. Let a be the length of the side opposite the 54\u00b0 angle [[var a]]. We have [[eq a = x]].\n2. Let b be the length of the side adjacent to the 54\u00b0 angle [[var b]]. We have [[eq b = 32]].\n3. Let c be the length of the hypotenuse of the right triangle [[var c]]. We have [[eq c = x]].\n4. Use the trigonometric function sine to find the length of the side opposite the 54\u00b0 angle [[eq sin(54\u00b0) = a/c]].\n5. Substitute the values of a and c into the equation [[eq sin(54\u00b0) = x/x]].\n6. Simplify the equation [[eq sin(54\u00b0) = 1]].\n7. Solve for x [[eq x = sin(54\u00b0)]].\n8. Use a calculator to find the value of sin(54\u00b0) [[eq x = 0.6]].\n9. Round x to the nearest tenth [[eq x = 0.6]].\n\nThe answer is the value of x [[answer x = 0.6]].\n\nAnswer: C",
+    "extracted_answer": "C"
+},
